@@ -1,5 +1,7 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/PushNotificationXamrin.iOS.exe
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/PushNotificationXamrin.iOS.pdb
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
@@ -55,3 +57,6 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhoneSimulator/Debug/PushNotificationXamrin.iOS.csproj.CopyComplete
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhoneSimulator/Debug/PushNotificationXamrin.iOS.exe
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhoneSimulator/Debug/PushNotificationXamrin.iOS.pdb
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Firebase.CloudMessaging.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Firebase.Core.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhoneSimulator/Debug/Firebase.InstanceID.dll

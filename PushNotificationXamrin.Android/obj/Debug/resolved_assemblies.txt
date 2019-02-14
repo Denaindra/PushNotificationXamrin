@@ -3,6 +3,7 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/PushNotificationXamrin.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/System.Core.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/System.dll

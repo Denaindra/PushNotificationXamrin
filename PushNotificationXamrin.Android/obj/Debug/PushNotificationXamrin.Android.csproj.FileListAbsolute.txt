@@ -31,13 +31,13 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/R.cs.flag
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/R.txt
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/uploadflags.txt
-/Users/gadperera/.nuget/packages/xamarin.forms/3.1.0.697729/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/gadperera/.nuget/packages/xamarin.forms/3.1.0.697729/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/bin/Debug/Mono.Android.pdb
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/bin/Debug/Newtonsoft.Json.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/PushNotificationXamrin.Android.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/PushNotificationXamrin.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb

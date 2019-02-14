@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "PushNotificationXamrin.Android.dll" comes first in this list. */
 		"PushNotificationXamrin.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"PushNotificationXamrin.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

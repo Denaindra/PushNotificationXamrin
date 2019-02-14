@@ -1,7 +1,6 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/bin/Debug/netstandard2.0/PushNotificationXamrin.deps.json
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/bin/Debug/netstandard2.0/PushNotificationXamrin.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/bin/Debug/netstandard2.0/PushNotificationXamrin.pdb
-/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/obj/Debug/netstandard2.0/PushNotificationXamrin.csprojAssemblyReference.cache
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/obj/Debug/netstandard2.0/PushNotificationXamrin.csproj.CoreCompileInputs.cache

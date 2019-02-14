@@ -1,0 +1,61 @@
+Function=xamarin_timezone_get_data
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessagingMessageInfo
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingConnectionStateChangedNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingMessagesDeletedNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingRegistrationTokenRefreshedNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingSendErrorNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingSendSuccessNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessaging
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessagingRemoteMessage
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=kFIRInstanceIDScopeFirebaseMessaging
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.InstanceID.dll
+Field=kFIRInstanceIDTokenRefreshNotification
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstanceID
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAnalyticsConfiguration
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAnalytics
+	/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/mtouch-cache/1-Link/Firebase.Analytics.dll
+Function=mono_pmip

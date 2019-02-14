@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{0820E8DD-A128-4124-BAF5-F8ABF6E54833}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PushNotificationXamrin.iOS/Entitlements.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PushNotificationXamrin Status">
     <Files>
-      <File FileName="PushNotificationXamrin/MainPage.xaml" Line="7" Column="15" />
-      <File FileName="PushNotificationXamrin.iOS/Info.plist" />
-      <File FileName="PushNotificationXamrin.iOS/Entitlements.plist" />
+      <File FileName="PushNotificationXamrin.iOS/AppDelegate.cs" Line="42" Column="14" />
+      <File FileName="PushNotificationXamrin Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PushNotificationXamrin.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/AppDelegate.cs" relfile="PushNotificationXamrin.iOS/AppDelegate.cs" line="25" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/AppDelegate.cs" relfile="PushNotificationXamrin.iOS/AppDelegate.cs" line="30" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/AppDelegate.cs" relfile="PushNotificationXamrin.iOS/AppDelegate.cs" line="44" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/AppDelegate.cs" relfile="PushNotificationXamrin.iOS/AppDelegate.cs" line="49" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/AppDelegate.cs" relfile="PushNotificationXamrin.iOS/AppDelegate.cs" line="55" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PushNotificationXamrin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D2BEFE88-96AA-4206-BA36-9CB9981D9B32" automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.PushNotificationXamrin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.e65f829a424833661969dbf4e26d83a39224e227" automaticSigning="False" />
 </Properties>
