@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0820E8DD-A128-4124-BAF5-F8ABF6E54833}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PushNotificationXamrin/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PushNotificationXamrin.iOS/Info.plist">
     <Files>
-      <File FileName="PushNotificationXamrin.iOS/AppDelegate.cs" Line="49" Column="1" />
-      <File FileName="PushNotificationXamrin/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="PushNotificationXamrin/App.xaml.cs" Line="18" Column="39" />
+      <File FileName="PushNotificationXamrin.iOS/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PushNotificationXamrin.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
