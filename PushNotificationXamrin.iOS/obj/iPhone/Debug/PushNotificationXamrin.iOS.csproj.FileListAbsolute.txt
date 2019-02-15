@@ -66,3 +66,9 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/XbdMerge/Firebase.Analytics.dll.stamp
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/XbdMerge/Firebase.CloudMessaging.dll.stamp
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/obj/iPhone/Debug/device-builds/iphone10.6-11.2.1/optimized/GoogleService-Info.plist
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.Analytics.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.Crashes.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.iOS/bin/iPhone/Debug/Microsoft.AppCenter.Crashes.iOS.Bindings.dll

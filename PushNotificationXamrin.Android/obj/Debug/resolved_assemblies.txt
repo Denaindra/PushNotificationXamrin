@@ -1,6 +1,12 @@
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/PushNotificationXamrin.Android.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/FormsViewGroup.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.Analytics.Android.Bindings.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.Analytics.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.Android.Bindings.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.Crashes.Android.Bindings.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.Crashes.dll
+/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Microsoft.AppCenter.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin.Android/obj/Debug/android/assets/Newtonsoft.Json.dll

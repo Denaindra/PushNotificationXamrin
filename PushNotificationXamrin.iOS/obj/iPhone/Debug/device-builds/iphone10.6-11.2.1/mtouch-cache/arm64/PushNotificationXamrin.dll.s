@@ -122,7 +122,7 @@ jit_code_start:
 	.no_dead_strip PushNotificationXamrin_App__ctor
 PushNotificationXamrin_App__ctor:
 .file 1 "/Users/gadperera/Projects/PushNotificationXamrin/PushNotificationXamrin/App.xaml.cs"
-.loc 1 10 0 prologue_end
+.loc 1 14 0 prologue_end
 .word 0xa9bc7bfd
 .word 0x910003fd
 .word 0xf9000bba
@@ -153,12 +153,12 @@ bl _p_1
 .word 0xf9407231
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 11 0
+.loc 1 15 0
 .word 0xf9400fb1
 .word 0xf9408231
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 12 0
+.loc 1 16 0
 .word 0xf9400fb1
 .word 0xf9409231
 .word 0xb4000051
@@ -170,7 +170,7 @@ bl _p_2
 .word 0xf940ae31
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 14 0
+.loc 1 18 0
 .word 0xf9400fb1
 .word 0xf940be31
 .word 0xb4000051
@@ -196,7 +196,7 @@ bl _p_5
 .word 0xf9410e31
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 15 0
+.loc 1 19 0
 .word 0xf9400fb1
 .word 0xf9411e31
 .word 0xb4000051
@@ -215,40 +215,95 @@ Lme_0:
 	.align 4
 	.no_dead_strip PushNotificationXamrin_App_OnStart
 PushNotificationXamrin_App_OnStart:
-.loc 1 18 0 prologue_end
-.word 0xa9bd7bfd
+.loc 1 22 0 prologue_end
+.word 0xa9ba7bfd
 .word 0x910003fd
-.word 0xf9000ba0
+.word 0xa9016bb9
+.word 0xf90013a0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #216]
-.word 0xf9000fb0
+.word 0xf90017b0
 .word 0xf9400a11
-.word 0xf90013b1
-.word 0xf9400fb1
-.word 0xf9403231
+.word 0xf9001bb1
+.word 0xf94017b1
+.word 0xf9403631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xf94013b1
+.word 0xf9401bb1
 .word 0xf9400231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xf9400fb1
-.word 0xf9405231
+.word 0xf94017b1
+.word 0xf9405631
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 20 0
-.word 0xf9400fb1
-.word 0xf9406231
+.loc 1 24 0
+.word 0xf94017b1
+.word 0xf9406631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xf9400fb1
-.word 0xf9407231
+
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x0, [x16, #224]
+.word 0xf90023a0
+.word 0xd2800040
+
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x0, [x16, #232]
+.word 0xd2800041
+bl _p_6
+.word 0xaa0003fa
+.word 0xaa1a03e0
+.word 0xf9002ba0
+.word 0xaa1a03e0
+.word 0xd2800000
+
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x2, [x16, #240]
+.word 0xaa1a03e0
+.word 0xd2800001
+.word 0xf9400343
+.word 0xf9408070
+.word 0xd63f0200
+.word 0xf9402ba0
+.word 0xaa0003f9
+.word 0xaa1903e0
+.word 0xf90027a0
+.word 0xaa1903e0
+.word 0xd2800020
+
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x2, [x16, #248]
+.word 0xaa1903e0
+.word 0xd2800021
+.word 0xf9400323
+.word 0xf9408070
+.word 0xd63f0200
+.word 0xf94023a0
+.word 0xf94027a1
+bl _p_7
+.word 0xf94017b1
+.word 0xf9411631
 .word 0xb4000051
 .word 0xd63f0220
+.loc 1 28 0
+.word 0xf94017b1
+.word 0xf9412631
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf94017b1
+.word 0xf9413631
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xa9416bb9
 .word 0x910003bf
-.word 0xa8c37bfd
+.word 0xa8c67bfd
 .word 0xd65f03c0
 
 Lme_1:
@@ -256,14 +311,14 @@ Lme_1:
 	.align 4
 	.no_dead_strip PushNotificationXamrin_App_OnSleep
 PushNotificationXamrin_App_OnSleep:
-.loc 1 23 0 prologue_end
+.loc 1 31 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
 .word 0xf9000ba0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #224]
+ldr x16, [x16, #256]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -279,7 +334,7 @@ ldr x16, [x16, #224]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 25 0
+.loc 1 33 0
 .word 0xf9400fb1
 .word 0xf9406231
 .word 0xb4000051
@@ -297,14 +352,14 @@ Lme_2:
 	.align 4
 	.no_dead_strip PushNotificationXamrin_App_OnResume
 PushNotificationXamrin_App_OnResume:
-.loc 1 28 0 prologue_end
+.loc 1 36 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
 .word 0xf9000ba0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #232]
+ldr x16, [x16, #264]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -320,7 +375,7 @@ ldr x16, [x16, #232]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.loc 1 30 0
+.loc 1 38 0
 .word 0xf9400fb1
 .word 0xf9406231
 .word 0xb4000051
@@ -348,7 +403,7 @@ PushNotificationXamrin_App_InitializeComponent:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #240]
+ldr x16, [x16, #272]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -371,7 +426,7 @@ ldr x16, [x16, #240]
 .word 0xf9407231
 .word 0xb4000051
 .word 0xd63f0220
-bl _p_6
+bl _p_8
 .word 0xf90023a0
 .word 0xf94017b1
 .word 0xf9408a31
@@ -379,7 +434,7 @@ bl _p_6
 .word 0xd63f0220
 .word 0xf94023a0
 .word 0xb40007c0
-bl _p_6
+bl _p_8
 .word 0xf9002fa0
 .word 0xf94017b1
 .word 0xf940aa31
@@ -388,9 +443,9 @@ bl _p_6
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #248]
+ldr x0, [x16, #280]
 .loc 2 22 0
-bl _p_7
+bl _p_9
 .word 0xf90037a0
 .word 0xf94017b1
 .word 0xf940ce31
@@ -421,7 +476,7 @@ bl _p_7
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x2, [x16, #256]
+ldr x2, [x16, #288]
 .word 0xaa0303e0
 .word 0xf90027a3
 .word 0xf9400c70
@@ -437,13 +492,13 @@ ldr x2, [x16, #256]
 .word 0xb4000120
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_8
+bl _p_10
 .word 0xf94017b1
 .word 0xf9418231
 .word 0xb4000051
 .word 0xd63f0220
 .word 0x14000047
-bl _p_9
+bl _p_11
 .word 0xf90023a0
 .word 0xf94017b1
 .word 0xf9419e31
@@ -451,7 +506,7 @@ bl _p_9
 .word 0xd63f0220
 .word 0xf94023a0
 .word 0xb40004c0
-bl _p_9
+bl _p_11
 .word 0xf9002fa0
 .word 0xf94017b1
 .word 0xf941be31
@@ -482,7 +537,7 @@ bl _p_9
 .word 0xb4000120
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_8
+bl _p_10
 .word 0xf94017b1
 .word 0xf9423631
 .word 0xb4000051
@@ -493,12 +548,12 @@ bl _p_8
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #264]
+ldr x0, [x16, #296]
 .word 0xd2800301
 .word 0xd2800301
 bl _p_3
 .word 0xf90023a0
-bl _p_10
+bl _p_12
 .word 0xf94017b1
 .word 0xf9427231
 .word 0xb4000051
@@ -509,7 +564,7 @@ bl _p_10
 .word 0xaa1803e0
 .word 0xaa1a03e0
 .word 0xaa1803e1
-bl _p_11
+bl _p_13
 .word 0xf94017b1
 .word 0xf9429e31
 .word 0xb4000051
@@ -535,7 +590,7 @@ PushNotificationXamrin_App___InitComponentRuntime:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #272]
+ldr x16, [x16, #304]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -547,12 +602,12 @@ ldr x16, [x16, #272]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x1, [x16, #248]
+ldr x1, [x16, #280]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x15, [x16, #280]
-bl _p_12
+ldr x15, [x16, #312]
+bl _p_14
 .word 0xf9400fb1
 .word 0xf9406231
 .word 0xb4000051
@@ -579,7 +634,7 @@ PushNotificationXamrin_MainPage__ctor:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #288]
+ldr x16, [x16, #320]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -597,7 +652,7 @@ ldr x16, [x16, #288]
 .word 0xd63f0220
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_13
+bl _p_15
 .word 0xf9400fb1
 .word 0xf9407231
 .word 0xb4000051
@@ -614,7 +669,7 @@ bl _p_13
 .word 0xd63f0220
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_14
+bl _p_16
 .word 0xf9400fb1
 .word 0xf940ae31
 .word 0xb4000051
@@ -649,7 +704,7 @@ PushNotificationXamrin_MainPage_InitializeComponent:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #296]
+ldr x16, [x16, #328]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -674,7 +729,7 @@ ldr x16, [x16, #296]
 .word 0xf9407e31
 .word 0xb4000051
 .word 0xd63f0220
-bl _p_6
+bl _p_8
 .word 0xf90033a0
 .word 0xf9401fb1
 .word 0xf9409631
@@ -682,7 +737,7 @@ bl _p_6
 .word 0xd63f0220
 .word 0xf94033a0
 .word 0xb40007c0
-bl _p_6
+bl _p_8
 .word 0xf9003fa0
 .word 0xf9401fb1
 .word 0xf940b631
@@ -691,9 +746,9 @@ bl _p_6
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #304]
+ldr x0, [x16, #336]
 .loc 4 22 0
-bl _p_7
+bl _p_9
 .word 0xf90047a0
 .word 0xf9401fb1
 .word 0xf940da31
@@ -724,7 +779,7 @@ bl _p_7
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x2, [x16, #312]
+ldr x2, [x16, #344]
 .word 0xaa0303e0
 .word 0xf90037a3
 .word 0xf9400c70
@@ -740,13 +795,13 @@ ldr x2, [x16, #312]
 .word 0xb4000120
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_15
+bl _p_17
 .word 0xf9401fb1
 .word 0xf9418e31
 .word 0xb4000051
 .word 0xd63f0220
 .word 0x140000e7
-bl _p_9
+bl _p_11
 .word 0xf90033a0
 .word 0xf9401fb1
 .word 0xf941aa31
@@ -754,7 +809,7 @@ bl _p_9
 .word 0xd63f0220
 .word 0xf94033a0
 .word 0xb40004c0
-bl _p_9
+bl _p_11
 .word 0xf9003fa0
 .word 0xf9401fb1
 .word 0xf941ca31
@@ -785,7 +840,7 @@ bl _p_9
 .word 0xb4000120
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_15
+bl _p_17
 .word 0xf9401fb1
 .word 0xf9424231
 .word 0xb4000051
@@ -794,12 +849,12 @@ bl _p_15
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #320]
+ldr x0, [x16, #352]
 .word 0xd2802f01
 .word 0xd2802f01
 bl _p_3
 .word 0xf9004fa0
-bl _p_16
+bl _p_18
 .word 0xf9401fb1
 .word 0xf9427631
 .word 0xb4000051
@@ -809,12 +864,12 @@ bl _p_16
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #328]
+ldr x0, [x16, #360]
 .word 0xd2803701
 .word 0xd2803701
 bl _p_3
 .word 0xf9004ba0
-bl _p_17
+bl _p_19
 .word 0xf9401fb1
 .word 0xf942ae31
 .word 0xb4000051
@@ -826,12 +881,12 @@ bl _p_17
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #264]
+ldr x0, [x16, #296]
 .word 0xd2800301
 .word 0xd2800301
 bl _p_3
 .word 0xf90047a0
-bl _p_10
+bl _p_12
 .word 0xf9401fb1
 .word 0xf942ee31
 .word 0xb4000051
@@ -842,21 +897,21 @@ bl _p_10
 .word 0xaa1603e0
 .word 0xaa1a03e0
 .word 0xaa1603e1
-bl _p_11
+bl _p_13
 .word 0xf9401fb1
 .word 0xf9431a31
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xaa1803e0
 .word 0xaa1603e1
-bl _p_11
+bl _p_13
 .word 0xf9401fb1
 .word 0xf9433631
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xaa1903e0
 .word 0xaa1603e1
-bl _p_11
+bl _p_13
 .word 0xf9401fb1
 .word 0xf9435231
 .word 0xb4000051
@@ -865,15 +920,15 @@ bl _p_11
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #336]
+ldr x0, [x16, #368]
 .word 0xf9400001
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x2, [x16, #344]
+ldr x2, [x16, #376]
 .word 0xaa0303e0
 .word 0x3940007e
-bl _p_18
+bl _p_20
 .word 0xf9401fb1
 .word 0xf9438e31
 .word 0xb4000051
@@ -883,20 +938,20 @@ bl _p_18
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #352]
+ldr x0, [x16, #384]
 .word 0xf9400000
 .word 0xf9003fa0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #360]
+ldr x0, [x16, #392]
 .word 0x910163a1
 .word 0xb9800000
 .word 0xb9005ba0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #368]
+ldr x0, [x16, #400]
 .word 0xd2800281
 .word 0xd2800281
 bl _p_3
@@ -909,7 +964,7 @@ bl _p_3
 .word 0xb9000004
 .word 0xaa0303e0
 .word 0x3940007e
-bl _p_18
+bl _p_20
 .word 0xf9401fb1
 .word 0xf9441231
 .word 0xb4000051
@@ -919,20 +974,20 @@ bl _p_18
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #376]
+ldr x0, [x16, #408]
 .word 0xf9400000
 .word 0xf90037a0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #384]
+ldr x0, [x16, #416]
 .word 0x910143a1
 .word 0xb9800000
 .word 0xb90053a0
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #368]
+ldr x0, [x16, #400]
 .word 0xd2800281
 .word 0xd2800281
 bl _p_3
@@ -945,7 +1000,7 @@ bl _p_3
 .word 0xb9000004
 .word 0xaa0303e0
 .word 0x3940007e
-bl _p_18
+bl _p_20
 .word 0xf9401fb1
 .word 0xf9449631
 .word 0xb4000051
@@ -953,7 +1008,7 @@ bl _p_18
 .word 0xaa1803e1
 .word 0xaa0103e0
 .word 0x3940003e
-bl _p_19
+bl _p_21
 .word 0xf90033a0
 .word 0xf9401fb1
 .word 0xf944ba31
@@ -966,7 +1021,7 @@ bl _p_19
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x15, [x16, #392]
+ldr x15, [x16, #424]
 .word 0x928002f0
 .word 0xf2bffff0
 .word 0xf8706850
@@ -979,12 +1034,12 @@ ldr x15, [x16, #392]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #400]
+ldr x0, [x16, #432]
 .word 0xf9400001
 .word 0xaa1803e2
 .word 0xaa1a03e0
 .word 0x3940035e
-bl _p_18
+bl _p_20
 .word 0xf9401fb1
 .word 0xf9452a31
 .word 0xb4000051
@@ -1011,7 +1066,7 @@ PushNotificationXamrin_MainPage___InitComponentRuntime:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #408]
+ldr x16, [x16, #440]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -1023,12 +1078,12 @@ ldr x16, [x16, #408]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x1, [x16, #304]
+ldr x1, [x16, #336]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x15, [x16, #416]
-bl _p_20
+ldr x15, [x16, #448]
+bl _p_22
 .word 0xf9400fb1
 .word 0xf9406231
 .word 0xb4000051
@@ -1058,7 +1113,7 @@ wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_stri
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #424]
+ldr x16, [x16, #456]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -1075,17 +1130,17 @@ ldr x16, [x16, #424]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #432]
+ldr x0, [x16, #464]
 .word 0xb9400000
 .word 0x34000140
-bl _p_21
+bl _p_23
 .word 0xf9003ba0
 .word 0xf9403ba1
 .word 0xf9403ba0
 .word 0xf9003fa1
 .word 0xb4000060
 .word 0xf9403fa0
-bl _p_22
+bl _p_24
 .word 0xf9403fa0
 .word 0xaa1803e0
 .word 0xaa1803e0
@@ -1186,7 +1241,7 @@ bl _p_22
 .word 0xd65f03c0
 .word 0xd2801ea0
 .word 0xaa1103e1
-bl _p_23
+bl _p_25
 
 Lme_a:
 .text
@@ -1204,7 +1259,7 @@ wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #440]
+ldr x16, [x16, #472]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -1221,17 +1276,17 @@ ldr x16, [x16, #440]
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #432]
+ldr x0, [x16, #464]
 .word 0xb9400000
 .word 0x34000140
-bl _p_21
+bl _p_23
 .word 0xf90037a0
 .word 0xf94037a1
 .word 0xf94037a0
 .word 0xf9003ba1
 .word 0xb4000060
 .word 0xf9403ba0
-bl _p_22
+bl _p_24
 .word 0xf9403ba0
 .word 0xaa1903e0
 .word 0xaa1903e0
@@ -1327,7 +1382,7 @@ bl _p_22
 .word 0xd65f03c0
 .word 0xd2801ea0
 .word 0xaa1103e1
-bl _p_23
+bl _p_25
 
 Lme_b:
 .text
@@ -1344,7 +1399,7 @@ System_Array_InternalArray__IEnumerable_GetEnumerator_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #448]
+ldr x16, [x16, #480]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -1375,12 +1430,12 @@ ldr x16, [x16, #448]
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_24
+bl _p_26
 .word 0x3980b410
 .word 0xb5000050
-bl _p_25
+bl _p_27
 .word 0xf9402ba0
-bl _p_26
+bl _p_28
 .word 0xf9400000
 .word 0x14000033
 .loc 5 74 0
@@ -1396,11 +1451,11 @@ bl _p_26
 .word 0x910103a0
 .word 0xf90033a0
 .word 0xf9402ba0
-bl _p_27
+bl _p_29
 .word 0xaa0003ef
 .word 0xf94033a0
 .word 0xaa1a03e1
-bl _p_28
+bl _p_30
 .word 0x910103a0
 .word 0x9100c3a0
 .word 0xf94023a0
@@ -1412,7 +1467,7 @@ bl _p_28
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_27
+bl _p_29
 .word 0xd2800401
 .word 0xd2800401
 bl _p_3
@@ -1459,7 +1514,7 @@ System_Array_InternalArray__Insert_T_REF_int_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #456]
+ldr x16, [x16, #488]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -1477,14 +1532,14 @@ ldr x16, [x16, #456]
 .word 0xd63f0220
 .word 0xd287c860
 .word 0xd287c860
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2802120
 .word 0xf2a04000
 .word 0xd2802120
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .word 0xf94017b1
 .word 0xf9409631
 .word 0xb4000051
@@ -1506,7 +1561,7 @@ System_Array_InternalArray__RemoveAt_int:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #464]
+ldr x16, [x16, #496]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -1524,14 +1579,14 @@ ldr x16, [x16, #464]
 .word 0xd63f0220
 .word 0xd287c860
 .word 0xd287c860
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2802120
 .word 0xf2a04000
 .word 0xd2802120
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .word 0xf94013b1
 .word 0xf9408e31
 .word 0xb4000051
@@ -1557,7 +1612,7 @@ System_Array_InternalArray__IndexOf_T_REF_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #472]
+ldr x16, [x16, #504]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -1596,8 +1651,8 @@ ldr x16, [x16, #472]
 .word 0xd63f0220
 .word 0xd287cfe0
 .word 0xd287cfe0
-bl _p_29
-bl _p_30
+bl _p_31
+bl _p_32
 .word 0xf90053a0
 .word 0xf94023b1
 .word 0xf940da31
@@ -1609,7 +1664,7 @@ bl _p_30
 .word 0xd28022c0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .loc 5 152 0
 .word 0xf94023b1
 .word 0xf9410631
@@ -1640,7 +1695,7 @@ bl _p_22
 .word 0xaa1703e0
 .word 0x910183a0
 .word 0xf9402fa0
-bl _p_31
+bl _p_33
 .word 0x93407ee0
 .word 0xd37df000
 .word 0x8b000320
@@ -1804,7 +1859,7 @@ System_Array_InternalArray__get_Item_T_REF_int:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #480]
+ldr x16, [x16, #512]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -1839,14 +1894,14 @@ ldr x16, [x16, #480]
 .word 0xd63f0220
 .word 0xd2850e40
 .word 0xd2850e40
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2801460
 .word 0xf2a04000
 .word 0xd2801460
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .loc 5 180 0
 .word 0xf94013b1
 .word 0xf940d631
@@ -1856,7 +1911,7 @@ bl _p_22
 .word 0xaa1a03e0
 .word 0x910103a0
 .word 0xf9401fa0
-bl _p_32
+bl _p_34
 .word 0x93407f40
 .word 0xd37df000
 .word 0x8b000320
@@ -1897,7 +1952,7 @@ System_Array_InternalArray__set_Item_T_REF_int_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #488]
+ldr x16, [x16, #520]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -1932,14 +1987,14 @@ ldr x16, [x16, #488]
 .word 0xd63f0220
 .word 0xd2850e40
 .word 0xd2850e40
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2801460
 .word 0xf2a04000
 .word 0xd2801460
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .loc 5 189 0
 .word 0xf9402bb1
 .word 0xf940e631
@@ -1962,13 +2017,13 @@ bl _p_22
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x1, [x16, #496]
+ldr x1, [x16, #528]
 .word 0xeb01001f
 .word 0x540000e1
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x0, [x16, #504]
+ldr x0, [x16, #536]
 .word 0xeb00029f
 .word 0x54000040
 .word 0xd2800016
@@ -2009,7 +2064,7 @@ ldr x0, [x16, #504]
 .word 0xaa1a03e0
 .word 0x910123a0
 .word 0xf94037a0
-bl _p_33
+bl _p_35
 .word 0x93407f40
 .word 0xd37df000
 .word 0x8b000320
@@ -2056,7 +2111,7 @@ System_Array_InternalArray__ICollection_get_Count:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #512]
+ldr x16, [x16, #544]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -2100,7 +2155,7 @@ System_Array_InternalArray__ICollection_get_IsReadOnly:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #520]
+ldr x16, [x16, #552]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -2138,7 +2193,7 @@ System_Array_InternalArray__ICollection_Clear:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #528]
+ldr x16, [x16, #560]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -2156,14 +2211,14 @@ ldr x16, [x16, #528]
 .word 0xd63f0220
 .word 0xd287c260
 .word 0xd287c260
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2802120
 .word 0xf2a04000
 .word 0xd2802120
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .word 0xf9400fb1
 .word 0xf9408a31
 .word 0xb4000051
@@ -2186,7 +2241,7 @@ System_Array_InternalArray__ICollection_Add_T_REF_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #536]
+ldr x16, [x16, #568]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -2204,14 +2259,14 @@ ldr x16, [x16, #536]
 .word 0xd63f0220
 .word 0xd287c860
 .word 0xd287c860
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2802120
 .word 0xf2a04000
 .word 0xd2802120
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .word 0xf94013b1
 .word 0xf9409231
 .word 0xb4000051
@@ -2234,7 +2289,7 @@ System_Array_InternalArray__ICollection_Remove_T_REF_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #544]
+ldr x16, [x16, #576]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -2252,14 +2307,14 @@ ldr x16, [x16, #544]
 .word 0xd63f0220
 .word 0xd287c860
 .word 0xd287c860
-bl _p_29
+bl _p_31
 .word 0xaa0003e1
 .word 0xd2802120
 .word 0xf2a04000
 .word 0xd2802120
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .word 0xf94013b1
 .word 0xf9409231
 .word 0xb4000051
@@ -2284,7 +2339,7 @@ System_Array_InternalArray__ICollection_Contains_T_REF_T_REF:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #552]
+ldr x16, [x16, #584]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -2323,8 +2378,8 @@ ldr x16, [x16, #552]
 .word 0xd63f0220
 .word 0xd287cfe0
 .word 0xd287cfe0
-bl _p_29
-bl _p_30
+bl _p_31
+bl _p_32
 .word 0xf90033a0
 .word 0xf9401bb1
 .word 0xf940d631
@@ -2336,7 +2391,7 @@ bl _p_30
 .word 0xd28022c0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
-bl _p_22
+bl _p_24
 .loc 5 97 0
 .word 0xf9401bb1
 .word 0xf9410231
@@ -2367,7 +2422,7 @@ bl _p_22
 .word 0xaa1803e0
 .word 0x910143a0
 .word 0xf94027a0
-bl _p_34
+bl _p_36
 .word 0x93407f00
 .word 0xd37df000
 .word 0x8b000340
@@ -2482,7 +2537,7 @@ System_Array_InternalArray__ICollection_CopyTo_T_REF_T_REF___int:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #560]
+ldr x16, [x16, #592]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -2527,7 +2582,7 @@ ldr x16, [x16, #560]
 .word 0xf9403ba4
 .word 0xf9402ba0
 .word 0xaa1503e1
-bl _p_35
+bl _p_37
 .loc 5 120 0
 .word 0xf9401fb1
 .word 0xf940ee31
@@ -2569,7 +2624,7 @@ System_Array_InternalEnumerator_1_T_REF__ctor_System_Array:
 
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #568]
+ldr x16, [x16, #600]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -2681,14 +2736,14 @@ bl ut_25
 	.align 3
 unwind_info:
 
-	.byte 0,16,12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6,13,12,31,0,68,14,48,157,6,158,5,68,13,29
-	.byte 21,12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11,68,154,10,16,12,31,0,68,14,48,157,6,158
-	.byte 5,68,13,29,68,154,4,27,12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15
-	.byte 68,154,14,34,12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152
-	.byte 11,68,153,10,154,9,16,12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12,13,12,31,0,68,14,80,157,10
-	.byte 158,9,68,13,29,13,12,31,0,68,14,64,157,8,158,7,68,13,29,29,12,31,0,68,14,176,1,157,22,158,21,68
-	.byte 13,29,68,148,20,149,19,68,151,18,152,17,68,153,16,154,15,18,12,31,0,68,14,96,157,12,158,11,68,13,29,68
-	.byte 153,10,154,9,32,12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10
+	.byte 0,16,12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6,18,12,31,0,68,14,96,157,12,158,11,68,13,29
+	.byte 68,153,10,154,9,13,12,31,0,68,14,48,157,6,158,5,68,13,29,21,12,31,0,68,14,112,157,14,158,13,68,13
+	.byte 29,68,152,12,153,11,68,154,10,16,12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4,27,12,31,0,68,14
+	.byte 160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15,68,154,14,34,12,31,0,68,14,144,1,157,18
+	.byte 158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10,154,9,16,12,31,0,68,14,112
+	.byte 157,14,158,13,68,13,29,68,154,12,13,12,31,0,68,14,80,157,10,158,9,68,13,29,13,12,31,0,68,14,64,157
+	.byte 8,158,7,68,13,29,29,12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,149,19,68,151,18,152,17,68
+	.byte 153,16,154,15,32,12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10
 	.byte 153,9,68,154,8,22,12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12,16,12,31,0
 	.byte 68,14,64,157,8,158,7,68,13,29,68,153,6
 
@@ -2701,285 +2756,301 @@ plt_Xamarin_Forms_Application__ctor:
 _p_1:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #584]
+ldr x16, [x16, #616]
 br x16
-.word 929
+.word 960
 	.no_dead_strip plt_PushNotificationXamrin_App_InitializeComponent
 plt_PushNotificationXamrin_App_InitializeComponent:
 _p_2:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #592]
+ldr x16, [x16, #624]
 br x16
-.word 934
+.word 965
 	.no_dead_strip plt_wrapper_alloc_object_AllocSmall_intptr_intptr
 plt_wrapper_alloc_object_AllocSmall_intptr_intptr:
 _p_3:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #600]
+ldr x16, [x16, #632]
 br x16
-.word 939
+.word 970
 	.no_dead_strip plt_PushNotificationXamrin_MainPage__ctor
 plt_PushNotificationXamrin_MainPage__ctor:
 _p_4:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #608]
+ldr x16, [x16, #640]
 br x16
-.word 947
+.word 978
 	.no_dead_strip plt_Xamarin_Forms_Application_set_MainPage_Xamarin_Forms_Page
 plt_Xamarin_Forms_Application_set_MainPage_Xamarin_Forms_Page:
 _p_5:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #616]
-br x16
-.word 952
-	.no_dead_strip plt_Xamarin_Forms_Internals_ResourceLoader_get_ResourceProvider
-plt_Xamarin_Forms_Internals_ResourceLoader_get_ResourceProvider:
-_p_6:
-adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
-add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #624]
-br x16
-.word 957
-	.no_dead_strip plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type
-plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type:
-_p_7:
-adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
-add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #632]
-br x16
-.word 962
-	.no_dead_strip plt_PushNotificationXamrin_App___InitComponentRuntime
-plt_PushNotificationXamrin_App___InitComponentRuntime:
-_p_8:
-adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
-add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
-ldr x16, [x16, #640]
-br x16
-.word 965
-	.no_dead_strip plt_Xamarin_Forms_Xaml_Internals_XamlLoader_get_XamlFileProvider
-plt_Xamarin_Forms_Xaml_Internals_XamlLoader_get_XamlFileProvider:
-_p_9:
-adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
-add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #648]
 br x16
-.word 970
-	.no_dead_strip plt_Xamarin_Forms_Internals_NameScope__ctor
-plt_Xamarin_Forms_Internals_NameScope__ctor:
-_p_10:
+.word 983
+	.no_dead_strip plt_wrapper_alloc_object_AllocVector_intptr_intptr
+plt_wrapper_alloc_object_AllocVector_intptr_intptr:
+_p_6:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #656]
 br x16
-.word 975
-	.no_dead_strip plt_Xamarin_Forms_Internals_NameScope_SetNameScope_Xamarin_Forms_BindableObject_Xamarin_Forms_Internals_INameScope
-plt_Xamarin_Forms_Internals_NameScope_SetNameScope_Xamarin_Forms_BindableObject_Xamarin_Forms_Internals_INameScope:
-_p_11:
+.word 988
+	.no_dead_strip plt_Microsoft_AppCenter_AppCenter_Start_string_System_Type__
+plt_Microsoft_AppCenter_AppCenter_Start_string_System_Type__:
+_p_7:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #664]
 br x16
-.word 980
-	.no_dead_strip plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_App_PushNotificationXamrin_App_System_Type
-plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_App_PushNotificationXamrin_App_System_Type:
-_p_12:
+.word 996
+	.no_dead_strip plt_Xamarin_Forms_Internals_ResourceLoader_get_ResourceProvider
+plt_Xamarin_Forms_Internals_ResourceLoader_get_ResourceProvider:
+_p_8:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #672]
 br x16
-.word 985
-	.no_dead_strip plt_Xamarin_Forms_ContentPage__ctor
-plt_Xamarin_Forms_ContentPage__ctor:
-_p_13:
+.word 1001
+	.no_dead_strip plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type
+plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type:
+_p_9:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #680]
 br x16
-.word 997
-	.no_dead_strip plt_PushNotificationXamrin_MainPage_InitializeComponent
-plt_PushNotificationXamrin_MainPage_InitializeComponent:
-_p_14:
+.word 1006
+	.no_dead_strip plt_PushNotificationXamrin_App___InitComponentRuntime
+plt_PushNotificationXamrin_App___InitComponentRuntime:
+_p_10:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #688]
 br x16
-.word 1002
-	.no_dead_strip plt_PushNotificationXamrin_MainPage___InitComponentRuntime
-plt_PushNotificationXamrin_MainPage___InitComponentRuntime:
-_p_15:
+.word 1009
+	.no_dead_strip plt_Xamarin_Forms_Xaml_Internals_XamlLoader_get_XamlFileProvider
+plt_Xamarin_Forms_Xaml_Internals_XamlLoader_get_XamlFileProvider:
+_p_11:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #696]
 br x16
-.word 1007
-	.no_dead_strip plt_Xamarin_Forms_Label__ctor
-plt_Xamarin_Forms_Label__ctor:
-_p_16:
+.word 1014
+	.no_dead_strip plt_Xamarin_Forms_Internals_NameScope__ctor
+plt_Xamarin_Forms_Internals_NameScope__ctor:
+_p_12:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #704]
 br x16
-.word 1012
-	.no_dead_strip plt_Xamarin_Forms_StackLayout__ctor
-plt_Xamarin_Forms_StackLayout__ctor:
-_p_17:
+.word 1019
+	.no_dead_strip plt_Xamarin_Forms_Internals_NameScope_SetNameScope_Xamarin_Forms_BindableObject_Xamarin_Forms_Internals_INameScope
+plt_Xamarin_Forms_Internals_NameScope_SetNameScope_Xamarin_Forms_BindableObject_Xamarin_Forms_Internals_INameScope:
+_p_13:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #712]
 br x16
-.word 1017
-	.no_dead_strip plt_Xamarin_Forms_BindableObject_SetValue_Xamarin_Forms_BindableProperty_object
-plt_Xamarin_Forms_BindableObject_SetValue_Xamarin_Forms_BindableProperty_object:
-_p_18:
+.word 1024
+	.no_dead_strip plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_App_PushNotificationXamrin_App_System_Type
+plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_App_PushNotificationXamrin_App_System_Type:
+_p_14:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #720]
 br x16
-.word 1022
-	.no_dead_strip plt_Xamarin_Forms_Layout_1_Xamarin_Forms_View_get_Children
-plt_Xamarin_Forms_Layout_1_Xamarin_Forms_View_get_Children:
-_p_19:
+.word 1029
+	.no_dead_strip plt_Xamarin_Forms_ContentPage__ctor
+plt_Xamarin_Forms_ContentPage__ctor:
+_p_15:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #728]
 br x16
-.word 1027
-	.no_dead_strip plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_MainPage_PushNotificationXamrin_MainPage_System_Type
-plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_MainPage_PushNotificationXamrin_MainPage_System_Type:
-_p_20:
+.word 1041
+	.no_dead_strip plt_PushNotificationXamrin_MainPage_InitializeComponent
+plt_PushNotificationXamrin_MainPage_InitializeComponent:
+_p_16:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #736]
 br x16
-.word 1038
-	.no_dead_strip plt__jit_icall_mono_thread_interruption_checkpoint
-plt__jit_icall_mono_thread_interruption_checkpoint:
-_p_21:
+.word 1046
+	.no_dead_strip plt_PushNotificationXamrin_MainPage___InitComponentRuntime
+plt_PushNotificationXamrin_MainPage___InitComponentRuntime:
+_p_17:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #744]
 br x16
-.word 1050
-	.no_dead_strip plt__jit_icall_mono_arch_throw_exception
-plt__jit_icall_mono_arch_throw_exception:
-_p_22:
+.word 1051
+	.no_dead_strip plt_Xamarin_Forms_Label__ctor
+plt_Xamarin_Forms_Label__ctor:
+_p_18:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #752]
 br x16
-.word 1088
-	.no_dead_strip plt__jit_icall_mono_arch_throw_corlib_exception
-plt__jit_icall_mono_arch_throw_corlib_exception:
-_p_23:
+.word 1056
+	.no_dead_strip plt_Xamarin_Forms_StackLayout__ctor
+plt_Xamarin_Forms_StackLayout__ctor:
+_p_19:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #760]
 br x16
-.word 1116
-	.no_dead_strip plt__rgctx_fetch_0
-plt__rgctx_fetch_0:
-_p_24:
+.word 1061
+	.no_dead_strip plt_Xamarin_Forms_BindableObject_SetValue_Xamarin_Forms_BindableProperty_object
+plt_Xamarin_Forms_BindableObject_SetValue_Xamarin_Forms_BindableProperty_object:
+_p_20:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #768]
 br x16
-.word 1175
-	.no_dead_strip plt__jit_icall_mono_generic_class_init
-plt__jit_icall_mono_generic_class_init:
-_p_25:
+.word 1066
+	.no_dead_strip plt_Xamarin_Forms_Layout_1_Xamarin_Forms_View_get_Children
+plt_Xamarin_Forms_Layout_1_Xamarin_Forms_View_get_Children:
+_p_21:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #776]
 br x16
-.word 1183
-	.no_dead_strip plt__rgctx_fetch_1
-plt__rgctx_fetch_1:
-_p_26:
+.word 1071
+	.no_dead_strip plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_MainPage_PushNotificationXamrin_MainPage_System_Type
+plt_Xamarin_Forms_Xaml_Extensions_LoadFromXaml_PushNotificationXamrin_MainPage_PushNotificationXamrin_MainPage_System_Type:
+_p_22:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #784]
 br x16
-.word 1209
-	.no_dead_strip plt__rgctx_fetch_2
-plt__rgctx_fetch_2:
-_p_27:
+.word 1082
+	.no_dead_strip plt__jit_icall_mono_thread_interruption_checkpoint
+plt__jit_icall_mono_thread_interruption_checkpoint:
+_p_23:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #792]
 br x16
-.word 1224
-	.no_dead_strip plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
-plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array:
-_p_28:
+.word 1094
+	.no_dead_strip plt__jit_icall_mono_arch_throw_exception
+plt__jit_icall_mono_arch_throw_exception:
+_p_24:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #800]
 br x16
-.word 1232
-	.no_dead_strip plt__jit_icall_mono_helper_ldstr_mscorlib
-plt__jit_icall_mono_helper_ldstr_mscorlib:
-_p_29:
+.word 1132
+	.no_dead_strip plt__jit_icall_mono_arch_throw_corlib_exception
+plt__jit_icall_mono_arch_throw_corlib_exception:
+_p_25:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #808]
 br x16
-.word 1251
-	.no_dead_strip plt_Locale_GetText_string
-plt_Locale_GetText_string:
-_p_30:
+.word 1160
+	.no_dead_strip plt__rgctx_fetch_0
+plt__rgctx_fetch_0:
+_p_26:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #816]
 br x16
-.word 1280
-	.no_dead_strip plt__rgctx_fetch_3
-plt__rgctx_fetch_3:
-_p_31:
+.word 1219
+	.no_dead_strip plt__jit_icall_mono_generic_class_init
+plt__jit_icall_mono_generic_class_init:
+_p_27:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #824]
 br x16
-.word 1299
-	.no_dead_strip plt__rgctx_fetch_4
-plt__rgctx_fetch_4:
-_p_32:
+.word 1227
+	.no_dead_strip plt__rgctx_fetch_1
+plt__rgctx_fetch_1:
+_p_28:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #832]
 br x16
-.word 1338
-	.no_dead_strip plt__rgctx_fetch_5
-plt__rgctx_fetch_5:
-_p_33:
+.word 1253
+	.no_dead_strip plt__rgctx_fetch_2
+plt__rgctx_fetch_2:
+_p_29:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #840]
 br x16
-.word 1377
-	.no_dead_strip plt__rgctx_fetch_6
-plt__rgctx_fetch_6:
-_p_34:
+.word 1268
+	.no_dead_strip plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
+plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array:
+_p_30:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #848]
 br x16
-.word 1416
-	.no_dead_strip plt_System_Array_Copy_System_Array_int_System_Array_int_int
-plt_System_Array_Copy_System_Array_int_System_Array_int_int:
-_p_35:
+.word 1276
+	.no_dead_strip plt__jit_icall_mono_helper_ldstr_mscorlib
+plt__jit_icall_mono_helper_ldstr_mscorlib:
+_p_31:
 adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
 add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
 ldr x16, [x16, #856]
 br x16
-.word 1438
+.word 1295
+	.no_dead_strip plt_Locale_GetText_string
+plt_Locale_GetText_string:
+_p_32:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #864]
+br x16
+.word 1324
+	.no_dead_strip plt__rgctx_fetch_3
+plt__rgctx_fetch_3:
+_p_33:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #872]
+br x16
+.word 1343
+	.no_dead_strip plt__rgctx_fetch_4
+plt__rgctx_fetch_4:
+_p_34:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #880]
+br x16
+.word 1382
+	.no_dead_strip plt__rgctx_fetch_5
+plt__rgctx_fetch_5:
+_p_35:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #888]
+br x16
+.word 1421
+	.no_dead_strip plt__rgctx_fetch_6
+plt__rgctx_fetch_6:
+_p_36:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #896]
+br x16
+.word 1460
+	.no_dead_strip plt_System_Array_Copy_System_Array_int_System_Array_int_int
+plt_System_Array_Copy_System_Array_int_System_Array_int_int:
+_p_37:
+adrp x16, mono_aot_PushNotificationXamrin_got@PAGE+0
+add x16, x16, mono_aot_PushNotificationXamrin_got@PAGEOFF
+ldr x16, [x16, #904]
+br x16
+.word 1482
 plt_end:
 .section __DATA, __bss
 	.align 3
-.lcomm mono_aot_PushNotificationXamrin_got, 864
+.lcomm mono_aot_PushNotificationXamrin_got, 912
 got_end:
 .section __TEXT, __const
 	.align 3
@@ -3010,7 +3081,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "DC709809-3B6C-45D1-B07B-FD0407863F3B"
+	.asciz "5EC58C9C-5E51-4137-A3BD-6DECA0D8559E"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -3089,13 +3160,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 72,864,36,26,70,387000831,0,5596
-	.long 128,8,8,8,0,25,6896,1288
+	.long 76,912,38,26,70,387000831,0,5705
+	.long 128,8,8,8,0,25,7080,1368
 	.long 936,672,0,840,912,720,0,536
-	.long 56,1280,0,0,0,0,0,0
+	.long 56,1360,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 107,187,151,124,135,217,132,214,72,29,27,69,172,192,11,1
+	.byte 234,36,161,115,219,148,79,40,54,154,52,128,157,223,226,158
 	.globl _mono_aot_module_PushNotificationXamrin_info
 	.align 3
 _mono_aot_module_PushNotificationXamrin_info:
@@ -8263,7 +8334,7 @@ LDIFF_SYM882=LTDIE_0 - Ldebug_info_start
 	.asciz "PushNotificationXamrin.App:.ctor"
 	.asciz "PushNotificationXamrin_App__ctor"
 
-	.byte 1,10
+	.byte 1,14
 	.quad PushNotificationXamrin_App__ctor
 	.quad Lme_0
 
@@ -8297,7 +8368,7 @@ Lfde0_end:
 	.asciz "PushNotificationXamrin.App:OnStart"
 	.asciz "PushNotificationXamrin_App_OnStart"
 
-	.byte 1,18
+	.byte 1,22
 	.quad PushNotificationXamrin_App_OnStart
 	.quad Lme_1
 
@@ -8306,7 +8377,7 @@ Lfde0_end:
 
 LDIFF_SYM886=LTDIE_0_REFERENCE - Ldebug_info_start
 	.long LDIFF_SYM886
-	.byte 2,141,16,0
+	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -8321,7 +8392,7 @@ Lfde1_start:
 LDIFF_SYM888=Lme_1 - PushNotificationXamrin_App_OnStart
 	.long LDIFF_SYM888
 	.long 0
-	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
+	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
 Lfde1_end:
 
@@ -8331,7 +8402,7 @@ Lfde1_end:
 	.asciz "PushNotificationXamrin.App:OnSleep"
 	.asciz "PushNotificationXamrin_App_OnSleep"
 
-	.byte 1,23
+	.byte 1,31
 	.quad PushNotificationXamrin_App_OnSleep
 	.quad Lme_2
 
@@ -8365,7 +8436,7 @@ Lfde2_end:
 	.asciz "PushNotificationXamrin.App:OnResume"
 	.asciz "PushNotificationXamrin_App_OnResume"
 
-	.byte 1,28
+	.byte 1,36
 	.quad PushNotificationXamrin_App_OnResume
 	.quad Lme_3
 

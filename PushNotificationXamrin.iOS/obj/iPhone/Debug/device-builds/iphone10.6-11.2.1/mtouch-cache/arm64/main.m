@@ -24,6 +24,12 @@ extern void *mono_aot_module_Firebase_Core_info;
 extern void *mono_aot_module_Firebase_Analytics_info;
 extern void *mono_aot_module_PushNotificationXamrin_info;
 extern void *mono_aot_module_Xamarin_Forms_Xaml_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Analytics_info;
+extern void *mono_aot_module_Microsoft_AppCenter_info;
+extern void *mono_aot_module_Microsoft_AppCenter_iOS_Bindings_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Analytics_iOS_Bindings_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Crashes_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Crashes_iOS_Bindings_info;
 
 void xamarin_register_modules_impl ()
 {
@@ -51,6 +57,12 @@ void xamarin_register_modules_impl ()
 	mono_aot_register_module (mono_aot_module_Firebase_Analytics_info);
 	mono_aot_register_module (mono_aot_module_PushNotificationXamrin_info);
 	mono_aot_register_module (mono_aot_module_Xamarin_Forms_Xaml_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Analytics_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Analytics_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Crashes_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Crashes_iOS_Bindings_info);
 
 }
 
@@ -66,6 +78,12 @@ void xamarin_register_assemblies_impl ()
 	xamarin_open_and_register ("Firebase.Core.dll", &exception_gchandle);
 	xamarin_process_managed_exception_gchandle (exception_gchandle);
 	xamarin_open_and_register ("Firebase.Analytics.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.Analytics.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.Crashes.iOS.Bindings.dll", &exception_gchandle);
 	xamarin_process_managed_exception_gchandle (exception_gchandle);
 
 }

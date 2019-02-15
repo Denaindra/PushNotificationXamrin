@@ -75110,7 +75110,7 @@ bl _p_18
 
 Lme_227:
 .text
-ut_561:
+ut_562:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
 .text
@@ -75182,9 +75182,9 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_231:
+Lme_232:
 .text
-ut_562:
+ut_563:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 .text
@@ -75222,9 +75222,9 @@ ldr x16, [x16, #504]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_232:
+Lme_233:
 .text
-ut_563:
+ut_564:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 .text
@@ -75326,9 +75326,9 @@ ldr x16, [x16, #512]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_233:
+Lme_234:
 .text
-ut_564:
+ut_565:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 .text
@@ -75499,9 +75499,9 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_234:
+Lme_235:
 .text
-ut_565:
+ut_566:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 .text
@@ -75550,9 +75550,9 @@ ldr x16, [x16, #536]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_235:
+Lme_236:
 .text
-ut_566:
+ut_567:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 .text
@@ -75653,7 +75653,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_236:
+Lme_237:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IEnumerable_GetEnumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -75764,9 +75764,9 @@ ldr x4, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_237:
+Lme_238:
 .text
-ut_568:
+ut_569:
 add x0, x0, 16
 b System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 .text
@@ -75872,9 +75872,9 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_238:
+Lme_239:
 .text
-ut_569:
+ut_570:
 add x0, x0, 16
 b System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Key
 .text
@@ -75926,9 +75926,9 @@ ldr x16, [x16, #584]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_239:
+Lme_23a:
 .text
-ut_570:
+ut_571:
 add x0, x0, 16
 b System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Value
 .text
@@ -75968,9 +75968,9 @@ ldr x16, [x16, #592]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_23a:
+Lme_23b:
 .text
-ut_571:
+ut_572:
 add x0, x0, 16
 b System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToString
 .text
@@ -76085,7 +76085,7 @@ bl _p_549
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_23b:
+Lme_23c:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -76170,7 +76170,7 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_23c:
+Lme_23d:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -76283,7 +76283,7 @@ ldr x2, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_23d:
+Lme_23e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_XmlName___int
@@ -76552,7 +76552,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_23e:
+Lme_23f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
@@ -76600,7 +76600,7 @@ bl _p_553
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_23f:
+Lme_240:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_get_IsReadOnly
@@ -76638,7 +76638,7 @@ ldr x16, [x16, #648]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_240:
+Lme_241:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Add_Xamarin_Forms_Xaml_XmlName
@@ -76684,7 +76684,7 @@ bl _p_554
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_241:
+Lme_242:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Clear
@@ -76728,7 +76728,7 @@ bl _p_554
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_242:
+Lme_243:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Contains_Xamarin_Forms_Xaml_XmlName
@@ -76787,7 +76787,7 @@ bl _p_27
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_243:
+Lme_244:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Remove_Xamarin_Forms_Xaml_XmlName
@@ -76835,7 +76835,7 @@ bl _p_554
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_244:
+Lme_245:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TKey_GetEnumerator
@@ -76953,7 +76953,7 @@ ldr x3, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_245:
+Lme_246:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
@@ -77071,7 +77071,7 @@ ldr x3, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_246:
+Lme_247:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
@@ -77624,7 +77624,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_247:
+Lme_248:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
@@ -77662,7 +77662,7 @@ ldr x16, [x16, #728]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_248:
+Lme_249:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
@@ -77716,7 +77716,7 @@ ldr x15, [x16, #744]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_249:
+Lme_24a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -77800,7 +77800,7 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_24a:
+Lme_24b:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -77896,7 +77896,7 @@ ldr x2, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_24b:
+Lme_24c:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_INode___int
@@ -78126,7 +78126,7 @@ bl _p_539
 .word 0xaa1103e1
 bl _p_18
 
-Lme_24c:
+Lme_24d:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
@@ -78174,7 +78174,7 @@ bl _p_553
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_24d:
+Lme_24e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_get_IsReadOnly
@@ -78212,7 +78212,7 @@ ldr x16, [x16, #792]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_24e:
+Lme_24f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Add_Xamarin_Forms_Xaml_INode
@@ -78257,7 +78257,7 @@ bl _p_554
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_24f:
+Lme_250:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Remove_Xamarin_Forms_Xaml_INode
@@ -78304,7 +78304,7 @@ bl _p_554
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_250:
+Lme_251:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Clear
@@ -78348,7 +78348,7 @@ bl _p_554
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_251:
+Lme_252:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Contains_Xamarin_Forms_Xaml_INode
@@ -78398,7 +78398,7 @@ bl _p_558
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_252:
+Lme_253:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TValue_GetEnumerator
@@ -78499,7 +78499,7 @@ ldr x3, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_253:
+Lme_254:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
@@ -78600,7 +78600,7 @@ ldr x3, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_254:
+Lme_255:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
@@ -79123,7 +79123,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_255:
+Lme_256:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
@@ -79161,7 +79161,7 @@ ldr x16, [x16, #856]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_256:
+Lme_257:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
@@ -79215,7 +79215,7 @@ ldr x15, [x16, #744]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_257:
+Lme_258:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_MethodInfo_bool_invoke_TResult_T_System_Reflection_MethodInfo
@@ -79359,7 +79359,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_25c:
+Lme_25d:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_System_Exception_invoke_void_T_System_Exception
@@ -79493,9 +79493,9 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_25d:
+Lme_25e:
 .text
-ut_606:
+ut_607:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
 .text
@@ -79593,9 +79593,9 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_25e:
+Lme_25f:
 .text
-ut_607:
+ut_608:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 .text
@@ -79833,9 +79833,9 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_25f:
+Lme_260:
 .text
-ut_608:
+ut_609:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 .text
@@ -79928,9 +79928,9 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_260:
+Lme_261:
 .text
-ut_609:
+ut_610:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 .text
@@ -79968,9 +79968,9 @@ ldr x16, [x16, #912]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_261:
+Lme_262:
 .text
-ut_610:
+ut_611:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 .text
@@ -80284,9 +80284,9 @@ ldr x3, [x16, #16]
 .word 0xa8cc7bfd
 .word 0xd65f03c0
 
-Lme_262:
+Lme_263:
 .text
-ut_611:
+ut_612:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 .text
@@ -80367,9 +80367,9 @@ bl _p_560
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_263:
+Lme_264:
 .text
-ut_612:
+ut_613:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Entry
 .text
@@ -80531,9 +80531,9 @@ bl _p_562
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_264:
+Lme_265:
 .text
-ut_613:
+ut_614:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Key
 .text
@@ -80656,9 +80656,9 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_265:
+Lme_266:
 .text
-ut_614:
+ut_615:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Value
 .text
@@ -80741,7 +80741,7 @@ bl _p_47
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_266:
+Lme_267:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_CustomAttributeData_bool_invoke_TResult_T_System_Reflection_CustomAttributeData
@@ -80885,7 +80885,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_267:
+Lme_268:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Add_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
@@ -80933,7 +80933,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_26f:
+Lme_270:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Remove_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
@@ -80981,7 +80981,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_270:
+Lme_271:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Contains_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
@@ -81243,7 +81243,7 @@ bl _p_563
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_271:
+Lme_272:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_CopyTo_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument___int
@@ -81320,7 +81320,7 @@ bl _p_528
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_272:
+Lme_273:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__Insert_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
@@ -81369,7 +81369,7 @@ bl _p_41
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_278:
+Lme_279:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__RemoveAt_int
@@ -81416,7 +81416,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_279:
+Lme_27a:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IndexOf_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
@@ -81729,7 +81729,7 @@ bl _p_563
 .word 0xa8cf7bfd
 .word 0xd65f03c0
 
-Lme_27a:
+Lme_27b:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__get_Item_System_Reflection_CustomAttributeTypedArgument_int
@@ -81844,7 +81844,7 @@ ldr x0, [x16, #1000]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_27b:
+Lme_27c:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__set_Item_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
@@ -82078,7 +82078,7 @@ ldr x2, [x16, #16]
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_27c:
+Lme_27d:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_FieldInfo_bool_invoke_TResult_T_System_Reflection_FieldInfo
@@ -82222,7 +82222,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_27d:
+Lme_27e:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_PropertyInfo_bool_invoke_TResult_T_System_Reflection_PropertyInfo
@@ -82366,7 +82366,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_27e:
+Lme_27f:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_1_System_Reflection_MemberInfo_invoke_TResult
@@ -82500,7 +82500,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_27f:
+Lme_280:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
@@ -82634,7 +82634,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_280:
+Lme_281:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Type_System_Collections_Generic_IEnumerable_1_System_Reflection_MethodInfo_invoke_TResult_T_System_Type
@@ -82775,7 +82775,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_281:
+Lme_282:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode_invoke_void_T1_T2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode
@@ -82916,7 +82916,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_282:
+Lme_283:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_ConstructorInfo_bool_invoke_TResult_T_System_Reflection_ConstructorInfo
@@ -83060,7 +83060,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_283:
+Lme_284:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_object_System_Type_invoke_TResult_T_object
@@ -83201,7 +83201,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_284:
+Lme_285:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System_Type
@@ -83342,7 +83342,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_285:
+Lme_286:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_1_System_Reflection_ParameterInfo_invoke_TResult
@@ -83476,7 +83476,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_286:
+Lme_287:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Reflection_ParameterInfo_bool_invoke_TResult_T_System_Reflection_ParameterInfo
@@ -83620,7 +83620,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_287:
+Lme_288:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_object_invoke_bool_T_object
@@ -83764,7 +83764,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_288:
+Lme_289:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_object_invoke_void_T_object
@@ -83898,7 +83898,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_289:
+Lme_28a:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_object_invoke_int_T_T_object_object
@@ -84048,7 +84048,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_28a:
+Lme_28b:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
@@ -84192,7 +84192,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_28b:
+Lme_28c:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_string_invoke_void_T_string
@@ -84326,7 +84326,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_28c:
+Lme_28d:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
@@ -84476,7 +84476,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_28d:
+Lme_28e:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -84523,7 +84523,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_296:
+Lme_297:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Remove_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -84570,7 +84570,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_297:
+Lme_298:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Contains_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -84919,7 +84919,7 @@ ldr x4, [x16, #16]
 .word 0xa8cf7bfd
 .word 0xd65f03c0
 
-Lme_298:
+Lme_299:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_CopyTo_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
@@ -84996,7 +84996,7 @@ bl _p_528
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_299:
+Lme_29a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Default
@@ -85091,7 +85091,7 @@ ldr x0, [x16, #1256]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_29a:
+Lme_29b:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CreateComparer
@@ -85710,7 +85710,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_29b:
+Lme_29c:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -85871,7 +85871,7 @@ ldr x16, [x16, #1400]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_29e:
+Lme_29f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -86033,7 +86033,7 @@ ldr x16, [x16, #1408]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_29f:
+Lme_2a0:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_GetHashCode_object
@@ -86172,7 +86172,7 @@ bl _p_539
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2a0:
+Lme_2a1:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_Equals_object_object
@@ -86389,7 +86389,7 @@ bl _p_539
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2a1:
+Lme_2a2:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -86421,7 +86421,7 @@ ldr x16, [x16, #1440]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2a2:
+Lme_2a3:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -86610,7 +86610,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2a7:
+Lme_2a8:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_void_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -86790,7 +86790,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2ac:
+Lme_2ad:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -87031,9 +87031,9 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2b2:
+Lme_2b3:
 .text
-ut_691:
+ut_692:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 .text
@@ -87123,9 +87123,9 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_2b3:
+Lme_2b4:
 .text
-ut_692:
+ut_693:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 .text
@@ -87163,9 +87163,9 @@ ldr x16, [x16, #1480]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2b4:
+Lme_2b5:
 .text
-ut_693:
+ut_694:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 .text
@@ -87340,9 +87340,9 @@ bl _p_566
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2b5:
+Lme_2b6:
 .text
-ut_694:
+ut_695:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNextRare
 .text
@@ -87430,9 +87430,9 @@ bl _p_567
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2b6:
+Lme_2b7:
 .text
-ut_695:
+ut_696:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 .text
@@ -87525,9 +87525,9 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2b7:
+Lme_2b8:
 .text
-ut_696:
+ut_697:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 .text
@@ -87663,9 +87663,9 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2b8:
+Lme_2b9:
 .text
-ut_697:
+ut_698:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 .text
@@ -87748,7 +87748,7 @@ bl _p_567
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2b9:
+Lme_2ba:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_string_invoke_TResult_T1_T2_System_Reflection_AssemblyName_string
@@ -87895,7 +87895,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2ba:
+Lme_2bb:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Xaml_XmlType_invoke_bool_T_Xamarin_Forms_Xaml_XmlType
@@ -88039,7 +88039,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2bb:
+Lme_2bc:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Xaml_XmlType_invoke_void_T_Xamarin_Forms_Xaml_XmlType
@@ -88173,7 +88173,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2bc:
+Lme_2bd:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Xaml_XmlType_invoke_int_T_T_Xamarin_Forms_Xaml_XmlType_Xamarin_Forms_Xaml_XmlType
@@ -88323,9 +88323,9 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2bd:
+Lme_2be:
 .text
-ut_702:
+ut_703:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName__ctor_System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName
 .text
@@ -88413,9 +88413,9 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_2be:
+Lme_2bf:
 .text
-ut_703:
+ut_704:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_Dispose
 .text
@@ -88453,9 +88453,9 @@ ldr x16, [x16, #1568]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2bf:
+Lme_2c0:
 .text
-ut_704:
+ut_705:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNext
 .text
@@ -88613,9 +88613,9 @@ bl _p_568
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2c0:
+Lme_2c1:
 .text
-ut_705:
+ut_706:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNextRare
 .text
@@ -88702,9 +88702,9 @@ bl _p_567
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2c1:
+Lme_2c2:
 .text
-ut_706:
+ut_707:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_get_Current
 .text
@@ -88757,9 +88757,9 @@ ldr x16, [x16, #1592]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2c2:
+Lme_2c3:
 .text
-ut_707:
+ut_708:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
 .text
@@ -88884,9 +88884,9 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2c3:
+Lme_2c4:
 .text
-ut_708:
+ut_709:
 add x0, x0, 16
 b System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
 .text
@@ -88968,7 +88968,7 @@ bl _p_567
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2c4:
+Lme_2c5:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_invoke_TResult_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -89157,7 +89157,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2c9:
+Lme_2ca:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__Insert_T_REF_int_T_REF
@@ -89206,7 +89206,7 @@ bl _p_41
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2ca:
+Lme_2cb:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IndexOf_T_REF_T_REF
@@ -89455,7 +89455,7 @@ bl _p_569
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_2cb:
+Lme_2cc:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__get_Item_T_REF_int
@@ -89544,7 +89544,7 @@ bl _p_570
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_2cc:
+Lme_2cd:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__set_Item_T_REF_int_T_REF
@@ -89710,7 +89710,7 @@ ldr x2, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_2cd:
+Lme_2ce:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Add_T_INST_T_INST
@@ -89759,7 +89759,7 @@ bl _p_41
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2d6:
+Lme_2d7:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
@@ -89808,7 +89808,7 @@ bl _p_41
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2d7:
+Lme_2d8:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
@@ -90150,7 +90150,7 @@ ldr x3, [x16, #16]
 .word 0xa8cf7bfd
 .word 0xd65f03c0
 
-Lme_2d8:
+Lme_2d9:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
@@ -90228,7 +90228,7 @@ bl _p_528
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_2d9:
+Lme_2da:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_get_Default
@@ -90323,7 +90323,7 @@ bl _p_576
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_2da:
+Lme_2db:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_CreateComparer
@@ -90945,7 +90945,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2db:
+Lme_2dc:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_IndexOf_T_INST___T_INST_int_int
@@ -91088,7 +91088,7 @@ ldr x16, [x16, #1792]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2de:
+Lme_2df:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_LastIndexOf_T_INST___T_INST_int_int
@@ -91232,7 +91232,7 @@ ldr x16, [x16, #1800]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2df:
+Lme_2e0:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_GetHashCode_object
@@ -91357,7 +91357,7 @@ bl _p_539
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2e0:
+Lme_2e1:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_Equals_object_object
@@ -91544,7 +91544,7 @@ bl _p_539
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2e1:
+Lme_2e2:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_INST__ctor
@@ -91576,7 +91576,7 @@ ldr x16, [x16, #1824]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_2e2:
+Lme_2e3:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_string_string
@@ -91742,7 +91742,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2e7:
+Lme_2e8:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_void_T_System_Collections_Generic_KeyValuePair_2_string_string
@@ -91899,7 +91899,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2ec:
+Lme_2ed:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_string_string_System_Collections_Generic_KeyValuePair_2_string_string
@@ -92094,7 +92094,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2f2:
+Lme_2f3:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_bool_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
@@ -92238,7 +92238,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2f3:
+Lme_2f4:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_void_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
@@ -92372,7 +92372,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2f4:
+Lme_2f5:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_int_T_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
@@ -92522,7 +92522,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2f5:
+Lme_2f6:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_2_Xamarin_Forms_Xaml_XmlType_System_Type_invoke_TResult_T_Xamarin_Forms_Xaml_XmlType
@@ -92663,7 +92663,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_2f6:
+Lme_2f7:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__Insert_T_INST_int_T_INST
@@ -92713,7 +92713,7 @@ bl _p_41
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_2fc:
+Lme_2fd:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IndexOf_T_INST_T_INST
@@ -93110,7 +93110,7 @@ ldr x3, [x16, #16]
 .word 0xa8d37bfd
 .word 0xd65f03c0
 
-Lme_2fd:
+Lme_2fe:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__get_Item_T_INST_int
@@ -93249,7 +93249,7 @@ ldr x2, [x16, #16]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_2fe:
+Lme_2ff:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__set_Item_T_INST_int_T_INST
@@ -93480,7 +93480,7 @@ ldr x2, [x16, #16]
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_2ff:
+Lme_300:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__Insert_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -93528,7 +93528,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_305:
+Lme_306:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -93928,7 +93928,7 @@ ldr x4, [x16, #16]
 .word 0xa8d37bfd
 .word 0xd65f03c0
 
-Lme_306:
+Lme_307:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__get_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
@@ -94089,7 +94089,7 @@ ldr x2, [x16, #16]
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_307:
+Lme_308:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__set_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -94355,7 +94355,7 @@ ldr x2, [x16, #16]
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_308:
+Lme_309:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke__Module_invoke_Type_XmlType_IXmlLineInfo_Assembly_XamlParseException__Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException_
@@ -94512,7 +94512,7 @@ bl _p_41
 .word 0xaa1103e1
 bl _p_18
 
-Lme_309:
+Lme_30a:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_begin_invoke__Module_begin_invoke_IAsyncResult__this___XmlType_IXmlLineInfo_Assembly_XamlParseException__AsyncCallback_object_Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException__System_AsyncCallback_object
@@ -94620,7 +94620,7 @@ bl _p_595
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_30a:
+Lme_30b:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_end_invoke__Module_end_invoke_Type__this___XamlParseException__IAsyncResult_Xamarin_Forms_Xaml_XamlParseException__System_IAsyncResult
@@ -94692,9 +94692,9 @@ bl _p_596
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_30b:
+Lme_30c:
 .text
-ut_780:
+ut_781:
 add x0, x0, 16
 b wrapper_unknown_Xamarin_Forms_Xaml_XmlName_StructureToPtr_object_intptr_bool
 .text
@@ -94802,9 +94802,9 @@ bl _p_598
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_30c:
+Lme_30d:
 .text
-ut_781:
+ut_782:
 add x0, x0, 16
 b wrapper_unknown_Xamarin_Forms_Xaml_XmlName_PtrToStructure_intptr_object
 .text
@@ -94923,7 +94923,7 @@ ldr x2, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_30d:
+Lme_30e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Contains_Xamarin_Forms_Xaml_XmlName
@@ -95149,7 +95149,7 @@ bl _p_600
 .word 0xaa1103e1
 bl _p_18
 
-Lme_30e:
+Lme_30f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Item_Xamarin_Forms_Xaml_XmlName
@@ -95301,7 +95301,7 @@ bl _p_602
 .word 0xaa1103e1
 bl _p_18
 
-Lme_30f:
+Lme_310:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsKey_Xamarin_Forms_Xaml_XmlName
@@ -95363,7 +95363,7 @@ bl _p_601
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_310:
+Lme_311:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -95441,7 +95441,7 @@ bl _mono_gc_wbarrier_range_copy
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_311:
+Lme_312:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Add_Xamarin_Forms_Xaml_XmlName
@@ -95580,7 +95580,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_312:
+Lme_313:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__ctor
@@ -95648,7 +95648,7 @@ ldr x2, [x16, #16]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_313:
+Lme_314:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -95711,7 +95711,7 @@ bl _p_605
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_314:
+Lme_315:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Clear
@@ -95883,7 +95883,7 @@ bl _p_606
 .word 0xaa1103e1
 bl _p_18
 
-Lme_315:
+Lme_316:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetValue_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
@@ -96013,7 +96013,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_316:
+Lme_317:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Values
@@ -96099,7 +96099,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_317:
+Lme_318:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_First_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument
@@ -96200,9 +96200,9 @@ bl _p_41
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_318:
+Lme_319:
 .text
-ut_794:
+ut_795:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor_System_Array
 .text
@@ -96274,9 +96274,9 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_31a:
+Lme_31b:
 .text
-ut_795:
+ut_796:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
 .text
@@ -96314,9 +96314,9 @@ ldr x16, [x16, #2120]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_31b:
+Lme_31c:
 .text
-ut_796:
+ut_797:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
 .text
@@ -96418,9 +96418,9 @@ ldr x16, [x16, #2128]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_31c:
+Lme_31d:
 .text
-ut_797:
+ut_798:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
 .text
@@ -96556,9 +96556,9 @@ bl _p_610
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_31d:
+Lme_31e:
 .text
-ut_798:
+ut_799:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
 .text
@@ -96607,9 +96607,9 @@ ldr x16, [x16, #2152]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_31e:
+Lme_31f:
 .text
-ut_799:
+ut_800:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
 .text
@@ -96699,7 +96699,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_31f:
+Lme_320:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__IEnumerable_GetEnumerator_System_Reflection_CustomAttributeTypedArgument
@@ -96810,7 +96810,7 @@ ldr x4, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_320:
+Lme_321:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Item_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -96873,7 +96873,7 @@ bl _p_605
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_321:
+Lme_322:
 .text
 	.align 4
 	.no_dead_strip System_Array_Empty_T_CHAR
@@ -96917,7 +96917,7 @@ bl _p_614
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_322:
+Lme_323:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Remove_Xamarin_Forms_Xaml_XmlName
@@ -97390,7 +97390,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_323:
+Lme_324:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -97519,7 +97519,7 @@ ldr x2, [x16, #16]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_324:
+Lme_325:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_ToList_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -97657,7 +97657,7 @@ ldr x15, [x16, #2280]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_325:
+Lme_326:
 .text
 	.align 4
 	.no_dead_strip System_Activator_CreateInstance_T_REF
@@ -97793,7 +97793,7 @@ bl _p_623
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_329:
+Lme_32a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -97839,7 +97839,7 @@ bl _p_624
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_32a:
+Lme_32b:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_GetEnumerator
@@ -97951,7 +97951,7 @@ ldr x2, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_32b:
+Lme_32c:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_First_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
@@ -98094,7 +98094,7 @@ ldr x2, [x16, #16]
 .word 0xa8cc7bfd
 .word 0xd65f03c0
 
-Lme_32c:
+Lme_32d:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
@@ -98394,7 +98394,7 @@ ldr x15, [x16, #4056]
 .word 0xa8ce7bfd
 .word 0xd65f03c0
 
-Lme_32d:
+Lme_32e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -98549,7 +98549,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_32e:
+Lme_32f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_T_INST__ctor
@@ -98622,7 +98622,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_32f:
+Lme_330:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -98690,7 +98690,7 @@ ldr x2, [x16, #16]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_330:
+Lme_331:
 .text
 	.align 4
 	.no_dead_strip wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_Xamarin_Forms_Xaml_XmlName_
@@ -98773,7 +98773,7 @@ bl _p_41
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_331:
+Lme_332:
 .text
 	.align 4
 	.no_dead_strip System_Array_InternalArray__get_Item_Xamarin_Forms_Xaml_XmlName_int
@@ -98888,7 +98888,7 @@ ldr x0, [x16, #88]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_332:
+Lme_333:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__cctor
@@ -98942,7 +98942,7 @@ ldr x0, [x16, #176]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_333:
+Lme_334:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName__ctor
@@ -98975,7 +98975,7 @@ bl _p_632
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_334:
+Lme_335:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_XmlName
@@ -99128,7 +99128,7 @@ bl _p_459
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_335:
+Lme_336:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode_Xamarin_Forms_Xaml_XmlName
@@ -99194,7 +99194,7 @@ bl _p_633
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_336:
+Lme_337:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_IndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
@@ -99463,7 +99463,7 @@ bl _p_459
 .word 0xaa1103e1
 bl _p_18
 
-Lme_337:
+Lme_338:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_LastIndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
@@ -99733,7 +99733,7 @@ bl _p_459
 .word 0xaa1103e1
 bl _p_18
 
-Lme_338:
+Lme_339:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_object
@@ -99796,7 +99796,7 @@ ldr x1, [x16, #2448]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_339:
+Lme_33a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode
@@ -99862,9 +99862,9 @@ ldr x16, [x16, #2456]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_33a:
+Lme_33b:
 .text
-ut_827:
+ut_828:
 add x0, x0, 16
 b System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
 .text
@@ -99937,7 +99937,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_33b:
+Lme_33c:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
@@ -99991,9 +99991,9 @@ ldr x0, [x16, #568]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_33c:
+Lme_33d:
 .text
-ut_829:
+ut_830:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 .text
@@ -100081,9 +100081,9 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_33d:
+Lme_33e:
 .text
-ut_830:
+ut_831:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 .text
@@ -100121,9 +100121,9 @@ ldr x16, [x16, #2496]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_33e:
+Lme_33f:
 .text
-ut_831:
+ut_832:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 .text
@@ -100318,9 +100318,9 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_33f:
+Lme_340:
 .text
-ut_832:
+ut_833:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 .text
@@ -100373,9 +100373,9 @@ ldr x16, [x16, #2512]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_340:
+Lme_341:
 .text
-ut_833:
+ut_834:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 .text
@@ -100489,9 +100489,9 @@ ldr x3, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_341:
+Lme_342:
 .text
-ut_834:
+ut_835:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 .text
@@ -100571,7 +100571,7 @@ bl _p_560
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_342:
+Lme_343:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
@@ -100614,9 +100614,9 @@ ldr x16, [x16, #2536]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_343:
+Lme_344:
 .text
-ut_836:
+ut_837:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 .text
@@ -100702,9 +100702,9 @@ ldr x1, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_344:
+Lme_345:
 .text
-ut_837:
+ut_838:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 .text
@@ -100742,9 +100742,9 @@ ldr x16, [x16, #2552]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_345:
+Lme_346:
 .text
-ut_838:
+ut_839:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 .text
@@ -100915,9 +100915,9 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_346:
+Lme_347:
 .text
-ut_839:
+ut_840:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 .text
@@ -100957,9 +100957,9 @@ ldr x16, [x16, #2568]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_347:
+Lme_348:
 .text
-ut_840:
+ut_841:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 .text
@@ -101031,9 +101031,9 @@ bl _p_561
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_348:
+Lme_349:
 .text
-ut_841:
+ut_842:
 add x0, x0, 16
 b System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 .text
@@ -101111,7 +101111,7 @@ bl _p_560
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_349:
+Lme_34a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsValue_Xamarin_Forms_Xaml_INode
@@ -101354,7 +101354,7 @@ bl _p_635
 .word 0xaa1103e1
 bl _p_18
 
-Lme_34a:
+Lme_34b:
 .text
 	.align 4
 	.no_dead_strip wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
@@ -101437,7 +101437,7 @@ bl _p_41
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_34b:
+Lme_34c:
 .text
 	.align 4
 	.no_dead_strip wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
@@ -101520,7 +101520,7 @@ bl _p_41
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_34c:
+Lme_34d:
 .text
 	.align 4
 	.no_dead_strip wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
@@ -101603,7 +101603,7 @@ bl _p_41
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_34d:
+Lme_34e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -101636,7 +101636,7 @@ bl _p_636
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_34e:
+Lme_34f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -101871,7 +101871,7 @@ ldr x4, [x16, #16]
 .word 0xa8cd7bfd
 .word 0xd65f03c0
 
-Lme_34f:
+Lme_350:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -102001,7 +102001,7 @@ ldr x3, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_350:
+Lme_351:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -102358,7 +102358,7 @@ ldr x4, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_351:
+Lme_352:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -102716,7 +102716,7 @@ ldr x4, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_352:
+Lme_353:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_object
@@ -102779,7 +102779,7 @@ ldr x1, [x16, #2680]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_353:
+Lme_354:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode
@@ -102845,7 +102845,7 @@ ldr x16, [x16, #2688]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_354:
+Lme_355:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_T_INST__ctor
@@ -102885,7 +102885,7 @@ bl _p_637
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_355:
+Lme_356:
 .text
 	.align 4
 	.no_dead_strip wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
@@ -102968,7 +102968,7 @@ bl _p_41
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_356:
+Lme_357:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_FindEntry_Xamarin_Forms_Xaml_XmlName
@@ -103263,7 +103263,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_357:
+Lme_358:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_EnsureCapacity_int
@@ -103390,7 +103390,7 @@ bl _p_638
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_358:
+Lme_359:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__cctor
@@ -103438,7 +103438,7 @@ ldr x0, [x16, #2048]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_359:
+Lme_35a:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryInsert_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_InsertionBehavior
@@ -104196,7 +104196,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_35a:
+Lme_35b:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_TryGetFirst_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument_bool_
@@ -104692,7 +104692,7 @@ ldr x15, [x16, #4056]
 .word 0xa8d57bfd
 .word 0xd65f03c0
 
-Lme_35b:
+Lme_35c:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__cctor
@@ -104746,7 +104746,7 @@ ldr x0, [x16, #2184]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_362:
+Lme_363:
 .text
 	.align 4
 	.no_dead_strip System_Runtime_CompilerServices_RuntimeHelpers_IsReferenceOrContainsReferences_Xamarin_Forms_Xaml_XmlName
@@ -104828,7 +104828,7 @@ bl _p_643
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_363:
+Lme_364:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -105262,7 +105262,7 @@ ldr x15, [x16, #4056]
 .word 0xa8cd7bfd
 .word 0xd65f03c0
 
-Lme_364:
+Lme_365:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int_System_Collections_Generic_IEqualityComparer_1_Xamarin_Forms_Xaml_XmlName
@@ -105401,7 +105401,7 @@ ldr x1, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_365:
+Lme_366:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_TryGetFirst_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
@@ -105952,7 +105952,7 @@ ldr x2, [x16, #16]
 .word 0xa8d97bfd
 .word 0xd65f03c0
 
-Lme_366:
+Lme_367:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -106012,7 +106012,7 @@ bl _p_647
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_367:
+Lme_368:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -106075,7 +106075,7 @@ bl _p_648
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_368:
+Lme_369:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -106137,7 +106137,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_369:
+Lme_36a:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
@@ -106382,7 +106382,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_36a:
+Lme_36b:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
@@ -106592,7 +106592,7 @@ bl _p_425
 .word 0xaa1103e1
 bl _p_18
 
-Lme_36b:
+Lme_36c:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
@@ -106806,7 +106806,7 @@ bl _p_653
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_36c:
+Lme_36d:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator_int_int
@@ -106882,7 +106882,7 @@ ldr x3, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_36d:
+Lme_36e:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray_int_int
@@ -107279,7 +107279,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_36e:
+Lme_36f:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList_int_int
@@ -107609,7 +107609,7 @@ bl _p_425
 .word 0xaa1103e1
 bl _p_18
 
-Lme_36f:
+Lme_370:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_int_int_bool
@@ -107718,7 +107718,7 @@ bl _p_658
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_370:
+Lme_371:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerableSorter
@@ -107767,7 +107767,7 @@ ldr x16, [x16, #3072]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_371:
+Lme_372:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetComparer
@@ -107816,7 +107816,7 @@ ldr x16, [x16, #3080]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_373:
+Lme_374:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
@@ -107860,7 +107860,7 @@ bl _p_659
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_375:
+Lme_376:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
@@ -107921,7 +107921,7 @@ bl _p_660
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_376:
+Lme_377:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
@@ -107981,7 +107981,7 @@ bl _p_660
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_377:
+Lme_378:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
@@ -108296,7 +108296,7 @@ ldr x2, [x16, #16]
 .word 0xa8cd7bfd
 .word 0xd65f03c0
 
-Lme_378:
+Lme_379:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
@@ -108775,7 +108775,7 @@ ldr x2, [x16, #16]
 .word 0xa8dc7bfd
 .word 0xd65f03c0
 
-Lme_379:
+Lme_37a:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
@@ -109330,7 +109330,7 @@ ldr x2, [x16, #16]
 .word 0x9100023f
 .word 0xd65f03c0
 
-Lme_37a:
+Lme_37b:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
@@ -109809,7 +109809,7 @@ ldr x2, [x16, #16]
 .word 0xa8dc7bfd
 .word 0xd65f03c0
 
-Lme_37b:
+Lme_37c:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_int_int_bool_
@@ -110112,7 +110112,7 @@ ldr x2, [x16, #16]
 .word 0xa8cf7bfd
 .word 0xd65f03c0
 
-Lme_37c:
+Lme_37d:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Last_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -110433,7 +110433,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_37d:
+Lme_37e:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -110465,7 +110465,7 @@ ldr x16, [x16, #3168]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_37e:
+Lme_37f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_EnsureCapacity_int
@@ -110592,7 +110592,7 @@ bl _p_664
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_37f:
+Lme_380:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
@@ -110640,7 +110640,7 @@ ldr x0, [x16, #2360]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_380:
+Lme_381:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__ctor
@@ -110672,7 +110672,7 @@ ldr x16, [x16, #3192]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_381:
+Lme_382:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_Dispose
@@ -110708,7 +110708,7 @@ ldr x16, [x16, #3200]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_382:
+Lme_383:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_MoveNext
@@ -110746,7 +110746,7 @@ ldr x16, [x16, #3208]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_383:
+Lme_384:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_get_Current
@@ -110794,7 +110794,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_384:
+Lme_385:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
@@ -110878,7 +110878,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_385:
+Lme_386:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
@@ -110914,7 +110914,7 @@ ldr x16, [x16, #3232]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_386:
+Lme_387:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -110946,7 +110946,7 @@ ldr x16, [x16, #3240]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_387:
+Lme_388:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
@@ -110982,7 +110982,7 @@ ldr x16, [x16, #3248]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_388:
+Lme_389:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
@@ -111020,7 +111020,7 @@ ldr x16, [x16, #3256]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_389:
+Lme_38a:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
@@ -111067,7 +111067,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_38a:
+Lme_38b:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
@@ -111162,7 +111162,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_38b:
+Lme_38c:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
@@ -111198,7 +111198,7 @@ ldr x16, [x16, #3280]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_38c:
+Lme_38d:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_set_Capacity_int
@@ -111381,7 +111381,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_38d:
+Lme_38e:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize
@@ -111439,7 +111439,7 @@ bl _p_669
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_38e:
+Lme_38f:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Initialize_int
@@ -111622,7 +111622,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_38f:
+Lme_390:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor
@@ -111654,7 +111654,7 @@ ldr x16, [x16, #3328]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_390:
+Lme_391:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
@@ -111690,7 +111690,7 @@ ldr x16, [x16, #3336]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_391:
+Lme_392:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
@@ -111728,7 +111728,7 @@ ldr x16, [x16, #3344]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_392:
+Lme_393:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
@@ -111776,7 +111776,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_393:
+Lme_394:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
@@ -111860,7 +111860,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_394:
+Lme_395:
 .text
 	.align 4
 	.no_dead_strip System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
@@ -111896,7 +111896,7 @@ ldr x16, [x16, #3368]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_395:
+Lme_396:
 .text
 	.align 4
 	.no_dead_strip System_Linq_CachingComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -111928,7 +111928,7 @@ ldr x16, [x16, #3376]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_398:
+Lme_399:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
@@ -112007,7 +112007,7 @@ bl _p_672
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_399:
+Lme_39a:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ComputeMap_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
@@ -112127,7 +112127,7 @@ bl _p_35
 .word 0xaa1103e1
 bl _p_18
 
-Lme_39c:
+Lme_39d:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int_int
@@ -112210,7 +112210,7 @@ bl _p_672
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_39d:
+Lme_39e:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ElementAt_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int
@@ -112347,7 +112347,7 @@ ldr x2, [x16, #16]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_39e:
+Lme_39f:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -112379,7 +112379,7 @@ ldr x16, [x16, #3416]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3a2:
+Lme_3a3:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
@@ -112417,7 +112417,7 @@ ldr x16, [x16, #3424]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3a3:
+Lme_3a4:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
@@ -112444,7 +112444,7 @@ ldr x16, [x16, #3432]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3a4:
+Lme_3a5:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
@@ -112762,7 +112762,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_3a5:
+Lme_3a6:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
@@ -112844,7 +112844,7 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3a6:
+Lme_3a7:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
@@ -112877,7 +112877,7 @@ bl _p_41
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3a7:
+Lme_3a8:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
@@ -112964,9 +112964,9 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3a8:
+Lme_3a9:
 .text
-ut_937:
+ut_938:
 add x0, x0, 16
 b System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 .text
@@ -113150,7 +113150,7 @@ ldr x2, [x16, #16]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_3a9:
+Lme_3aa:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
@@ -113275,7 +113275,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3aa:
+Lme_3ab:
 .text
 	.align 4
 	.no_dead_strip System_Linq_Enumerable_Count_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -113715,7 +113715,7 @@ ldr x15, [x16, #4056]
 .word 0xaa1103e1
 bl _p_18
 
-Lme_3ab:
+Lme_3ac:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
@@ -113753,7 +113753,7 @@ ldr x16, [x16, #3520]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3ac:
+Lme_3ad:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
@@ -113780,7 +113780,7 @@ ldr x16, [x16, #3528]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3ad:
+Lme_3ae:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
@@ -114239,7 +114239,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_3ae:
+Lme_3af:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
@@ -114321,7 +114321,7 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3af:
+Lme_3b0:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
@@ -114354,7 +114354,7 @@ bl _p_41
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3b0:
+Lme_3b1:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
@@ -114441,7 +114441,7 @@ ldr x3, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3b1:
+Lme_3b2:
 .text
 	.align 4
 	.no_dead_strip System_Array_Empty_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
@@ -114481,7 +114481,7 @@ ldr x0, [x16, #3584]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3b2:
+Lme_3b3:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
@@ -114565,7 +114565,7 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3b3:
+Lme_3b4:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -114618,7 +114618,7 @@ bl _p_674
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3b4:
+Lme_3b5:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
@@ -114662,7 +114662,7 @@ bl _p_675
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3b5:
+Lme_3b6:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
@@ -114752,7 +114752,7 @@ ldr x0, [x16, #3624]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_3b6:
+Lme_3b7:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
@@ -114845,7 +114845,7 @@ bl _p_660
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_3b7:
+Lme_3b8:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
@@ -115040,7 +115040,7 @@ ldr x2, [x16, #16]
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_3b8:
+Lme_3b9:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
@@ -115139,7 +115139,7 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_3b9:
+Lme_3ba:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
@@ -115240,7 +115240,7 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_3ba:
+Lme_3bb:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
@@ -115293,7 +115293,7 @@ bl _p_678
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3bb:
+Lme_3bc:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
@@ -115346,7 +115346,7 @@ bl _p_679
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3bc:
+Lme_3bd:
 .text
 	.align 4
 	.no_dead_strip System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
@@ -115402,7 +115402,7 @@ bl _p_680
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_3bd:
+Lme_3be:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Capacity_int
@@ -115585,7 +115585,7 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3be:
+Lme_3bf:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize_int_bool
@@ -116051,7 +116051,7 @@ bl _p_18
 .word 0xaa1103e1
 bl _p_18
 
-Lme_3bf:
+Lme_3c0:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EnumerableHelpers_ToArray_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_
@@ -116695,7 +116695,7 @@ bl _p_655
 .word 0xaa1103e1
 bl _p_18
 
-Lme_3c0:
+Lme_3c1:
 .text
 	.align 4
 	.no_dead_strip System_EmptyArray_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
@@ -116744,7 +116744,7 @@ ldr x0, [x16, #3584]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3c1:
+Lme_3c2:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
@@ -116798,7 +116798,7 @@ ldr x0, [x16, #3624]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3c2:
+Lme_3c3:
 .text
 	.align 4
 	.no_dead_strip System_Array_Resize_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode____int
@@ -117009,7 +117009,7 @@ ldr x1, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_3c3:
+Lme_3c4:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
@@ -117051,7 +117051,7 @@ ldr x16, [x16, #3760]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3c4:
+Lme_3c5:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
@@ -117088,7 +117088,7 @@ ldr x16, [x16, #3768]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3c5:
+Lme_3c6:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
@@ -117125,7 +117125,7 @@ ldr x16, [x16, #3776]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3c6:
+Lme_3c7:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
@@ -117163,7 +117163,7 @@ ldr x16, [x16, #3784]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3c7:
+Lme_3c8:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
@@ -117263,7 +117263,7 @@ ldr x2, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_3c8:
+Lme_3c9:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
@@ -117368,7 +117368,7 @@ ldr x3, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_3c9:
+Lme_3ca:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
@@ -117412,7 +117412,7 @@ bl _p_41
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3ca:
+Lme_3cb:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
@@ -117448,7 +117448,7 @@ ldr x16, [x16, #3816]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_3cb:
+Lme_3cc:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
@@ -117486,7 +117486,7 @@ ldr x16, [x16, #3824]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3cc:
+Lme_3cd:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
@@ -117524,7 +117524,7 @@ ldr x16, [x16, #3832]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3cd:
+Lme_3ce:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
@@ -117634,7 +117634,7 @@ ldr x2, [x16, #16]
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_3ce:
+Lme_3cf:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
@@ -117743,7 +117743,7 @@ ldr x2, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_3cf:
+Lme_3d0:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
@@ -117852,7 +117852,7 @@ ldr x2, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_3d0:
+Lme_3d1:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
@@ -117899,7 +117899,7 @@ bl _p_655
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3d1:
+Lme_3d2:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
@@ -117949,7 +117949,7 @@ bl _p_419
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3d2:
+Lme_3d3:
 .text
 	.align 4
 	.no_dead_strip System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
@@ -117988,7 +117988,7 @@ ldr x16, [x16, #3880]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_3d3:
+Lme_3d4:
 .text
 	.align 3
 jit_code_end:
@@ -118559,6 +118559,7 @@ bl method_addresses
 bl method_addresses
 bl method_addresses
 bl method_addresses
+bl method_addresses
 bl System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
 bl System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 bl System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
@@ -118991,14 +118992,14 @@ unbox_trampolines:
 
 	.long 406,407,408,409,410,411,412,413
 	.long 414,489,490,491,492,493,494,511
-	.long 512,513,514,515,516,561,562,563
-	.long 564,565,566,568,569,570,571,606
-	.long 607,608,609,610,611,612,613,614
-	.long 691,692,693,694,695,696,697,702
-	.long 703,704,705,706,707,708,780,781
-	.long 794,795,796,797,798,799,827,829
-	.long 830,831,832,833,834,836,837,838
-	.long 839,840,841,937
+	.long 512,513,514,515,516,562,563,564
+	.long 565,566,567,569,570,571,572,607
+	.long 608,609,610,611,612,613,614,615
+	.long 692,693,694,695,696,697,698,703
+	.long 704,705,706,707,708,709,781,782
+	.long 795,796,797,798,799,800,828,830
+	.long 831,832,833,834,835,837,838,839
+	.long 840,841,842,938
 unbox_trampolines_end:
 
 	.long 0
@@ -119026,17 +119027,16 @@ bl ut_513
 bl ut_514
 bl ut_515
 bl ut_516
-bl ut_561
 bl ut_562
 bl ut_563
 bl ut_564
 bl ut_565
 bl ut_566
-bl ut_568
+bl ut_567
 bl ut_569
 bl ut_570
 bl ut_571
-bl ut_606
+bl ut_572
 bl ut_607
 bl ut_608
 bl ut_609
@@ -119045,42 +119045,43 @@ bl ut_611
 bl ut_612
 bl ut_613
 bl ut_614
-bl ut_691
+bl ut_615
 bl ut_692
 bl ut_693
 bl ut_694
 bl ut_695
 bl ut_696
 bl ut_697
-bl ut_702
+bl ut_698
 bl ut_703
 bl ut_704
 bl ut_705
 bl ut_706
 bl ut_707
 bl ut_708
-bl ut_780
+bl ut_709
 bl ut_781
-bl ut_794
+bl ut_782
 bl ut_795
 bl ut_796
 bl ut_797
 bl ut_798
 bl ut_799
-bl ut_827
-bl ut_829
+bl ut_800
+bl ut_828
 bl ut_830
 bl ut_831
 bl ut_832
 bl ut_833
 bl ut_834
-bl ut_836
+bl ut_835
 bl ut_837
 bl ut_838
 bl ut_839
 bl ut_840
 bl ut_841
-bl ut_937
+bl ut_842
+bl ut_938
 
 	.long 0
 .section __TEXT, __const
@@ -124814,13 +124815,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 1510,17552,684,985,70,387000831,0,167838
-	.long 128,8,8,8,0,25,186776,18928
-	.long 18400,13392,0,16344,18256,14136,0,9360
-	.long 1464,18920,0,0,0,0,0,0
+	.long 1510,17552,684,986,70,387000831,0,167838
+	.long 128,8,8,8,0,25,186784,18936
+	.long 18408,13400,0,16352,18264,14144,0,9360
+	.long 1464,18928,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 103,128,193,163,116,60,241,26,58,188,140,66,174,158,113,172
+	.byte 37,87,158,100,50,204,32,168,239,170,159,19,4,206,180,135
 	.globl _mono_aot_module_Xamarin_Forms_Xaml_info
 	.align 3
 _mono_aot_module_Xamarin_Forms_Xaml_info:
@@ -157293,7 +157294,7 @@ LDIFF_SYM4282=LTDIE_313 - Ldebug_info_start
 
 	.byte 34,218,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
-	.quad Lme_231
+	.quad Lme_232
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157317,7 +157318,7 @@ Lfde492_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
 
-LDIFF_SYM4286=Lme_231 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
+LDIFF_SYM4286=Lme_232 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Array
 	.long LDIFF_SYM4286
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
@@ -157332,7 +157333,7 @@ Lfde492_end:
 
 	.byte 34,224,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_232
+	.quad Lme_233
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157351,7 +157352,7 @@ Lfde493_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM4289=Lme_232 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM4289=Lme_233 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM4289
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -157366,7 +157367,7 @@ Lfde493_end:
 
 	.byte 34,228,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_233
+	.quad Lme_234
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157390,7 +157391,7 @@ Lfde494_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM4293=Lme_233 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM4293=Lme_234 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM4293
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
@@ -157405,7 +157406,7 @@ Lfde494_end:
 
 	.byte 34,236,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_234
+	.quad Lme_235
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157424,7 +157425,7 @@ Lfde495_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM4296=Lme_234 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM4296=Lme_235 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM4296
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
@@ -157439,7 +157440,7 @@ Lfde495_end:
 
 	.byte 34,247,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_235
+	.quad Lme_236
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157458,7 +157459,7 @@ Lfde496_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM4299=Lme_235 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM4299=Lme_236 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM4299
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -157473,7 +157474,7 @@ Lfde496_end:
 
 	.byte 34,252,1
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_236
+	.quad Lme_237
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157492,7 +157493,7 @@ Lfde497_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM4302=Lme_236 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM4302=Lme_237 - System_Array_InternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM4302
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -157507,7 +157508,7 @@ Lfde497_end:
 
 	.byte 34,71
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_237
+	.quad Lme_238
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157526,7 +157527,7 @@ Lfde498_start:
 	.align 3
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4305=Lme_237 - System_Array_InternalArray__IEnumerable_GetEnumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4305=Lme_238 - System_Array_InternalArray__IEnumerable_GetEnumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4305
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
@@ -157573,7 +157574,7 @@ LDIFF_SYM4311=LTDIE_314 - Ldebug_info_start
 
 	.byte 36,61
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_238
+	.quad Lme_239
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157602,7 +157603,7 @@ Lfde499_start:
 	.align 3
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4316=Lme_238 - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4316=Lme_239 - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4316
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
@@ -157617,7 +157618,7 @@ Lfde499_end:
 
 	.byte 36,67
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Key
-	.quad Lme_239
+	.quad Lme_23a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157636,7 +157637,7 @@ Lfde500_start:
 	.align 3
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Key
 
-LDIFF_SYM4319=Lme_239 - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Key
+LDIFF_SYM4319=Lme_23a - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Key
 	.long LDIFF_SYM4319
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -157651,7 +157652,7 @@ Lfde500_end:
 
 	.byte 36,72
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Value
-	.quad Lme_23a
+	.quad Lme_23b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157670,7 +157671,7 @@ Lfde501_start:
 	.align 3
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Value
 
-LDIFF_SYM4322=Lme_23a - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Value
+LDIFF_SYM4322=Lme_23b - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Value
 	.long LDIFF_SYM4322
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -157685,7 +157686,7 @@ Lfde501_end:
 
 	.byte 36,77
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToString
-	.quad Lme_23b
+	.quad Lme_23c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157704,7 +157705,7 @@ Lfde502_start:
 	.align 3
 	.quad System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToString
 
-LDIFF_SYM4325=Lme_23b - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToString
+LDIFF_SYM4325=Lme_23c - System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToString
 	.long LDIFF_SYM4325
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
@@ -157719,7 +157720,7 @@ Lfde502_end:
 
 	.byte 37,168,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_23c
+	.quad Lme_23d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157743,7 +157744,7 @@ Lfde503_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4329=Lme_23c - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4329=Lme_23d - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4329
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -157758,7 +157759,7 @@ Lfde503_end:
 
 	.byte 37,179,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_23d
+	.quad Lme_23e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157777,7 +157778,7 @@ Lfde504_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM4332=Lme_23d - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM4332=Lme_23e - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM4332
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29
@@ -157792,7 +157793,7 @@ Lfde504_end:
 
 	.byte 37,184,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_XmlName___int
-	.quad Lme_23e
+	.quad Lme_23f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157836,7 +157837,7 @@ Lfde505_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_XmlName___int
 
-LDIFF_SYM4340=Lme_23e - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_XmlName___int
+LDIFF_SYM4340=Lme_23f - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_XmlName___int
 	.long LDIFF_SYM4340
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10,153,9,68,154,8
@@ -157851,7 +157852,7 @@ Lfde505_end:
 
 	.byte 37,209,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
-	.quad Lme_23f
+	.quad Lme_240
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157870,7 +157871,7 @@ Lfde506_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 
-LDIFF_SYM4343=Lme_23f - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
+LDIFF_SYM4343=Lme_240 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 	.long LDIFF_SYM4343
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -157885,7 +157886,7 @@ Lfde506_end:
 
 	.byte 37,214,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_get_IsReadOnly
-	.quad Lme_240
+	.quad Lme_241
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157904,7 +157905,7 @@ Lfde507_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_get_IsReadOnly
 
-LDIFF_SYM4346=Lme_240 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_get_IsReadOnly
+LDIFF_SYM4346=Lme_241 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_get_IsReadOnly
 	.long LDIFF_SYM4346
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -157919,7 +157920,7 @@ Lfde507_end:
 
 	.byte 37,219,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Add_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_241
+	.quad Lme_242
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157943,7 +157944,7 @@ Lfde508_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Add_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM4350=Lme_241 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Add_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM4350=Lme_242 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Add_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM4350
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -157958,7 +157959,7 @@ Lfde508_end:
 
 	.byte 37,224,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Clear
-	.quad Lme_242
+	.quad Lme_243
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -157977,7 +157978,7 @@ Lfde509_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Clear
 
-LDIFF_SYM4353=Lme_242 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Clear
+LDIFF_SYM4353=Lme_243 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Clear
 	.long LDIFF_SYM4353
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -157992,7 +157993,7 @@ Lfde509_end:
 
 	.byte 37,229,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Contains_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_243
+	.quad Lme_244
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158016,7 +158017,7 @@ Lfde510_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Contains_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM4357=Lme_243 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Contains_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM4357=Lme_244 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Contains_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM4357
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -158031,7 +158032,7 @@ Lfde510_end:
 
 	.byte 37,234,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Remove_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_244
+	.quad Lme_245
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158055,7 +158056,7 @@ Lfde511_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Remove_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM4361=Lme_244 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Remove_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM4361=Lme_245 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TKey_Remove_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM4361
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158070,7 +158071,7 @@ Lfde511_end:
 
 	.byte 37,240,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TKey_GetEnumerator
-	.quad Lme_245
+	.quad Lme_246
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158089,7 +158090,7 @@ Lfde512_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TKey_GetEnumerator
 
-LDIFF_SYM4364=Lme_245 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TKey_GetEnumerator
+LDIFF_SYM4364=Lme_246 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TKey_GetEnumerator
 	.long LDIFF_SYM4364
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -158104,7 +158105,7 @@ Lfde512_end:
 
 	.byte 37,245,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
-	.quad Lme_246
+	.quad Lme_247
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158123,7 +158124,7 @@ Lfde513_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM4367=Lme_246 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
+LDIFF_SYM4367=Lme_247 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 	.long LDIFF_SYM4367
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -158138,7 +158139,7 @@ Lfde513_end:
 
 	.byte 37,250,8
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
-	.quad Lme_247
+	.quad Lme_248
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158192,7 +158193,7 @@ Lfde514_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
 
-LDIFF_SYM4377=Lme_247 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
+LDIFF_SYM4377=Lme_248 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
 	.long LDIFF_SYM4377
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,148,31,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -158208,7 +158209,7 @@ Lfde514_end:
 
 	.byte 37,178,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
-	.quad Lme_248
+	.quad Lme_249
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158227,7 +158228,7 @@ Lfde515_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
 
-LDIFF_SYM4380=Lme_248 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
+LDIFF_SYM4380=Lme_249 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
 	.long LDIFF_SYM4380
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -158242,7 +158243,7 @@ Lfde515_end:
 
 	.byte 37,183,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
-	.quad Lme_249
+	.quad Lme_24a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158261,7 +158262,7 @@ Lfde516_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
 
-LDIFF_SYM4383=Lme_249 - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
+LDIFF_SYM4383=Lme_24a - System_Collections_Generic_Dictionary_2_KeyCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
 	.long LDIFF_SYM4383
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158276,7 +158277,7 @@ Lfde516_end:
 
 	.byte 37,146,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_24a
+	.quad Lme_24b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158300,7 +158301,7 @@ Lfde517_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4387=Lme_24a - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4387=Lme_24b - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4387
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -158315,7 +158316,7 @@ Lfde517_end:
 
 	.byte 37,157,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_24b
+	.quad Lme_24c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158334,7 +158335,7 @@ Lfde518_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM4390=Lme_24b - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM4390=Lme_24c - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM4390
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -158349,7 +158350,7 @@ Lfde518_end:
 
 	.byte 37,162,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_INode___int
-	.quad Lme_24c
+	.quad Lme_24d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158393,7 +158394,7 @@ Lfde519_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_INode___int
 
-LDIFF_SYM4398=Lme_24c - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_INode___int
+LDIFF_SYM4398=Lme_24d - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CopyTo_Xamarin_Forms_Xaml_INode___int
 	.long LDIFF_SYM4398
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,148,12,149,11,68,150,10,151,9,68,152,8,153,7,68,154,6
@@ -158408,7 +158409,7 @@ Lfde519_end:
 
 	.byte 37,187,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
-	.quad Lme_24d
+	.quad Lme_24e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158427,7 +158428,7 @@ Lfde520_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 
-LDIFF_SYM4401=Lme_24d - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
+LDIFF_SYM4401=Lme_24e - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 	.long LDIFF_SYM4401
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158442,7 +158443,7 @@ Lfde520_end:
 
 	.byte 37,192,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_get_IsReadOnly
-	.quad Lme_24e
+	.quad Lme_24f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158461,7 +158462,7 @@ Lfde521_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_get_IsReadOnly
 
-LDIFF_SYM4404=Lme_24e - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_get_IsReadOnly
+LDIFF_SYM4404=Lme_24f - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_get_IsReadOnly
 	.long LDIFF_SYM4404
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -158476,7 +158477,7 @@ Lfde521_end:
 
 	.byte 37,197,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Add_Xamarin_Forms_Xaml_INode
-	.quad Lme_24f
+	.quad Lme_250
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158500,7 +158501,7 @@ Lfde522_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Add_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4408=Lme_24f - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Add_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4408=Lme_250 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Add_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4408
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158515,7 +158516,7 @@ Lfde522_end:
 
 	.byte 37,202,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Remove_Xamarin_Forms_Xaml_INode
-	.quad Lme_250
+	.quad Lme_251
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158539,7 +158540,7 @@ Lfde523_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Remove_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4412=Lme_250 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Remove_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4412=Lme_251 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Remove_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4412
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158554,7 +158555,7 @@ Lfde523_end:
 
 	.byte 37,208,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Clear
-	.quad Lme_251
+	.quad Lme_252
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158573,7 +158574,7 @@ Lfde524_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Clear
 
-LDIFF_SYM4415=Lme_251 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Clear
+LDIFF_SYM4415=Lme_252 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Clear
 	.long LDIFF_SYM4415
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -158588,7 +158589,7 @@ Lfde524_end:
 
 	.byte 37,213,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Contains_Xamarin_Forms_Xaml_INode
-	.quad Lme_252
+	.quad Lme_253
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158612,7 +158613,7 @@ Lfde525_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Contains_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4419=Lme_252 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Contains_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4419=Lme_253 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_ICollection_TValue_Contains_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4419
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -158627,7 +158628,7 @@ Lfde525_end:
 
 	.byte 37,218,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TValue_GetEnumerator
-	.quad Lme_253
+	.quad Lme_254
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158646,7 +158647,7 @@ Lfde526_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TValue_GetEnumerator
 
-LDIFF_SYM4422=Lme_253 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TValue_GetEnumerator
+LDIFF_SYM4422=Lme_254 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_TValue_GetEnumerator
 	.long LDIFF_SYM4422
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -158661,7 +158662,7 @@ Lfde526_end:
 
 	.byte 37,223,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
-	.quad Lme_254
+	.quad Lme_255
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158680,7 +158681,7 @@ Lfde527_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM4425=Lme_254 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
+LDIFF_SYM4425=Lme_255 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 	.long LDIFF_SYM4425
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -158695,7 +158696,7 @@ Lfde527_end:
 
 	.byte 37,228,10
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
-	.quad Lme_255
+	.quad Lme_256
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158749,7 +158750,7 @@ Lfde528_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
 
-LDIFF_SYM4435=Lme_255 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
+LDIFF_SYM4435=Lme_256 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_CopyTo_System_Array_int
 	.long LDIFF_SYM4435
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,148,31,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -158765,7 +158766,7 @@ Lfde528_end:
 
 	.byte 37,154,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
-	.quad Lme_256
+	.quad Lme_257
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158784,7 +158785,7 @@ Lfde529_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
 
-LDIFF_SYM4438=Lme_256 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
+LDIFF_SYM4438=Lme_257 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_IsSynchronized
 	.long LDIFF_SYM4438
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -158799,7 +158800,7 @@ Lfde529_end:
 
 	.byte 37,159,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
-	.quad Lme_257
+	.quad Lme_258
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158818,7 +158819,7 @@ Lfde530_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
 
-LDIFF_SYM4441=Lme_257 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
+LDIFF_SYM4441=Lme_258 - System_Collections_Generic_Dictionary_2_ValueCollection_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_ICollection_get_SyncRoot
 	.long LDIFF_SYM4441
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -158833,7 +158834,7 @@ Lfde530_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_MethodInfo_bool_invoke_TResult_T_System_Reflection_MethodInfo
-	.quad Lme_25c
+	.quad Lme_25d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158887,7 +158888,7 @@ Lfde531_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_MethodInfo_bool_invoke_TResult_T_System_Reflection_MethodInfo
 
-LDIFF_SYM4451=Lme_25c - wrapper_delegate_invoke_System_Func_2_System_Reflection_MethodInfo_bool_invoke_TResult_T_System_Reflection_MethodInfo
+LDIFF_SYM4451=Lme_25d - wrapper_delegate_invoke_System_Func_2_System_Reflection_MethodInfo_bool_invoke_TResult_T_System_Reflection_MethodInfo
 	.long LDIFF_SYM4451
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -158903,7 +158904,7 @@ Lfde531_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_System_Exception_invoke_void_T_System_Exception
-	.quad Lme_25d
+	.quad Lme_25e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -158952,7 +158953,7 @@ Lfde532_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_Exception_invoke_void_T_System_Exception
 
-LDIFF_SYM4460=Lme_25d - wrapper_delegate_invoke_System_Action_1_System_Exception_invoke_void_T_System_Exception
+LDIFF_SYM4460=Lme_25e - wrapper_delegate_invoke_System_Action_1_System_Exception_invoke_void_T_System_Exception
 	.long LDIFF_SYM4460
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -159015,7 +159016,7 @@ LDIFF_SYM4469=LTDIE_315 - Ldebug_info_start
 
 	.byte 37,175,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
-	.quad Lme_25e
+	.quad Lme_25f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159044,7 +159045,7 @@ Lfde533_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
 
-LDIFF_SYM4474=Lme_25e - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
+LDIFF_SYM4474=Lme_25f - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
 	.long LDIFF_SYM4474
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6,153,5
@@ -159101,7 +159102,7 @@ LDIFF_SYM4482=LTDIE_316 - Ldebug_info_start
 
 	.byte 37,184,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_25f
+	.quad Lme_260
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159130,7 +159131,7 @@ Lfde534_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM4487=Lme_25f - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM4487=Lme_260 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM4487
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,152,14,153,13,68,154,12
@@ -159145,7 +159146,7 @@ Lfde534_end:
 
 	.byte 37,209,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_260
+	.quad Lme_261
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159164,7 +159165,7 @@ Lfde535_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM4490=Lme_260 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM4490=Lme_261 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM4490
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -159179,7 +159180,7 @@ Lfde535_end:
 
 	.byte 37,214,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_261
+	.quad Lme_262
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159198,7 +159199,7 @@ Lfde536_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM4493=Lme_261 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM4493=Lme_262 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM4493
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -159213,7 +159214,7 @@ Lfde536_end:
 
 	.byte 37,220,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_262
+	.quad Lme_263
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159232,7 +159233,7 @@ Lfde537_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM4496=Lme_262 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM4496=Lme_263 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM4496
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,154,22
@@ -159247,7 +159248,7 @@ Lfde537_end:
 
 	.byte 37,238,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_263
+	.quad Lme_264
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159266,7 +159267,7 @@ Lfde538_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM4499=Lme_263 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM4499=Lme_264 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM4499
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -159281,7 +159282,7 @@ Lfde538_end:
 
 	.byte 37,251,7
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Entry
-	.quad Lme_264
+	.quad Lme_265
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159300,7 +159301,7 @@ Lfde539_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Entry
 
-LDIFF_SYM4502=Lme_264 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Entry
+LDIFF_SYM4502=Lme_265 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Entry
 	.long LDIFF_SYM4502
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,154,16
@@ -159315,7 +159316,7 @@ Lfde539_end:
 
 	.byte 37,136,8
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Key
-	.quad Lme_265
+	.quad Lme_266
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159334,7 +159335,7 @@ Lfde540_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Key
 
-LDIFF_SYM4505=Lme_265 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Key
+LDIFF_SYM4505=Lme_266 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Key
 	.long LDIFF_SYM4505
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
@@ -159349,7 +159350,7 @@ Lfde540_end:
 
 	.byte 37,149,8
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Value
-	.quad Lme_266
+	.quad Lme_267
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159368,7 +159369,7 @@ Lfde541_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Value
 
-LDIFF_SYM4508=Lme_266 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Value
+LDIFF_SYM4508=Lme_267 - System_Collections_Generic_Dictionary_2_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IDictionaryEnumerator_get_Value
 	.long LDIFF_SYM4508
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -159405,7 +159406,7 @@ LDIFF_SYM4512=LTDIE_317 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_CustomAttributeData_bool_invoke_TResult_T_System_Reflection_CustomAttributeData
-	.quad Lme_267
+	.quad Lme_268
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159459,7 +159460,7 @@ Lfde542_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_CustomAttributeData_bool_invoke_TResult_T_System_Reflection_CustomAttributeData
 
-LDIFF_SYM4522=Lme_267 - wrapper_delegate_invoke_System_Func_2_System_Reflection_CustomAttributeData_bool_invoke_TResult_T_System_Reflection_CustomAttributeData
+LDIFF_SYM4522=Lme_268 - wrapper_delegate_invoke_System_Func_2_System_Reflection_CustomAttributeData_bool_invoke_TResult_T_System_Reflection_CustomAttributeData
 	.long LDIFF_SYM4522
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -159475,7 +159476,7 @@ Lfde542_end:
 
 	.byte 34,84
 	.quad System_Array_InternalArray__ICollection_Add_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_26f
+	.quad Lme_270
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159499,7 +159500,7 @@ Lfde543_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Add_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4526=Lme_26f - System_Array_InternalArray__ICollection_Add_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4526=Lme_270 - System_Array_InternalArray__ICollection_Add_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4526
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -159514,7 +159515,7 @@ Lfde543_end:
 
 	.byte 34,89
 	.quad System_Array_InternalArray__ICollection_Remove_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_270
+	.quad Lme_271
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159538,7 +159539,7 @@ Lfde544_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Remove_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4530=Lme_270 - System_Array_InternalArray__ICollection_Remove_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4530=Lme_271 - System_Array_InternalArray__ICollection_Remove_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4530
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -159553,7 +159554,7 @@ Lfde544_end:
 
 	.byte 34,94
 	.quad System_Array_InternalArray__ICollection_Contains_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_271
+	.quad Lme_272
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159592,7 +159593,7 @@ Lfde545_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Contains_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4537=Lme_271 - System_Array_InternalArray__ICollection_Contains_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4537=Lme_272 - System_Array_InternalArray__ICollection_Contains_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4537
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,152,20,153,19,68,154,18
@@ -159607,7 +159608,7 @@ Lfde545_end:
 
 	.byte 34,119
 	.quad System_Array_InternalArray__ICollection_CopyTo_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument___int
-	.quad Lme_272
+	.quad Lme_273
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159636,7 +159637,7 @@ Lfde546_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_CopyTo_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument___int
 
-LDIFF_SYM4542=Lme_272 - System_Array_InternalArray__ICollection_CopyTo_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument___int
+LDIFF_SYM4542=Lme_273 - System_Array_InternalArray__ICollection_CopyTo_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument___int
 	.long LDIFF_SYM4542
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12
@@ -159651,7 +159652,7 @@ Lfde546_end:
 
 	.byte 34,139,1
 	.quad System_Array_InternalArray__Insert_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_278
+	.quad Lme_279
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159680,7 +159681,7 @@ Lfde547_start:
 	.align 3
 	.quad System_Array_InternalArray__Insert_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4547=Lme_278 - System_Array_InternalArray__Insert_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4547=Lme_279 - System_Array_InternalArray__Insert_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4547
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -159695,7 +159696,7 @@ Lfde547_end:
 
 	.byte 34,144,1
 	.quad System_Array_InternalArray__RemoveAt_int
-	.quad Lme_279
+	.quad Lme_27a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159719,7 +159720,7 @@ Lfde548_start:
 	.align 3
 	.quad System_Array_InternalArray__RemoveAt_int
 
-LDIFF_SYM4551=Lme_279 - System_Array_InternalArray__RemoveAt_int
+LDIFF_SYM4551=Lme_27a - System_Array_InternalArray__RemoveAt_int
 	.long LDIFF_SYM4551
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -159734,7 +159735,7 @@ Lfde548_end:
 
 	.byte 34,149,1
 	.quad System_Array_InternalArray__IndexOf_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_27a
+	.quad Lme_27b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159773,7 +159774,7 @@ Lfde549_start:
 	.align 3
 	.quad System_Array_InternalArray__IndexOf_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4558=Lme_27a - System_Array_InternalArray__IndexOf_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4558=Lme_27b - System_Array_InternalArray__IndexOf_System_Reflection_CustomAttributeTypedArgument_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4558
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,147,28,68,149,27,150,26,68,152,25,153,24,68,154,23
@@ -159788,7 +159789,7 @@ Lfde549_end:
 
 	.byte 34,176,1
 	.quad System_Array_InternalArray__get_Item_System_Reflection_CustomAttributeTypedArgument_int
-	.quad Lme_27b
+	.quad Lme_27c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159817,7 +159818,7 @@ Lfde550_start:
 	.align 3
 	.quad System_Array_InternalArray__get_Item_System_Reflection_CustomAttributeTypedArgument_int
 
-LDIFF_SYM4563=Lme_27b - System_Array_InternalArray__get_Item_System_Reflection_CustomAttributeTypedArgument_int
+LDIFF_SYM4563=Lme_27c - System_Array_InternalArray__get_Item_System_Reflection_CustomAttributeTypedArgument_int
 	.long LDIFF_SYM4563
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,153,16,154,15
@@ -159832,7 +159833,7 @@ Lfde550_end:
 
 	.byte 34,186,1
 	.quad System_Array_InternalArray__set_Item_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_27c
+	.quad Lme_27d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159866,7 +159867,7 @@ Lfde551_start:
 	.align 3
 	.quad System_Array_InternalArray__set_Item_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM4569=Lme_27c - System_Array_InternalArray__set_Item_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM4569=Lme_27d - System_Array_InternalArray__set_Item_System_Reflection_CustomAttributeTypedArgument_int_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM4569
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,148,18,149,17,68,150,16,151,15,68,152,14,153,13,68,154,12
@@ -159903,7 +159904,7 @@ LDIFF_SYM4573=LTDIE_318 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_FieldInfo_bool_invoke_TResult_T_System_Reflection_FieldInfo
-	.quad Lme_27d
+	.quad Lme_27e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -159957,7 +159958,7 @@ Lfde552_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_FieldInfo_bool_invoke_TResult_T_System_Reflection_FieldInfo
 
-LDIFF_SYM4583=Lme_27d - wrapper_delegate_invoke_System_Func_2_System_Reflection_FieldInfo_bool_invoke_TResult_T_System_Reflection_FieldInfo
+LDIFF_SYM4583=Lme_27e - wrapper_delegate_invoke_System_Func_2_System_Reflection_FieldInfo_bool_invoke_TResult_T_System_Reflection_FieldInfo
 	.long LDIFF_SYM4583
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -159995,7 +159996,7 @@ LDIFF_SYM4587=LTDIE_319 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_PropertyInfo_bool_invoke_TResult_T_System_Reflection_PropertyInfo
-	.quad Lme_27e
+	.quad Lme_27f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160049,7 +160050,7 @@ Lfde553_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_PropertyInfo_bool_invoke_TResult_T_System_Reflection_PropertyInfo
 
-LDIFF_SYM4597=Lme_27e - wrapper_delegate_invoke_System_Func_2_System_Reflection_PropertyInfo_bool_invoke_TResult_T_System_Reflection_PropertyInfo
+LDIFF_SYM4597=Lme_27f - wrapper_delegate_invoke_System_Func_2_System_Reflection_PropertyInfo_bool_invoke_TResult_T_System_Reflection_PropertyInfo
 	.long LDIFF_SYM4597
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160065,7 +160066,7 @@ Lfde553_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_1_System_Reflection_MemberInfo_invoke_TResult
-	.quad Lme_27f
+	.quad Lme_280
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160114,7 +160115,7 @@ Lfde554_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_1_System_Reflection_MemberInfo_invoke_TResult
 
-LDIFF_SYM4606=Lme_27f - wrapper_delegate_invoke_System_Func_1_System_Reflection_MemberInfo_invoke_TResult
+LDIFF_SYM4606=Lme_280 - wrapper_delegate_invoke_System_Func_1_System_Reflection_MemberInfo_invoke_TResult
 	.long LDIFF_SYM4606
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -160130,7 +160131,7 @@ Lfde554_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
-	.quad Lme_280
+	.quad Lme_281
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160179,7 +160180,7 @@ Lfde555_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
 
-LDIFF_SYM4615=Lme_280 - wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
+LDIFF_SYM4615=Lme_281 - wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
 	.long LDIFF_SYM4615
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -160237,7 +160238,7 @@ LDIFF_SYM4622=LTDIE_321 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Type_System_Collections_Generic_IEnumerable_1_System_Reflection_MethodInfo_invoke_TResult_T_System_Type
-	.quad Lme_281
+	.quad Lme_282
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160291,7 +160292,7 @@ Lfde556_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Type_System_Collections_Generic_IEnumerable_1_System_Reflection_MethodInfo_invoke_TResult_T_System_Type
 
-LDIFF_SYM4632=Lme_281 - wrapper_delegate_invoke_System_Func_2_System_Type_System_Collections_Generic_IEnumerable_1_System_Reflection_MethodInfo_invoke_TResult_T_System_Type
+LDIFF_SYM4632=Lme_282 - wrapper_delegate_invoke_System_Func_2_System_Type_System_Collections_Generic_IEnumerable_1_System_Reflection_MethodInfo_invoke_TResult_T_System_Type
 	.long LDIFF_SYM4632
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160307,7 +160308,7 @@ Lfde556_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode_invoke_void_T1_T2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode
-	.quad Lme_282
+	.quad Lme_283
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160361,7 +160362,7 @@ Lfde557_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode_invoke_void_T1_T2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4642=Lme_282 - wrapper_delegate_invoke_System_Action_2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode_invoke_void_T1_T2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4642=Lme_283 - wrapper_delegate_invoke_System_Action_2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode_invoke_void_T1_T2_Xamarin_Forms_Xaml_INode_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4642
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160399,7 +160400,7 @@ LDIFF_SYM4646=LTDIE_322 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_ConstructorInfo_bool_invoke_TResult_T_System_Reflection_ConstructorInfo
-	.quad Lme_283
+	.quad Lme_284
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160453,7 +160454,7 @@ Lfde558_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_ConstructorInfo_bool_invoke_TResult_T_System_Reflection_ConstructorInfo
 
-LDIFF_SYM4656=Lme_283 - wrapper_delegate_invoke_System_Func_2_System_Reflection_ConstructorInfo_bool_invoke_TResult_T_System_Reflection_ConstructorInfo
+LDIFF_SYM4656=Lme_284 - wrapper_delegate_invoke_System_Func_2_System_Reflection_ConstructorInfo_bool_invoke_TResult_T_System_Reflection_ConstructorInfo
 	.long LDIFF_SYM4656
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160491,7 +160492,7 @@ LDIFF_SYM4660=LTDIE_323 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_object_System_Type_invoke_TResult_T_object
-	.quad Lme_284
+	.quad Lme_285
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160545,7 +160546,7 @@ Lfde559_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_object_System_Type_invoke_TResult_T_object
 
-LDIFF_SYM4670=Lme_284 - wrapper_delegate_invoke_System_Func_2_object_System_Type_invoke_TResult_T_object
+LDIFF_SYM4670=Lme_285 - wrapper_delegate_invoke_System_Func_2_object_System_Type_invoke_TResult_T_object
 	.long LDIFF_SYM4670
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160561,7 +160562,7 @@ Lfde559_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System_Type
-	.quad Lme_285
+	.quad Lme_286
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160615,7 +160616,7 @@ Lfde560_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System_Type
 
-LDIFF_SYM4680=Lme_285 - wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System_Type
+LDIFF_SYM4680=Lme_286 - wrapper_delegate_invoke_System_Func_2_System_Type_string_invoke_TResult_T_System_Type
 	.long LDIFF_SYM4680
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160653,7 +160654,7 @@ LDIFF_SYM4684=LTDIE_324 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_1_System_Reflection_ParameterInfo_invoke_TResult
-	.quad Lme_286
+	.quad Lme_287
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160702,7 +160703,7 @@ Lfde561_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_1_System_Reflection_ParameterInfo_invoke_TResult
 
-LDIFF_SYM4693=Lme_286 - wrapper_delegate_invoke_System_Func_1_System_Reflection_ParameterInfo_invoke_TResult
+LDIFF_SYM4693=Lme_287 - wrapper_delegate_invoke_System_Func_1_System_Reflection_ParameterInfo_invoke_TResult
 	.long LDIFF_SYM4693
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -160740,7 +160741,7 @@ LDIFF_SYM4697=LTDIE_325 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_ParameterInfo_bool_invoke_TResult_T_System_Reflection_ParameterInfo
-	.quad Lme_287
+	.quad Lme_288
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160794,7 +160795,7 @@ Lfde562_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Reflection_ParameterInfo_bool_invoke_TResult_T_System_Reflection_ParameterInfo
 
-LDIFF_SYM4707=Lme_287 - wrapper_delegate_invoke_System_Func_2_System_Reflection_ParameterInfo_bool_invoke_TResult_T_System_Reflection_ParameterInfo
+LDIFF_SYM4707=Lme_288 - wrapper_delegate_invoke_System_Func_2_System_Reflection_ParameterInfo_bool_invoke_TResult_T_System_Reflection_ParameterInfo
 	.long LDIFF_SYM4707
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160832,7 +160833,7 @@ LDIFF_SYM4711=LTDIE_326 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_object_invoke_bool_T_object
-	.quad Lme_288
+	.quad Lme_289
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160886,7 +160887,7 @@ Lfde563_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_object_invoke_bool_T_object
 
-LDIFF_SYM4721=Lme_288 - wrapper_delegate_invoke_System_Predicate_1_object_invoke_bool_T_object
+LDIFF_SYM4721=Lme_289 - wrapper_delegate_invoke_System_Predicate_1_object_invoke_bool_T_object
 	.long LDIFF_SYM4721
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -160924,7 +160925,7 @@ LDIFF_SYM4725=LTDIE_327 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_object_invoke_void_T_object
-	.quad Lme_289
+	.quad Lme_28a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -160973,7 +160974,7 @@ Lfde564_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_object_invoke_void_T_object
 
-LDIFF_SYM4734=Lme_289 - wrapper_delegate_invoke_System_Action_1_object_invoke_void_T_object
+LDIFF_SYM4734=Lme_28a - wrapper_delegate_invoke_System_Action_1_object_invoke_void_T_object
 	.long LDIFF_SYM4734
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -161011,7 +161012,7 @@ LDIFF_SYM4738=LTDIE_328 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_object_invoke_int_T_T_object_object
-	.quad Lme_28a
+	.quad Lme_28b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161070,7 +161071,7 @@ Lfde565_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_object_invoke_int_T_T_object_object
 
-LDIFF_SYM4749=Lme_28a - wrapper_delegate_invoke_System_Comparison_1_object_invoke_int_T_T_object_object
+LDIFF_SYM4749=Lme_28b - wrapper_delegate_invoke_System_Comparison_1_object_invoke_int_T_T_object_object
 	.long LDIFF_SYM4749
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -161108,7 +161109,7 @@ LDIFF_SYM4753=LTDIE_329 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
-	.quad Lme_28b
+	.quad Lme_28c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161162,7 +161163,7 @@ Lfde566_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
 
-LDIFF_SYM4763=Lme_28b - wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
+LDIFF_SYM4763=Lme_28c - wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
 	.long LDIFF_SYM4763
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -161200,7 +161201,7 @@ LDIFF_SYM4767=LTDIE_330 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_string_invoke_void_T_string
-	.quad Lme_28c
+	.quad Lme_28d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161249,7 +161250,7 @@ Lfde567_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_string_invoke_void_T_string
 
-LDIFF_SYM4776=Lme_28c - wrapper_delegate_invoke_System_Action_1_string_invoke_void_T_string
+LDIFF_SYM4776=Lme_28d - wrapper_delegate_invoke_System_Action_1_string_invoke_void_T_string
 	.long LDIFF_SYM4776
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -161287,7 +161288,7 @@ LDIFF_SYM4780=LTDIE_331 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
-	.quad Lme_28d
+	.quad Lme_28e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161346,7 +161347,7 @@ Lfde568_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
 
-LDIFF_SYM4791=Lme_28d - wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
+LDIFF_SYM4791=Lme_28e - wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
 	.long LDIFF_SYM4791
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -161362,7 +161363,7 @@ Lfde568_end:
 
 	.byte 34,84
 	.quad System_Array_InternalArray__ICollection_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_296
+	.quad Lme_297
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161386,7 +161387,7 @@ Lfde569_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4795=Lme_296 - System_Array_InternalArray__ICollection_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4795=Lme_297 - System_Array_InternalArray__ICollection_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4795
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -161401,7 +161402,7 @@ Lfde569_end:
 
 	.byte 34,89
 	.quad System_Array_InternalArray__ICollection_Remove_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_297
+	.quad Lme_298
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161425,7 +161426,7 @@ Lfde570_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Remove_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4799=Lme_297 - System_Array_InternalArray__ICollection_Remove_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4799=Lme_298 - System_Array_InternalArray__ICollection_Remove_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4799
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -161440,7 +161441,7 @@ Lfde570_end:
 
 	.byte 34,94
 	.quad System_Array_InternalArray__ICollection_Contains_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_298
+	.quad Lme_299
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161479,7 +161480,7 @@ Lfde571_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Contains_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4806=Lme_298 - System_Array_InternalArray__ICollection_Contains_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4806=Lme_299 - System_Array_InternalArray__ICollection_Contains_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4806
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,152,28,153,27,68,154,26
@@ -161494,7 +161495,7 @@ Lfde571_end:
 
 	.byte 34,119
 	.quad System_Array_InternalArray__ICollection_CopyTo_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
-	.quad Lme_299
+	.quad Lme_29a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161523,7 +161524,7 @@ Lfde572_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_CopyTo_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 
-LDIFF_SYM4811=Lme_299 - System_Array_InternalArray__ICollection_CopyTo_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
+LDIFF_SYM4811=Lme_29a - System_Array_InternalArray__ICollection_CopyTo_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 	.long LDIFF_SYM4811
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12
@@ -161560,7 +161561,7 @@ LDIFF_SYM4815=LTDIE_332 - Ldebug_info_start
 
 	.byte 35,32
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Default
-	.quad Lme_29a
+	.quad Lme_29b
 
 	.byte 2,118,16,11
 	.asciz "comparer"
@@ -161579,7 +161580,7 @@ Lfde573_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Default
 
-LDIFF_SYM4818=Lme_29a - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Default
+LDIFF_SYM4818=Lme_29b - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Default
 	.long LDIFF_SYM4818
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
@@ -161594,7 +161595,7 @@ Lfde573_end:
 
 	.byte 35,49
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CreateComparer
-	.quad Lme_29b
+	.quad Lme_29c
 
 	.byte 2,118,16,11
 	.asciz "t"
@@ -161623,7 +161624,7 @@ Lfde574_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CreateComparer
 
-LDIFF_SYM4823=Lme_29b - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CreateComparer
+LDIFF_SYM4823=Lme_29c - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_CreateComparer
 	.long LDIFF_SYM4823
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
@@ -161639,7 +161640,7 @@ Lfde574_end:
 
 	.byte 35,129,1
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_29e
+	.quad Lme_29f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161688,7 +161689,7 @@ Lfde575_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM4832=Lme_29e - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM4832=Lme_29f - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM4832
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,149,24,150,23,68,151,22,152,21,68,153,20
@@ -161703,7 +161704,7 @@ Lfde575_end:
 
 	.byte 35,137,1
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_29f
+	.quad Lme_2a0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161752,7 +161753,7 @@ Lfde576_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM4841=Lme_29f - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM4841=Lme_2a0 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM4841
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,149,24,150,23,68,151,22,152,21,68,153,20
@@ -161767,7 +161768,7 @@ Lfde576_end:
 
 	.byte 35,145,1
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_GetHashCode_object
-	.quad Lme_2a0
+	.quad Lme_2a1
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161791,7 +161792,7 @@ Lfde577_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_GetHashCode_object
 
-LDIFF_SYM4845=Lme_2a0 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_GetHashCode_object
+LDIFF_SYM4845=Lme_2a1 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_GetHashCode_object
 	.long LDIFF_SYM4845
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,151,16,152,15,68,154,14
@@ -161806,7 +161807,7 @@ Lfde577_end:
 
 	.byte 35,152,1
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_Equals_object_object
-	.quad Lme_2a1
+	.quad Lme_2a2
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161835,7 +161836,7 @@ Lfde578_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_Equals_object_object
 
-LDIFF_SYM4850=Lme_2a1 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_Equals_object_object
+LDIFF_SYM4850=Lme_2a2 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEqualityComparer_Equals_object_object
 	.long LDIFF_SYM4850
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,148,24,149,23,68,150,22,151,21,68,153,20,154,19
@@ -161850,7 +161851,7 @@ Lfde578_end:
 
 	.byte 0,0
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_2a2
+	.quad Lme_2a3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161869,7 +161870,7 @@ Lfde579_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM4853=Lme_2a2 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM4853=Lme_2a3 - System_Collections_Generic_EqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM4853
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -161906,7 +161907,7 @@ LDIFF_SYM4857=LTDIE_333 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_2a7
+	.quad Lme_2a8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -161960,7 +161961,7 @@ Lfde580_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4867=Lme_2a7 - wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4867=Lme_2a8 - wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4867
 	.long 0
 	.byte 12,31,0,68,14,160,2,157,36,158,35,68,13,29,68,147,34,148,33,68,149,32,150,31,68,151,30,152,29,68,153,28
@@ -161998,7 +161999,7 @@ LDIFF_SYM4871=LTDIE_334 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_void_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_2ac
+	.quad Lme_2ad
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162047,7 +162048,7 @@ Lfde581_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_void_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4880=Lme_2ac - wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_void_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4880=Lme_2ad - wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_void_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4880
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,148,31,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -162085,7 +162086,7 @@ LDIFF_SYM4884=LTDIE_335 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_2b2
+	.quad Lme_2b3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162144,7 +162145,7 @@ Lfde582_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4895=Lme_2b2 - wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4895=Lme_2b3 - wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4895
 	.long 0
 	.byte 12,31,0,68,14,176,3,157,54,158,53,68,13,29,68,147,52,148,51,68,149,50,150,49,68,151,48,152,47,68,153,46
@@ -162202,7 +162203,7 @@ LDIFF_SYM4903=LTDIE_336 - Ldebug_info_start
 
 	.byte 38,137,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_2b3
+	.quad Lme_2b4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162226,7 +162227,7 @@ Lfde583_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM4907=Lme_2b3 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM4907=Lme_2b4 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM4907
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -162241,7 +162242,7 @@ Lfde583_end:
 
 	.byte 38,144,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_2b4
+	.quad Lme_2b5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162260,7 +162261,7 @@ Lfde584_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM4910=Lme_2b4 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM4910=Lme_2b5 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM4910
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -162275,7 +162276,7 @@ Lfde584_end:
 
 	.byte 38,148,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_2b5
+	.quad Lme_2b6
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162299,7 +162300,7 @@ Lfde585_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM4914=Lme_2b5 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM4914=Lme_2b6 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM4914
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
@@ -162314,7 +162315,7 @@ Lfde585_end:
 
 	.byte 38,161,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNextRare
-	.quad Lme_2b6
+	.quad Lme_2b7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162333,7 +162334,7 @@ Lfde586_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNextRare
 
-LDIFF_SYM4917=Lme_2b6 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNextRare
+LDIFF_SYM4917=Lme_2b7 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNextRare
 	.long LDIFF_SYM4917
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -162348,7 +162349,7 @@ Lfde586_end:
 
 	.byte 38,172,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_2b7
+	.quad Lme_2b8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162367,7 +162368,7 @@ Lfde587_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM4920=Lme_2b7 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM4920=Lme_2b8 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM4920
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -162382,7 +162383,7 @@ Lfde587_end:
 
 	.byte 38,178,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_2b8
+	.quad Lme_2b9
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162401,7 +162402,7 @@ Lfde588_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM4923=Lme_2b8 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM4923=Lme_2b9 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM4923
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
@@ -162416,7 +162417,7 @@ Lfde588_end:
 
 	.byte 38,186,9
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_2b9
+	.quad Lme_2ba
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -162435,7 +162436,7 @@ Lfde589_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM4926=Lme_2b9 - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM4926=Lme_2ba - System_Collections_Generic_List_1_Enumerator_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM4926
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -163944,7 +163945,7 @@ LDIFF_SYM5195=LTDIE_338 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_string_invoke_TResult_T1_T2_System_Reflection_AssemblyName_string
-	.quad Lme_2ba
+	.quad Lme_2bb
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164003,7 +164004,7 @@ Lfde590_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_string_invoke_TResult_T1_T2_System_Reflection_AssemblyName_string
 
-LDIFF_SYM5206=Lme_2ba - wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_string_invoke_TResult_T1_T2_System_Reflection_AssemblyName_string
+LDIFF_SYM5206=Lme_2bb - wrapper_delegate_invoke_System_Func_3_System_Reflection_AssemblyName_string_string_invoke_TResult_T1_T2_System_Reflection_AssemblyName_string
 	.long LDIFF_SYM5206
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -164041,7 +164042,7 @@ LDIFF_SYM5210=LTDIE_357 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Xaml_XmlType_invoke_bool_T_Xamarin_Forms_Xaml_XmlType
-	.quad Lme_2bb
+	.quad Lme_2bc
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164095,7 +164096,7 @@ Lfde591_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Xaml_XmlType_invoke_bool_T_Xamarin_Forms_Xaml_XmlType
 
-LDIFF_SYM5220=Lme_2bb - wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Xaml_XmlType_invoke_bool_T_Xamarin_Forms_Xaml_XmlType
+LDIFF_SYM5220=Lme_2bc - wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Xaml_XmlType_invoke_bool_T_Xamarin_Forms_Xaml_XmlType
 	.long LDIFF_SYM5220
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -164133,7 +164134,7 @@ LDIFF_SYM5224=LTDIE_358 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Xaml_XmlType_invoke_void_T_Xamarin_Forms_Xaml_XmlType
-	.quad Lme_2bc
+	.quad Lme_2bd
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164182,7 +164183,7 @@ Lfde592_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Xaml_XmlType_invoke_void_T_Xamarin_Forms_Xaml_XmlType
 
-LDIFF_SYM5233=Lme_2bc - wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Xaml_XmlType_invoke_void_T_Xamarin_Forms_Xaml_XmlType
+LDIFF_SYM5233=Lme_2bd - wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Xaml_XmlType_invoke_void_T_Xamarin_Forms_Xaml_XmlType
 	.long LDIFF_SYM5233
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -164220,7 +164221,7 @@ LDIFF_SYM5237=LTDIE_359 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Xaml_XmlType_invoke_int_T_T_Xamarin_Forms_Xaml_XmlType_Xamarin_Forms_Xaml_XmlType
-	.quad Lme_2bd
+	.quad Lme_2be
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164279,7 +164280,7 @@ Lfde593_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Xaml_XmlType_invoke_int_T_T_Xamarin_Forms_Xaml_XmlType_Xamarin_Forms_Xaml_XmlType
 
-LDIFF_SYM5248=Lme_2bd - wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Xaml_XmlType_invoke_int_T_T_Xamarin_Forms_Xaml_XmlType_Xamarin_Forms_Xaml_XmlType
+LDIFF_SYM5248=Lme_2be - wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Xaml_XmlType_invoke_int_T_T_Xamarin_Forms_Xaml_XmlType_Xamarin_Forms_Xaml_XmlType
 	.long LDIFF_SYM5248
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -164337,7 +164338,7 @@ LDIFF_SYM5256=LTDIE_360 - Ldebug_info_start
 
 	.byte 38,137,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName__ctor_System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_2be
+	.quad Lme_2bf
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164361,7 +164362,7 @@ Lfde594_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName__ctor_System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5260=Lme_2be - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName__ctor_System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5260=Lme_2bf - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName__ctor_System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5260
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -164376,7 +164377,7 @@ Lfde594_end:
 
 	.byte 38,144,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_Dispose
-	.quad Lme_2bf
+	.quad Lme_2c0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164395,7 +164396,7 @@ Lfde595_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_Dispose
 
-LDIFF_SYM5263=Lme_2bf - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_Dispose
+LDIFF_SYM5263=Lme_2c0 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_Dispose
 	.long LDIFF_SYM5263
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -164410,7 +164411,7 @@ Lfde595_end:
 
 	.byte 38,148,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNext
-	.quad Lme_2c0
+	.quad Lme_2c1
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164434,7 +164435,7 @@ Lfde596_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNext
 
-LDIFF_SYM5267=Lme_2c0 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNext
+LDIFF_SYM5267=Lme_2c1 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNext
 	.long LDIFF_SYM5267
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
@@ -164449,7 +164450,7 @@ Lfde596_end:
 
 	.byte 38,161,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNextRare
-	.quad Lme_2c1
+	.quad Lme_2c2
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164468,7 +164469,7 @@ Lfde597_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNextRare
 
-LDIFF_SYM5270=Lme_2c1 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNextRare
+LDIFF_SYM5270=Lme_2c2 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_MoveNextRare
 	.long LDIFF_SYM5270
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -164483,7 +164484,7 @@ Lfde597_end:
 
 	.byte 38,172,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_get_Current
-	.quad Lme_2c2
+	.quad Lme_2c3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164502,7 +164503,7 @@ Lfde598_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_get_Current
 
-LDIFF_SYM5273=Lme_2c2 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_get_Current
+LDIFF_SYM5273=Lme_2c3 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_get_Current
 	.long LDIFF_SYM5273
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -164517,7 +164518,7 @@ Lfde598_end:
 
 	.byte 38,178,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
-	.quad Lme_2c3
+	.quad Lme_2c4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164536,7 +164537,7 @@ Lfde599_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM5276=Lme_2c3 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
+LDIFF_SYM5276=Lme_2c4 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM5276
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
@@ -164551,7 +164552,7 @@ Lfde599_end:
 
 	.byte 38,186,9
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
-	.quad Lme_2c4
+	.quad Lme_2c5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164570,7 +164571,7 @@ Lfde600_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM5279=Lme_2c4 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
+LDIFF_SYM5279=Lme_2c5 - System_Collections_Generic_List_1_Enumerator_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM5279
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -164607,7 +164608,7 @@ LDIFF_SYM5283=LTDIE_361 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_invoke_TResult_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_2c9
+	.quad Lme_2ca
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164661,7 +164662,7 @@ Lfde601_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_invoke_TResult_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5293=Lme_2c9 - wrapper_delegate_invoke_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_invoke_TResult_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5293=Lme_2ca - wrapper_delegate_invoke_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_invoke_TResult_T_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5293
 	.long 0
 	.byte 12,31,0,68,14,160,2,157,36,158,35,68,13,29,68,147,34,148,33,68,149,32,150,31,68,151,30,152,29,68,153,28
@@ -164677,7 +164678,7 @@ Lfde601_end:
 
 	.byte 34,139,1
 	.quad System_Array_InternalArray__Insert_T_REF_int_T_REF
-	.quad Lme_2ca
+	.quad Lme_2cb
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164706,7 +164707,7 @@ Lfde602_start:
 	.align 3
 	.quad System_Array_InternalArray__Insert_T_REF_int_T_REF
 
-LDIFF_SYM5298=Lme_2ca - System_Array_InternalArray__Insert_T_REF_int_T_REF
+LDIFF_SYM5298=Lme_2cb - System_Array_InternalArray__Insert_T_REF_int_T_REF
 	.long LDIFF_SYM5298
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -164721,7 +164722,7 @@ Lfde602_end:
 
 	.byte 34,149,1
 	.quad System_Array_InternalArray__IndexOf_T_REF_T_REF
-	.quad Lme_2cb
+	.quad Lme_2cc
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164760,7 +164761,7 @@ Lfde603_start:
 	.align 3
 	.quad System_Array_InternalArray__IndexOf_T_REF_T_REF
 
-LDIFF_SYM5305=Lme_2cb - System_Array_InternalArray__IndexOf_T_REF_T_REF
+LDIFF_SYM5305=Lme_2cc - System_Array_InternalArray__IndexOf_T_REF_T_REF
 	.long LDIFF_SYM5305
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,149,19,68,151,18,152,17,68,153,16,154,15
@@ -164775,7 +164776,7 @@ Lfde603_end:
 
 	.byte 34,176,1
 	.quad System_Array_InternalArray__get_Item_T_REF_int
-	.quad Lme_2cc
+	.quad Lme_2cd
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164804,7 +164805,7 @@ Lfde604_start:
 	.align 3
 	.quad System_Array_InternalArray__get_Item_T_REF_int
 
-LDIFF_SYM5310=Lme_2cc - System_Array_InternalArray__get_Item_T_REF_int
+LDIFF_SYM5310=Lme_2cd - System_Array_InternalArray__get_Item_T_REF_int
 	.long LDIFF_SYM5310
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
@@ -164819,7 +164820,7 @@ Lfde604_end:
 
 	.byte 34,186,1
 	.quad System_Array_InternalArray__set_Item_T_REF_int_T_REF
-	.quad Lme_2cd
+	.quad Lme_2ce
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164853,7 +164854,7 @@ Lfde605_start:
 	.align 3
 	.quad System_Array_InternalArray__set_Item_T_REF_int_T_REF
 
-LDIFF_SYM5316=Lme_2cd - System_Array_InternalArray__set_Item_T_REF_int_T_REF
+LDIFF_SYM5316=Lme_2ce - System_Array_InternalArray__set_Item_T_REF_int_T_REF
 	.long LDIFF_SYM5316
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10,153,9,68,154,8
@@ -164868,7 +164869,7 @@ Lfde605_end:
 
 	.byte 34,84
 	.quad System_Array_InternalArray__ICollection_Add_T_INST_T_INST
-	.quad Lme_2d6
+	.quad Lme_2d7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164892,7 +164893,7 @@ Lfde606_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Add_T_INST_T_INST
 
-LDIFF_SYM5320=Lme_2d6 - System_Array_InternalArray__ICollection_Add_T_INST_T_INST
+LDIFF_SYM5320=Lme_2d7 - System_Array_InternalArray__ICollection_Add_T_INST_T_INST
 	.long LDIFF_SYM5320
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -164907,7 +164908,7 @@ Lfde606_end:
 
 	.byte 34,89
 	.quad System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
-	.quad Lme_2d7
+	.quad Lme_2d8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164931,7 +164932,7 @@ Lfde607_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
 
-LDIFF_SYM5324=Lme_2d7 - System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
+LDIFF_SYM5324=Lme_2d8 - System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
 	.long LDIFF_SYM5324
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -164946,7 +164947,7 @@ Lfde607_end:
 
 	.byte 34,94
 	.quad System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
-	.quad Lme_2d8
+	.quad Lme_2d9
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -164985,7 +164986,7 @@ Lfde608_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
 
-LDIFF_SYM5331=Lme_2d8 - System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
+LDIFF_SYM5331=Lme_2d9 - System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
 	.long LDIFF_SYM5331
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,148,28,149,27,68,150,26,151,25,68,152,24,153,23,68,154,22
@@ -165000,7 +165001,7 @@ Lfde608_end:
 
 	.byte 34,119
 	.quad System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
-	.quad Lme_2d9
+	.quad Lme_2da
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165029,7 +165030,7 @@ Lfde609_start:
 	.align 3
 	.quad System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
 
-LDIFF_SYM5336=Lme_2d9 - System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
+LDIFF_SYM5336=Lme_2da - System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
 	.long LDIFF_SYM5336
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12
@@ -165066,7 +165067,7 @@ LDIFF_SYM5340=LTDIE_362 - Ldebug_info_start
 
 	.byte 35,32
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_get_Default
-	.quad Lme_2da
+	.quad Lme_2db
 
 	.byte 2,118,16,11
 	.asciz "comparer"
@@ -165085,7 +165086,7 @@ Lfde610_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_get_Default
 
-LDIFF_SYM5343=Lme_2da - System_Collections_Generic_EqualityComparer_1_T_INST_get_Default
+LDIFF_SYM5343=Lme_2db - System_Collections_Generic_EqualityComparer_1_T_INST_get_Default
 	.long LDIFF_SYM5343
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
@@ -165100,7 +165101,7 @@ Lfde610_end:
 
 	.byte 35,49
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_CreateComparer
-	.quad Lme_2db
+	.quad Lme_2dc
 
 	.byte 2,118,16,11
 	.asciz "t"
@@ -165129,7 +165130,7 @@ Lfde611_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_CreateComparer
 
-LDIFF_SYM5348=Lme_2db - System_Collections_Generic_EqualityComparer_1_T_INST_CreateComparer
+LDIFF_SYM5348=Lme_2dc - System_Collections_Generic_EqualityComparer_1_T_INST_CreateComparer
 	.long LDIFF_SYM5348
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,68,149,31,150,30,68,151,29,152,28,68,153,27,154,26
@@ -165144,7 +165145,7 @@ Lfde611_end:
 
 	.byte 35,129,1
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_IndexOf_T_INST___T_INST_int_int
-	.quad Lme_2de
+	.quad Lme_2df
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165193,7 +165194,7 @@ Lfde612_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_IndexOf_T_INST___T_INST_int_int
 
-LDIFF_SYM5357=Lme_2de - System_Collections_Generic_EqualityComparer_1_T_INST_IndexOf_T_INST___T_INST_int_int
+LDIFF_SYM5357=Lme_2df - System_Collections_Generic_EqualityComparer_1_T_INST_IndexOf_T_INST___T_INST_int_int
 	.long LDIFF_SYM5357
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15
@@ -165208,7 +165209,7 @@ Lfde612_end:
 
 	.byte 35,137,1
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_LastIndexOf_T_INST___T_INST_int_int
-	.quad Lme_2df
+	.quad Lme_2e0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165257,7 +165258,7 @@ Lfde613_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_LastIndexOf_T_INST___T_INST_int_int
 
-LDIFF_SYM5366=Lme_2df - System_Collections_Generic_EqualityComparer_1_T_INST_LastIndexOf_T_INST___T_INST_int_int
+LDIFF_SYM5366=Lme_2e0 - System_Collections_Generic_EqualityComparer_1_T_INST_LastIndexOf_T_INST___T_INST_int_int
 	.long LDIFF_SYM5366
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15
@@ -165272,7 +165273,7 @@ Lfde613_end:
 
 	.byte 35,145,1
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_GetHashCode_object
-	.quad Lme_2e0
+	.quad Lme_2e1
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165296,7 +165297,7 @@ Lfde614_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_GetHashCode_object
 
-LDIFF_SYM5370=Lme_2e0 - System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_GetHashCode_object
+LDIFF_SYM5370=Lme_2e1 - System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_GetHashCode_object
 	.long LDIFF_SYM5370
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
@@ -165311,7 +165312,7 @@ Lfde614_end:
 
 	.byte 35,152,1
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_Equals_object_object
-	.quad Lme_2e1
+	.quad Lme_2e2
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165340,7 +165341,7 @@ Lfde615_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_Equals_object_object
 
-LDIFF_SYM5375=Lme_2e1 - System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_Equals_object_object
+LDIFF_SYM5375=Lme_2e2 - System_Collections_Generic_EqualityComparer_1_T_INST_System_Collections_IEqualityComparer_Equals_object_object
 	.long LDIFF_SYM5375
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,153,16,154,15
@@ -165355,7 +165356,7 @@ Lfde615_end:
 
 	.byte 0,0
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST__ctor
-	.quad Lme_2e2
+	.quad Lme_2e3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165374,7 +165375,7 @@ Lfde616_start:
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_INST__ctor
 
-LDIFF_SYM5378=Lme_2e2 - System_Collections_Generic_EqualityComparer_1_T_INST__ctor
+LDIFF_SYM5378=Lme_2e3 - System_Collections_Generic_EqualityComparer_1_T_INST__ctor
 	.long LDIFF_SYM5378
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -165411,7 +165412,7 @@ LDIFF_SYM5382=LTDIE_363 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_string_string
-	.quad Lme_2e7
+	.quad Lme_2e8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165465,7 +165466,7 @@ Lfde617_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_string_string
 
-LDIFF_SYM5392=Lme_2e7 - wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_string_string
+LDIFF_SYM5392=Lme_2e8 - wrapper_delegate_invoke_System_Predicate_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_bool_T_System_Collections_Generic_KeyValuePair_2_string_string
 	.long LDIFF_SYM5392
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
@@ -165503,7 +165504,7 @@ LDIFF_SYM5396=LTDIE_364 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_void_T_System_Collections_Generic_KeyValuePair_2_string_string
-	.quad Lme_2ec
+	.quad Lme_2ed
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165552,7 +165553,7 @@ Lfde618_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_void_T_System_Collections_Generic_KeyValuePair_2_string_string
 
-LDIFF_SYM5405=Lme_2ec - wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_void_T_System_Collections_Generic_KeyValuePair_2_string_string
+LDIFF_SYM5405=Lme_2ed - wrapper_delegate_invoke_System_Action_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_void_T_System_Collections_Generic_KeyValuePair_2_string_string
 	.long LDIFF_SYM5405
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
@@ -165590,7 +165591,7 @@ LDIFF_SYM5409=LTDIE_365 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_string_string_System_Collections_Generic_KeyValuePair_2_string_string
-	.quad Lme_2f2
+	.quad Lme_2f3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165649,7 +165650,7 @@ Lfde619_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_string_string_System_Collections_Generic_KeyValuePair_2_string_string
 
-LDIFF_SYM5420=Lme_2f2 - wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_string_string_System_Collections_Generic_KeyValuePair_2_string_string
+LDIFF_SYM5420=Lme_2f3 - wrapper_delegate_invoke_System_Comparison_1_System_Collections_Generic_KeyValuePair_2_string_string_invoke_int_T_T_System_Collections_Generic_KeyValuePair_2_string_string_System_Collections_Generic_KeyValuePair_2_string_string
 	.long LDIFF_SYM5420
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,147,30,148,29,68,149,28,150,27,68,151,26,152,25,68,153,24
@@ -165687,7 +165688,7 @@ LDIFF_SYM5424=LTDIE_366 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_bool_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
-	.quad Lme_2f3
+	.quad Lme_2f4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165741,7 +165742,7 @@ Lfde620_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_bool_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 
-LDIFF_SYM5434=Lme_2f3 - wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_bool_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
+LDIFF_SYM5434=Lme_2f4 - wrapper_delegate_invoke_System_Predicate_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_bool_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 	.long LDIFF_SYM5434
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -165779,7 +165780,7 @@ LDIFF_SYM5438=LTDIE_367 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_void_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
-	.quad Lme_2f4
+	.quad Lme_2f5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165828,7 +165829,7 @@ Lfde621_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_void_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 
-LDIFF_SYM5447=Lme_2f4 - wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_void_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
+LDIFF_SYM5447=Lme_2f5 - wrapper_delegate_invoke_System_Action_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_void_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 	.long LDIFF_SYM5447
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -165866,7 +165867,7 @@ LDIFF_SYM5451=LTDIE_368 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_int_T_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
-	.quad Lme_2f5
+	.quad Lme_2f6
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -165925,7 +165926,7 @@ Lfde622_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_int_T_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 
-LDIFF_SYM5462=Lme_2f5 - wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_int_T_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
+LDIFF_SYM5462=Lme_2f6 - wrapper_delegate_invoke_System_Comparison_1_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_invoke_int_T_T_Xamarin_Forms_Internals_XmlnsDefinitionAttribute_Xamarin_Forms_Internals_XmlnsDefinitionAttribute
 	.long LDIFF_SYM5462
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -165963,7 +165964,7 @@ LDIFF_SYM5466=LTDIE_369 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_Xamarin_Forms_Xaml_XmlType_System_Type_invoke_TResult_T_Xamarin_Forms_Xaml_XmlType
-	.quad Lme_2f6
+	.quad Lme_2f7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166017,7 +166018,7 @@ Lfde623_start:
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Xamarin_Forms_Xaml_XmlType_System_Type_invoke_TResult_T_Xamarin_Forms_Xaml_XmlType
 
-LDIFF_SYM5476=Lme_2f6 - wrapper_delegate_invoke_System_Func_2_Xamarin_Forms_Xaml_XmlType_System_Type_invoke_TResult_T_Xamarin_Forms_Xaml_XmlType
+LDIFF_SYM5476=Lme_2f7 - wrapper_delegate_invoke_System_Func_2_Xamarin_Forms_Xaml_XmlType_System_Type_invoke_TResult_T_Xamarin_Forms_Xaml_XmlType
 	.long LDIFF_SYM5476
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -166033,7 +166034,7 @@ Lfde623_end:
 
 	.byte 34,139,1
 	.quad System_Array_InternalArray__Insert_T_INST_int_T_INST
-	.quad Lme_2fc
+	.quad Lme_2fd
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166062,7 +166063,7 @@ Lfde624_start:
 	.align 3
 	.quad System_Array_InternalArray__Insert_T_INST_int_T_INST
 
-LDIFF_SYM5481=Lme_2fc - System_Array_InternalArray__Insert_T_INST_int_T_INST
+LDIFF_SYM5481=Lme_2fd - System_Array_InternalArray__Insert_T_INST_int_T_INST
 	.long LDIFF_SYM5481
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -166077,7 +166078,7 @@ Lfde624_end:
 
 	.byte 34,149,1
 	.quad System_Array_InternalArray__IndexOf_T_INST_T_INST
-	.quad Lme_2fd
+	.quad Lme_2fe
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166116,7 +166117,7 @@ Lfde625_start:
 	.align 3
 	.quad System_Array_InternalArray__IndexOf_T_INST_T_INST
 
-LDIFF_SYM5488=Lme_2fd - System_Array_InternalArray__IndexOf_T_INST_T_INST
+LDIFF_SYM5488=Lme_2fe - System_Array_InternalArray__IndexOf_T_INST_T_INST
 	.long LDIFF_SYM5488
 	.long 0
 	.byte 12,31,0,68,14,176,2,157,38,158,37,68,13,29,68,148,36,149,35,68,150,34,151,33,68,152,32,153,31,68,154,30
@@ -166131,7 +166132,7 @@ Lfde625_end:
 
 	.byte 34,176,1
 	.quad System_Array_InternalArray__get_Item_T_INST_int
-	.quad Lme_2fe
+	.quad Lme_2ff
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166160,7 +166161,7 @@ Lfde626_start:
 	.align 3
 	.quad System_Array_InternalArray__get_Item_T_INST_int
 
-LDIFF_SYM5493=Lme_2fe - System_Array_InternalArray__get_Item_T_INST_int
+LDIFF_SYM5493=Lme_2ff - System_Array_InternalArray__get_Item_T_INST_int
 	.long LDIFF_SYM5493
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,153,16,154,15
@@ -166175,7 +166176,7 @@ Lfde626_end:
 
 	.byte 34,186,1
 	.quad System_Array_InternalArray__set_Item_T_INST_int_T_INST
-	.quad Lme_2ff
+	.quad Lme_300
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166209,7 +166210,7 @@ Lfde627_start:
 	.align 3
 	.quad System_Array_InternalArray__set_Item_T_INST_int_T_INST
 
-LDIFF_SYM5499=Lme_2ff - System_Array_InternalArray__set_Item_T_INST_int_T_INST
+LDIFF_SYM5499=Lme_300 - System_Array_InternalArray__set_Item_T_INST_int_T_INST
 	.long LDIFF_SYM5499
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,149,19,68,150,18,151,17,68,152,16,153,15,68,154,14
@@ -166224,7 +166225,7 @@ Lfde627_end:
 
 	.byte 34,139,1
 	.quad System_Array_InternalArray__Insert_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_305
+	.quad Lme_306
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166253,7 +166254,7 @@ Lfde628_start:
 	.align 3
 	.quad System_Array_InternalArray__Insert_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5504=Lme_305 - System_Array_InternalArray__Insert_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5504=Lme_306 - System_Array_InternalArray__Insert_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5504
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -166268,7 +166269,7 @@ Lfde628_end:
 
 	.byte 34,149,1
 	.quad System_Array_InternalArray__IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_306
+	.quad Lme_307
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166307,7 +166308,7 @@ Lfde629_start:
 	.align 3
 	.quad System_Array_InternalArray__IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5511=Lme_306 - System_Array_InternalArray__IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5511=Lme_307 - System_Array_InternalArray__IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5511
 	.long 0
 	.byte 12,31,0,68,14,176,2,157,38,158,37,68,13,29,68,147,36,68,149,35,150,34,68,152,33,153,32,68,154,31
@@ -166322,7 +166323,7 @@ Lfde629_end:
 
 	.byte 34,176,1
 	.quad System_Array_InternalArray__get_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
-	.quad Lme_307
+	.quad Lme_308
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166351,7 +166352,7 @@ Lfde630_start:
 	.align 3
 	.quad System_Array_InternalArray__get_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
 
-LDIFF_SYM5516=Lme_307 - System_Array_InternalArray__get_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
+LDIFF_SYM5516=Lme_308 - System_Array_InternalArray__get_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int
 	.long LDIFF_SYM5516
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,153,18,154,17
@@ -166366,7 +166367,7 @@ Lfde630_end:
 
 	.byte 34,186,1
 	.quad System_Array_InternalArray__set_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_308
+	.quad Lme_309
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166400,7 +166401,7 @@ Lfde631_start:
 	.align 3
 	.quad System_Array_InternalArray__set_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5522=Lme_308 - System_Array_InternalArray__set_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5522=Lme_309 - System_Array_InternalArray__set_Item_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5522
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,149,19,68,150,18,151,17,68,152,16,153,15,68,154,14
@@ -166434,7 +166435,7 @@ LDIFF_SYM5525=LTDIE_370 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke__Module_invoke_Type_XmlType_IXmlLineInfo_Assembly_XamlParseException__Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException_
-	.quad Lme_309
+	.quad Lme_30a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166503,7 +166504,7 @@ Lfde632_start:
 	.align 3
 	.quad wrapper_delegate_invoke__Module_invoke_Type_XmlType_IXmlLineInfo_Assembly_XamlParseException__Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException_
 
-LDIFF_SYM5538=Lme_309 - wrapper_delegate_invoke__Module_invoke_Type_XmlType_IXmlLineInfo_Assembly_XamlParseException__Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException_
+LDIFF_SYM5538=Lme_30a - wrapper_delegate_invoke__Module_invoke_Type_XmlType_IXmlLineInfo_Assembly_XamlParseException__Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException_
 	.long LDIFF_SYM5538
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,147,18,148,17,68,149,16,150,15,68,151,14,152,13,68,153,12
@@ -166519,7 +166520,7 @@ Lfde632_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_begin_invoke__Module_begin_invoke_IAsyncResult__this___XmlType_IXmlLineInfo_Assembly_XamlParseException__AsyncCallback_object_Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException__System_AsyncCallback_object
-	.quad Lme_30a
+	.quad Lme_30b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166578,7 +166579,7 @@ Lfde633_start:
 	.align 3
 	.quad wrapper_delegate_begin_invoke__Module_begin_invoke_IAsyncResult__this___XmlType_IXmlLineInfo_Assembly_XamlParseException__AsyncCallback_object_Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException__System_AsyncCallback_object
 
-LDIFF_SYM5549=Lme_30a - wrapper_delegate_begin_invoke__Module_begin_invoke_IAsyncResult__this___XmlType_IXmlLineInfo_Assembly_XamlParseException__AsyncCallback_object_Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException__System_AsyncCallback_object
+LDIFF_SYM5549=Lme_30b - wrapper_delegate_begin_invoke__Module_begin_invoke_IAsyncResult__this___XmlType_IXmlLineInfo_Assembly_XamlParseException__AsyncCallback_object_Xamarin_Forms_Xaml_XmlType_System_Xml_IXmlLineInfo_System_Reflection_Assembly_Xamarin_Forms_Xaml_XamlParseException__System_AsyncCallback_object
 	.long LDIFF_SYM5549
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,150,14,151,13,68,152,12,153,11
@@ -166612,7 +166613,7 @@ LDIFF_SYM5552=LTDIE_371 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_delegate_end_invoke__Module_end_invoke_Type__this___XamlParseException__IAsyncResult_Xamarin_Forms_Xaml_XamlParseException__System_IAsyncResult
-	.quad Lme_30b
+	.quad Lme_30c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166651,7 +166652,7 @@ Lfde634_start:
 	.align 3
 	.quad wrapper_delegate_end_invoke__Module_end_invoke_Type__this___XamlParseException__IAsyncResult_Xamarin_Forms_Xaml_XamlParseException__System_IAsyncResult
 
-LDIFF_SYM5559=Lme_30b - wrapper_delegate_end_invoke__Module_end_invoke_Type__this___XamlParseException__IAsyncResult_Xamarin_Forms_Xaml_XamlParseException__System_IAsyncResult
+LDIFF_SYM5559=Lme_30c - wrapper_delegate_end_invoke__Module_end_invoke_Type__this___XamlParseException__IAsyncResult_Xamarin_Forms_Xaml_XamlParseException__System_IAsyncResult
 	.long LDIFF_SYM5559
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,150,10,151,9,68,152,8,153,7
@@ -166666,7 +166667,7 @@ Lfde634_end:
 
 	.byte 0,0
 	.quad wrapper_unknown_Xamarin_Forms_Xaml_XmlName_StructureToPtr_object_intptr_bool
-	.quad Lme_30c
+	.quad Lme_30d
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -166730,7 +166731,7 @@ Lfde635_start:
 	.align 3
 	.quad wrapper_unknown_Xamarin_Forms_Xaml_XmlName_StructureToPtr_object_intptr_bool
 
-LDIFF_SYM5571=Lme_30c - wrapper_unknown_Xamarin_Forms_Xaml_XmlName_StructureToPtr_object_intptr_bool
+LDIFF_SYM5571=Lme_30d - wrapper_unknown_Xamarin_Forms_Xaml_XmlName_StructureToPtr_object_intptr_bool
 	.long LDIFF_SYM5571
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10
@@ -166745,7 +166746,7 @@ Lfde635_end:
 
 	.byte 0,0
 	.quad wrapper_unknown_Xamarin_Forms_Xaml_XmlName_PtrToStructure_intptr_object
-	.quad Lme_30d
+	.quad Lme_30e
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -166799,7 +166800,7 @@ Lfde636_start:
 	.align 3
 	.quad wrapper_unknown_Xamarin_Forms_Xaml_XmlName_PtrToStructure_intptr_object
 
-LDIFF_SYM5581=Lme_30d - wrapper_unknown_Xamarin_Forms_Xaml_XmlName_PtrToStructure_intptr_object
+LDIFF_SYM5581=Lme_30e - wrapper_unknown_Xamarin_Forms_Xaml_XmlName_PtrToStructure_intptr_object
 	.long LDIFF_SYM5581
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9
@@ -166814,7 +166815,7 @@ Lfde636_end:
 
 	.byte 38,196,2
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Contains_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_30e
+	.quad Lme_30f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166853,7 +166854,7 @@ Lfde637_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Contains_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5588=Lme_30e - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Contains_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5588=Lme_30f - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Contains_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5588
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,151,20,152,19,68,153,18,154,17
@@ -166868,7 +166869,7 @@ Lfde637_end:
 
 	.byte 37,216,1
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Item_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_30f
+	.quad Lme_310
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166902,7 +166903,7 @@ Lfde638_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Item_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5594=Lme_30f - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Item_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5594=Lme_310 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Item_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5594
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,152,14,153,13,68,154,12
@@ -166917,7 +166918,7 @@ Lfde638_end:
 
 	.byte 37,157,2
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsKey_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_310
+	.quad Lme_311
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166941,7 +166942,7 @@ Lfde639_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsKey_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5598=Lme_310 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsKey_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5598=Lme_311 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsKey_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5598
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -166956,7 +166957,7 @@ Lfde639_end:
 
 	.byte 37,210,2
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_311
+	.quad Lme_312
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -166975,7 +166976,7 @@ Lfde640_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM5601=Lme_311 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM5601=Lme_312 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM5601
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29
@@ -166990,7 +166991,7 @@ Lfde640_end:
 
 	.byte 38,228,1
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Add_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_312
+	.quad Lme_313
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167019,7 +167020,7 @@ Lfde641_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Add_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5606=Lme_312 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Add_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5606=Lme_313 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_Add_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5606
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
@@ -167034,7 +167035,7 @@ Lfde641_end:
 
 	.byte 38,52
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__ctor
-	.quad Lme_313
+	.quad Lme_314
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167053,7 +167054,7 @@ Lfde642_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__ctor
 
-LDIFF_SYM5609=Lme_313 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__ctor
+LDIFF_SYM5609=Lme_314 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__ctor
 	.long LDIFF_SYM5609
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -167068,7 +167069,7 @@ Lfde642_end:
 
 	.byte 37,232,1
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_314
+	.quad Lme_315
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167097,7 +167098,7 @@ Lfde643_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5614=Lme_314 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5614=Lme_315 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5614
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -167112,7 +167113,7 @@ Lfde643_end:
 
 	.byte 37,138,2
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Clear
-	.quad Lme_315
+	.quad Lme_316
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167146,7 +167147,7 @@ Lfde644_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Clear
 
-LDIFF_SYM5620=Lme_315 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Clear
+LDIFF_SYM5620=Lme_316 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Clear
 	.long LDIFF_SYM5620
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,151,8,152,7,68,153,6,154,5
@@ -167161,7 +167162,7 @@ Lfde644_end:
 
 	.byte 37,163,5
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetValue_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
-	.quad Lme_316
+	.quad Lme_317
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167195,7 +167196,7 @@ Lfde645_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetValue_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 
-LDIFF_SYM5626=Lme_316 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetValue_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
+LDIFF_SYM5626=Lme_317 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetValue_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 	.long LDIFF_SYM5626
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11,68,154,10
@@ -167210,7 +167211,7 @@ Lfde645_end:
 
 	.byte 37,189,1
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Values
-	.quad Lme_317
+	.quad Lme_318
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167229,7 +167230,7 @@ Lfde646_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Values
 
-LDIFF_SYM5629=Lme_317 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Values
+LDIFF_SYM5629=Lme_318 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Values
 	.long LDIFF_SYM5629
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -167263,7 +167264,7 @@ LDIFF_SYM5632=LTDIE_372 - Ldebug_info_start
 
 	.byte 39,13
 	.quad System_Linq_Enumerable_First_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_318
+	.quad Lme_319
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -167287,7 +167288,7 @@ Lfde647_start:
 	.align 3
 	.quad System_Linq_Enumerable_First_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM5636=Lme_318 - System_Linq_Enumerable_First_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM5636=Lme_319 - System_Linq_Enumerable_First_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM5636
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29
@@ -167334,7 +167335,7 @@ LDIFF_SYM5642=LTDIE_373 - Ldebug_info_start
 
 	.byte 34,218,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor_System_Array
-	.quad Lme_31a
+	.quad Lme_31b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167358,7 +167359,7 @@ Lfde648_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor_System_Array
 
-LDIFF_SYM5646=Lme_31a - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor_System_Array
+LDIFF_SYM5646=Lme_31b - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor_System_Array
 	.long LDIFF_SYM5646
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
@@ -167373,7 +167374,7 @@ Lfde648_end:
 
 	.byte 34,224,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
-	.quad Lme_31b
+	.quad Lme_31c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167392,7 +167393,7 @@ Lfde649_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
 
-LDIFF_SYM5649=Lme_31b - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
+LDIFF_SYM5649=Lme_31c - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
 	.long LDIFF_SYM5649
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -167407,7 +167408,7 @@ Lfde649_end:
 
 	.byte 34,228,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
-	.quad Lme_31c
+	.quad Lme_31d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167431,7 +167432,7 @@ Lfde650_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
 
-LDIFF_SYM5653=Lme_31c - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
+LDIFF_SYM5653=Lme_31d - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
 	.long LDIFF_SYM5653
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
@@ -167446,7 +167447,7 @@ Lfde650_end:
 
 	.byte 34,236,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
-	.quad Lme_31d
+	.quad Lme_31e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167465,7 +167466,7 @@ Lfde651_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
 
-LDIFF_SYM5656=Lme_31d - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
+LDIFF_SYM5656=Lme_31e - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
 	.long LDIFF_SYM5656
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
@@ -167480,7 +167481,7 @@ Lfde651_end:
 
 	.byte 34,247,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
-	.quad Lme_31e
+	.quad Lme_31f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167499,7 +167500,7 @@ Lfde652_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM5659=Lme_31e - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
+LDIFF_SYM5659=Lme_31f - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM5659
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -167514,7 +167515,7 @@ Lfde652_end:
 
 	.byte 34,252,1
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
-	.quad Lme_31f
+	.quad Lme_320
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167533,7 +167534,7 @@ Lfde653_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM5662=Lme_31f - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
+LDIFF_SYM5662=Lme_320 - System_Array_InternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM5662
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -167548,7 +167549,7 @@ Lfde653_end:
 
 	.byte 34,71
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_System_Reflection_CustomAttributeTypedArgument
-	.quad Lme_320
+	.quad Lme_321
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167567,7 +167568,7 @@ Lfde654_start:
 	.align 3
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_System_Reflection_CustomAttributeTypedArgument
 
-LDIFF_SYM5665=Lme_320 - System_Array_InternalArray__IEnumerable_GetEnumerator_System_Reflection_CustomAttributeTypedArgument
+LDIFF_SYM5665=Lme_321 - System_Array_InternalArray__IEnumerable_GetEnumerator_System_Reflection_CustomAttributeTypedArgument
 	.long LDIFF_SYM5665
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
@@ -167582,7 +167583,7 @@ Lfde654_end:
 
 	.byte 37,223,1
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Item_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_321
+	.quad Lme_322
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167611,7 +167612,7 @@ Lfde655_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Item_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5670=Lme_321 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Item_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5670=Lme_322 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Item_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5670
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -167626,7 +167627,7 @@ Lfde655_end:
 
 	.byte 34,136,5
 	.quad System_Array_Empty_T_CHAR
-	.quad Lme_322
+	.quad Lme_323
 
 	.byte 2,118,16,0
 
@@ -167640,7 +167641,7 @@ Lfde656_start:
 	.align 3
 	.quad System_Array_Empty_T_CHAR
 
-LDIFF_SYM5672=Lme_322 - System_Array_Empty_T_CHAR
+LDIFF_SYM5672=Lme_323 - System_Array_Empty_T_CHAR
 	.long LDIFF_SYM5672
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -167655,7 +167656,7 @@ Lfde656_end:
 
 	.byte 37,182,4
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Remove_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_323
+	.quad Lme_324
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167704,7 +167705,7 @@ Lfde657_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Remove_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5681=Lme_323 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Remove_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5681=Lme_324 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Remove_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5681
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,149,22,150,21,68,151,20,152,19,68,153,18,154,17
@@ -167719,7 +167720,7 @@ Lfde657_end:
 
 	.byte 38,193,4
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_324
+	.quad Lme_325
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167738,7 +167739,7 @@ Lfde658_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM5684=Lme_324 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM5684=Lme_325 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM5684
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29
@@ -167772,7 +167773,7 @@ LDIFF_SYM5687=LTDIE_374 - Ldebug_info_start
 
 	.byte 40,25
 	.quad System_Linq_Enumerable_ToList_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_325
+	.quad Lme_326
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -167796,7 +167797,7 @@ Lfde659_start:
 	.align 3
 	.quad System_Linq_Enumerable_ToList_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5691=Lme_325 - System_Linq_Enumerable_ToList_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5691=Lme_326 - System_Linq_Enumerable_ToList_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5691
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,150,11,68,151,10,152,9,68,153,8,154,7
@@ -167845,7 +167846,7 @@ LDIFF_SYM5695=LTDIE_375 - Ldebug_info_start
 
 	.byte 41,207,1
 	.quad System_Activator_CreateInstance_T_REF
-	.quad Lme_329
+	.quad Lme_32a
 
 	.byte 2,118,16,11
 	.asciz "stackMark"
@@ -167864,7 +167865,7 @@ Lfde660_start:
 	.align 3
 	.quad System_Activator_CreateInstance_T_REF
 
-LDIFF_SYM5698=Lme_329 - System_Activator_CreateInstance_T_REF
+LDIFF_SYM5698=Lme_32a - System_Activator_CreateInstance_T_REF
 	.long LDIFF_SYM5698
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,151,12,152,11,68,153,10,154,9
@@ -167879,7 +167880,7 @@ Lfde660_end:
 
 	.byte 37,67
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_32a
+	.quad Lme_32b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167898,7 +167899,7 @@ Lfde661_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM5701=Lme_32a - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM5701=Lme_32b - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM5701
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -167913,7 +167914,7 @@ Lfde661_end:
 
 	.byte 38,193,4
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_GetEnumerator
-	.quad Lme_32b
+	.quad Lme_32c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -167932,7 +167933,7 @@ Lfde662_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_GetEnumerator
 
-LDIFF_SYM5704=Lme_32b - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_GetEnumerator
+LDIFF_SYM5704=Lme_32c - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_GetEnumerator
 	.long LDIFF_SYM5704
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29
@@ -167947,7 +167948,7 @@ Lfde662_end:
 
 	.byte 39,24
 	.quad System_Linq_Enumerable_First_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
-	.quad Lme_32c
+	.quad Lme_32d
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -167976,7 +167977,7 @@ Lfde663_start:
 	.align 3
 	.quad System_Linq_Enumerable_First_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
 
-LDIFF_SYM5709=Lme_32c - System_Linq_Enumerable_First_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
+LDIFF_SYM5709=Lme_32d - System_Linq_Enumerable_First_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
 	.long LDIFF_SYM5709
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29
@@ -167991,7 +167992,7 @@ Lfde663_end:
 
 	.byte 42,26
 	.quad System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
-	.quad Lme_32d
+	.quad Lme_32e
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -168030,7 +168031,7 @@ Lfde664_start:
 	.align 3
 	.quad System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
 
-LDIFF_SYM5716=Lme_32d - System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
+LDIFF_SYM5716=Lme_32e - System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool
 	.long LDIFF_SYM5716
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,152,26,153,25,68,154,24
@@ -168045,7 +168046,7 @@ Lfde664_end:
 
 	.byte 38,228,1
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_32e
+	.quad Lme_32f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168074,7 +168075,7 @@ Lfde665_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5721=Lme_32e - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5721=Lme_32f - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Add_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5721
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
@@ -168131,7 +168132,7 @@ LDIFF_SYM5729=LTDIE_376 - Ldebug_info_start
 
 	.byte 38,52
 	.quad System_Collections_Generic_List_1_T_INST__ctor
-	.quad Lme_32f
+	.quad Lme_330
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168150,7 +168151,7 @@ Lfde666_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_T_INST__ctor
 
-LDIFF_SYM5732=Lme_32f - System_Collections_Generic_List_1_T_INST__ctor
+LDIFF_SYM5732=Lme_330 - System_Collections_Generic_List_1_T_INST__ctor
 	.long LDIFF_SYM5732
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -168165,7 +168166,7 @@ Lfde666_end:
 
 	.byte 38,52
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_330
+	.quad Lme_331
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168184,7 +168185,7 @@ Lfde667_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM5735=Lme_330 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM5735=Lme_331 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM5735
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -168199,7 +168200,7 @@ Lfde667_end:
 
 	.byte 0,0
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_Xamarin_Forms_Xaml_XmlName_
-	.quad Lme_331
+	.quad Lme_332
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -168228,7 +168229,7 @@ Lfde668_start:
 	.align 3
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_Xamarin_Forms_Xaml_XmlName_
 
-LDIFF_SYM5740=Lme_331 - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_Xamarin_Forms_Xaml_XmlName_
+LDIFF_SYM5740=Lme_332 - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_Xamarin_Forms_Xaml_XmlName_
 	.long LDIFF_SYM5740
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,76,147,12,148,11,68,149,10,150,9,68,151,8,152,7,68,153,6
@@ -168244,7 +168245,7 @@ Lfde668_end:
 
 	.byte 34,176,1
 	.quad System_Array_InternalArray__get_Item_Xamarin_Forms_Xaml_XmlName_int
-	.quad Lme_332
+	.quad Lme_333
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168273,7 +168274,7 @@ Lfde669_start:
 	.align 3
 	.quad System_Array_InternalArray__get_Item_Xamarin_Forms_Xaml_XmlName_int
 
-LDIFF_SYM5745=Lme_332 - System_Array_InternalArray__get_Item_Xamarin_Forms_Xaml_XmlName_int
+LDIFF_SYM5745=Lme_333 - System_Array_InternalArray__get_Item_Xamarin_Forms_Xaml_XmlName_int
 	.long LDIFF_SYM5745
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,153,16,154,15
@@ -168288,7 +168289,7 @@ Lfde669_end:
 
 	.byte 34,151,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__cctor
-	.quad Lme_333
+	.quad Lme_334
 
 	.byte 2,118,16,0
 
@@ -168302,7 +168303,7 @@ Lfde670_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__cctor
 
-LDIFF_SYM5747=Lme_333 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__cctor
+LDIFF_SYM5747=Lme_334 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__cctor
 	.long LDIFF_SYM5747
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -168339,7 +168340,7 @@ LDIFF_SYM5751=LTDIE_377 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName__ctor
-	.quad Lme_334
+	.quad Lme_335
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168358,7 +168359,7 @@ Lfde671_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName__ctor
 
-LDIFF_SYM5754=Lme_334 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName__ctor
+LDIFF_SYM5754=Lme_335 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName__ctor
 	.long LDIFF_SYM5754
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -168373,7 +168374,7 @@ Lfde671_end:
 
 	.byte 35,158,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_335
+	.quad Lme_336
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168402,7 +168403,7 @@ Lfde672_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5759=Lme_335 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5759=Lme_336 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5759
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29
@@ -168417,7 +168418,7 @@ Lfde672_end:
 
 	.byte 35,168,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_336
+	.quad Lme_337
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168441,7 +168442,7 @@ Lfde673_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5763=Lme_336 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5763=Lme_337 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5763
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -168456,7 +168457,7 @@ Lfde673_end:
 
 	.byte 35,173,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_IndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
-	.quad Lme_337
+	.quad Lme_338
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168510,7 +168511,7 @@ Lfde674_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_IndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
 
-LDIFF_SYM5773=Lme_337 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_IndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
+LDIFF_SYM5773=Lme_338 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_IndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
 	.long LDIFF_SYM5773
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,149,22,150,21,68,151,20,152,19,68,153,18
@@ -168525,7 +168526,7 @@ Lfde674_end:
 
 	.byte 35,188,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_LastIndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
-	.quad Lme_338
+	.quad Lme_339
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168579,7 +168580,7 @@ Lfde675_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_LastIndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
 
-LDIFF_SYM5783=Lme_338 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_LastIndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
+LDIFF_SYM5783=Lme_339 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_LastIndexOf_Xamarin_Forms_Xaml_XmlName___Xamarin_Forms_Xaml_XmlName_int_int
 	.long LDIFF_SYM5783
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,149,22,150,21,68,151,20,152,19,68,153,18
@@ -168594,7 +168595,7 @@ Lfde675_end:
 
 	.byte 35,204,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_object
-	.quad Lme_339
+	.quad Lme_33a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168618,7 +168619,7 @@ Lfde676_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_object
 
-LDIFF_SYM5787=Lme_339 - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_object
+LDIFF_SYM5787=Lme_33a - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_Equals_object
 	.long LDIFF_SYM5787
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7
@@ -168633,7 +168634,7 @@ Lfde676_end:
 
 	.byte 35,209,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode
-	.quad Lme_33a
+	.quad Lme_33b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168652,7 +168653,7 @@ Lfde677_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode
 
-LDIFF_SYM5790=Lme_33a - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode
+LDIFF_SYM5790=Lme_33b - System_Collections_Generic_ObjectEqualityComparer_1_Xamarin_Forms_Xaml_XmlName_GetHashCode
 	.long LDIFF_SYM5790
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -168699,7 +168700,7 @@ LDIFF_SYM5796=LTDIE_378 - Ldebug_info_start
 
 	.byte 34,218,1
 	.quad System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
-	.quad Lme_33b
+	.quad Lme_33c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168723,7 +168724,7 @@ Lfde678_start:
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
 
-LDIFF_SYM5800=Lme_33b - System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
+LDIFF_SYM5800=Lme_33c - System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
 	.long LDIFF_SYM5800
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
@@ -168738,7 +168739,7 @@ Lfde678_end:
 
 	.byte 34,151,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
-	.quad Lme_33c
+	.quad Lme_33d
 
 	.byte 2,118,16,0
 
@@ -168752,7 +168753,7 @@ Lfde679_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 
-LDIFF_SYM5802=Lme_33c - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
+LDIFF_SYM5802=Lme_33d - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 	.long LDIFF_SYM5802
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -168809,7 +168810,7 @@ LDIFF_SYM5810=LTDIE_379 - Ldebug_info_start
 
 	.byte 37,198,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_33d
+	.quad Lme_33e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168833,7 +168834,7 @@ Lfde680_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5814=Lme_33d - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5814=Lme_33e - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5814
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -168848,7 +168849,7 @@ Lfde680_end:
 
 	.byte 37,206,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_33e
+	.quad Lme_33f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168867,7 +168868,7 @@ Lfde681_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM5817=Lme_33e - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM5817=Lme_33f - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM5817
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -168882,7 +168883,7 @@ Lfde681_end:
 
 	.byte 37,210,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_33f
+	.quad Lme_340
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168911,7 +168912,7 @@ Lfde682_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM5822=Lme_33f - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM5822=Lme_340 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM5822
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
@@ -168926,7 +168927,7 @@ Lfde682_end:
 
 	.byte 37,235,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_340
+	.quad Lme_341
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168945,7 +168946,7 @@ Lfde683_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM5825=Lme_340 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM5825=Lme_341 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM5825
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -168960,7 +168961,7 @@ Lfde683_end:
 
 	.byte 37,243,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_341
+	.quad Lme_342
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -168979,7 +168980,7 @@ Lfde684_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM5828=Lme_341 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM5828=Lme_342 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM5828
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -168994,7 +168995,7 @@ Lfde684_end:
 
 	.byte 37,254,9
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_342
+	.quad Lme_343
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169013,7 +169014,7 @@ Lfde685_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM5831=Lme_342 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM5831=Lme_343 - System_Collections_Generic_Dictionary_2_KeyCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM5831
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -169028,7 +169029,7 @@ Lfde685_end:
 
 	.byte 37,155,1
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
-	.quad Lme_343
+	.quad Lme_344
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169047,7 +169048,7 @@ Lfde686_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 
-LDIFF_SYM5834=Lme_343 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
+LDIFF_SYM5834=Lme_344 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Count
 	.long LDIFF_SYM5834
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -169104,7 +169105,7 @@ LDIFF_SYM5842=LTDIE_380 - Ldebug_info_start
 
 	.byte 37,174,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_344
+	.quad Lme_345
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169128,7 +169129,7 @@ Lfde687_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5846=Lme_344 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5846=Lme_345 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5846
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -169143,7 +169144,7 @@ Lfde687_end:
 
 	.byte 37,182,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_345
+	.quad Lme_346
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169162,7 +169163,7 @@ Lfde688_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM5849=Lme_345 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM5849=Lme_346 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM5849
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -169177,7 +169178,7 @@ Lfde688_end:
 
 	.byte 37,186,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_346
+	.quad Lme_347
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169206,7 +169207,7 @@ Lfde689_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM5854=Lme_346 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM5854=Lme_347 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM5854
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6,153,5,68,154,4
@@ -169221,7 +169222,7 @@ Lfde689_end:
 
 	.byte 37,210,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_347
+	.quad Lme_348
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169240,7 +169241,7 @@ Lfde690_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM5857=Lme_347 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM5857=Lme_348 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM5857
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -169255,7 +169256,7 @@ Lfde690_end:
 
 	.byte 37,218,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_348
+	.quad Lme_349
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169274,7 +169275,7 @@ Lfde691_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM5860=Lme_348 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM5860=Lme_349 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM5860
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -169289,7 +169290,7 @@ Lfde691_end:
 
 	.byte 37,229,11
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_349
+	.quad Lme_34a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169308,7 +169309,7 @@ Lfde692_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM5863=Lme_349 - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM5863=Lme_34a - System_Collections_Generic_Dictionary_2_ValueCollection_Enumerator_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM5863
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
@@ -169345,7 +169346,7 @@ LDIFF_SYM5867=LTDIE_381 - Ldebug_info_start
 
 	.byte 37,162,2
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsValue_Xamarin_Forms_Xaml_INode
-	.quad Lme_34a
+	.quad Lme_34b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169384,7 +169385,7 @@ Lfde693_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsValue_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5874=Lme_34a - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsValue_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5874=Lme_34b - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ContainsValue_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5874
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,150,10,151,9,68,152,8,153,7,68,154,6
@@ -169431,7 +169432,7 @@ LDIFF_SYM5880=LTDIE_382 - Ldebug_info_start
 
 	.byte 0,0
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
-	.quad Lme_34b
+	.quad Lme_34c
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -169460,7 +169461,7 @@ Lfde694_start:
 	.align 3
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
 
-LDIFF_SYM5885=Lme_34b - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
+LDIFF_SYM5885=Lme_34c - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
 	.long LDIFF_SYM5885
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,76,147,12,148,11,68,149,10,150,9,68,151,8,152,7,68,153,6
@@ -169476,7 +169477,7 @@ Lfde694_end:
 
 	.byte 0,0
 	.quad wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
-	.quad Lme_34c
+	.quad Lme_34d
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -169505,7 +169506,7 @@ Lfde695_start:
 	.align 3
 	.quad wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
 
-LDIFF_SYM5890=Lme_34c - wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
+LDIFF_SYM5890=Lme_34d - wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Reflection_CustomAttributeTypedArgument_
 	.long LDIFF_SYM5890
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,76,147,12,148,11,68,149,10,150,9,68,151,8,152,7,68,153,6
@@ -169521,7 +169522,7 @@ Lfde695_end:
 
 	.byte 0,0
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
-	.quad Lme_34d
+	.quad Lme_34e
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -169550,7 +169551,7 @@ Lfde696_start:
 	.align 3
 	.quad wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 
-LDIFF_SYM5895=Lme_34d - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
+LDIFF_SYM5895=Lme_34e - wrapper_managed_to_native_System_Array_GetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 	.long LDIFF_SYM5895
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,76,147,12,148,11,68,149,10,150,9,68,151,8,152,7,68,153,6
@@ -169588,7 +169589,7 @@ LDIFF_SYM5899=LTDIE_383 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_34e
+	.quad Lme_34f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169607,7 +169608,7 @@ Lfde697_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM5902=Lme_34e - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM5902=Lme_34f - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM5902
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -169622,7 +169623,7 @@ Lfde697_end:
 
 	.byte 35,158,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_34f
+	.quad Lme_350
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169651,7 +169652,7 @@ Lfde698_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5907=Lme_34f - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5907=Lme_350 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5907
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29
@@ -169666,7 +169667,7 @@ Lfde698_end:
 
 	.byte 35,168,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_350
+	.quad Lme_351
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169690,7 +169691,7 @@ Lfde699_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM5911=Lme_350 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM5911=Lme_351 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM5911
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29
@@ -169705,7 +169706,7 @@ Lfde699_end:
 
 	.byte 35,173,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_351
+	.quad Lme_352
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169759,7 +169760,7 @@ Lfde700_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM5921=Lme_351 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM5921=Lme_352 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_IndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM5921
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -169774,7 +169775,7 @@ Lfde700_end:
 
 	.byte 35,188,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_352
+	.quad Lme_353
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169828,7 +169829,7 @@ Lfde701_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM5931=Lme_352 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM5931=Lme_353 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_LastIndexOf_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM5931
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -169843,7 +169844,7 @@ Lfde701_end:
 
 	.byte 35,204,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_object
-	.quad Lme_353
+	.quad Lme_354
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169867,7 +169868,7 @@ Lfde702_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_object
 
-LDIFF_SYM5935=Lme_353 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_object
+LDIFF_SYM5935=Lme_354 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Equals_object
 	.long LDIFF_SYM5935
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7
@@ -169882,7 +169883,7 @@ Lfde702_end:
 
 	.byte 35,209,2
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode
-	.quad Lme_354
+	.quad Lme_355
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169901,7 +169902,7 @@ Lfde703_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode
 
-LDIFF_SYM5938=Lme_354 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode
+LDIFF_SYM5938=Lme_355 - System_Collections_Generic_ObjectEqualityComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetHashCode
 	.long LDIFF_SYM5938
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -169961,7 +169962,7 @@ LDIFF_SYM5946=LTDIE_384 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_T_INST__ctor
-	.quad Lme_355
+	.quad Lme_356
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -169980,7 +169981,7 @@ Lfde704_start:
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_T_INST__ctor
 
-LDIFF_SYM5949=Lme_355 - System_Collections_Generic_ObjectEqualityComparer_1_T_INST__ctor
+LDIFF_SYM5949=Lme_356 - System_Collections_Generic_ObjectEqualityComparer_1_T_INST__ctor
 	.long LDIFF_SYM5949
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -169995,7 +169996,7 @@ Lfde704_end:
 
 	.byte 0,0
 	.quad wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
-	.quad Lme_356
+	.quad Lme_357
 
 	.byte 2,118,16,3
 	.asciz "param0"
@@ -170024,7 +170025,7 @@ Lfde705_start:
 	.align 3
 	.quad wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 
-LDIFF_SYM5954=Lme_356 - wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
+LDIFF_SYM5954=Lme_357 - wrapper_managed_to_native_System_Array_SetGenericValueImpl_System_Array_int_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_
 	.long LDIFF_SYM5954
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,76,147,12,148,11,68,149,10,150,9,68,151,8,152,7,68,153,6
@@ -170040,7 +170041,7 @@ Lfde705_end:
 
 	.byte 37,239,2
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_FindEntry_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_357
+	.quad Lme_358
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170074,7 +170075,7 @@ Lfde706_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_FindEntry_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM5960=Lme_357 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_FindEntry_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM5960=Lme_358 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_FindEntry_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM5960
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,152,18,153,17,68,154,16
@@ -170089,7 +170090,7 @@ Lfde706_end:
 
 	.byte 38,157,3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_EnsureCapacity_int
-	.quad Lme_358
+	.quad Lme_359
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170118,7 +170119,7 @@ Lfde707_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_EnsureCapacity_int
 
-LDIFF_SYM5965=Lme_358 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_EnsureCapacity_int
+LDIFF_SYM5965=Lme_359 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_EnsureCapacity_int
 	.long LDIFF_SYM5965
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,151,8,152,7,68,153,6,154,5
@@ -170133,7 +170134,7 @@ Lfde707_end:
 
 	.byte 38,47
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__cctor
-	.quad Lme_359
+	.quad Lme_35a
 
 	.byte 2,118,16,0
 
@@ -170147,7 +170148,7 @@ Lfde708_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__cctor
 
-LDIFF_SYM5967=Lme_359 - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__cctor
+LDIFF_SYM5967=Lme_35a - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName__cctor
 	.long LDIFF_SYM5967
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -170193,7 +170194,7 @@ LDIFF_SYM5971=LTDIE_386 - Ldebug_info_start
 
 	.byte 37,145,3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryInsert_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_InsertionBehavior
-	.quad Lme_35a
+	.quad Lme_35b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170252,7 +170253,7 @@ Lfde709_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryInsert_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_InsertionBehavior
 
-LDIFF_SYM5982=Lme_35a - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryInsert_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_InsertionBehavior
+LDIFF_SYM5982=Lme_35b - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryInsert_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_InsertionBehavior
 	.long LDIFF_SYM5982
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,147,28,148,27,68,149,26,150,25,68,151,24,152,23,68,153,22
@@ -170307,7 +170308,7 @@ LDIFF_SYM5988=LTDIE_388 - Ldebug_info_start
 
 	.byte 39,41
 	.quad System_Linq_Enumerable_TryGetFirst_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument_bool_
-	.quad Lme_35b
+	.quad Lme_35c
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -170356,7 +170357,7 @@ Lfde710_start:
 	.align 3
 	.quad System_Linq_Enumerable_TryGetFirst_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument_bool_
 
-LDIFF_SYM5997=Lme_35b - System_Linq_Enumerable_TryGetFirst_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument_bool_
+LDIFF_SYM5997=Lme_35c - System_Linq_Enumerable_TryGetFirst_System_Reflection_CustomAttributeTypedArgument_System_Collections_Generic_IEnumerable_1_System_Reflection_CustomAttributeTypedArgument_bool_
 	.long LDIFF_SYM5997
 	.long 0
 	.byte 12,31,0,68,14,208,2,157,42,158,41,68,13,29,68,147,40,148,39,68,149,38,150,37,68,151,36,152,35,68,153,34
@@ -170372,7 +170373,7 @@ Lfde710_end:
 
 	.byte 34,151,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__cctor
-	.quad Lme_362
+	.quad Lme_363
 
 	.byte 2,118,16,0
 
@@ -170386,7 +170387,7 @@ Lfde711_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__cctor
 
-LDIFF_SYM5999=Lme_362 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__cctor
+LDIFF_SYM5999=Lme_363 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__cctor
 	.long LDIFF_SYM5999
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -170401,7 +170402,7 @@ Lfde711_end:
 
 	.byte 43,191,1
 	.quad System_Runtime_CompilerServices_RuntimeHelpers_IsReferenceOrContainsReferences_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_363
+	.quad Lme_364
 
 	.byte 2,118,16,0
 
@@ -170415,7 +170416,7 @@ Lfde712_start:
 	.align 3
 	.quad System_Runtime_CompilerServices_RuntimeHelpers_IsReferenceOrContainsReferences_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM6001=Lme_363 - System_Runtime_CompilerServices_RuntimeHelpers_IsReferenceOrContainsReferences_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM6001=Lme_364 - System_Runtime_CompilerServices_RuntimeHelpers_IsReferenceOrContainsReferences_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM6001
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
@@ -170449,7 +170450,7 @@ LDIFF_SYM6004=LTDIE_389 - Ldebug_info_start
 
 	.byte 38,74
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_364
+	.quad Lme_365
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170488,7 +170489,7 @@ Lfde713_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6011=Lme_364 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6011=Lme_365 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6011
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,148,24,149,23,68,150,22,151,21,68,152,20,153,19,68,154,18
@@ -170503,7 +170504,7 @@ Lfde713_end:
 
 	.byte 37,73
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int_System_Collections_Generic_IEqualityComparer_1_Xamarin_Forms_Xaml_XmlName
-	.quad Lme_365
+	.quad Lme_366
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170532,7 +170533,7 @@ Lfde714_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int_System_Collections_Generic_IEqualityComparer_1_Xamarin_Forms_Xaml_XmlName
 
-LDIFF_SYM6016=Lme_365 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int_System_Collections_Generic_IEqualityComparer_1_Xamarin_Forms_Xaml_XmlName
+LDIFF_SYM6016=Lme_366 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int_System_Collections_Generic_IEqualityComparer_1_Xamarin_Forms_Xaml_XmlName
 	.long LDIFF_SYM6016
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -170574,7 +170575,7 @@ LDIFF_SYM6021=LTDIE_390 - Ldebug_info_start
 
 	.byte 39,77
 	.quad System_Linq_Enumerable_TryGetFirst_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
-	.quad Lme_366
+	.quad Lme_367
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -170628,7 +170629,7 @@ Lfde715_start:
 	.align 3
 	.quad System_Linq_Enumerable_TryGetFirst_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
 
-LDIFF_SYM6031=Lme_366 - System_Linq_Enumerable_TryGetFirst_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
+LDIFF_SYM6031=Lme_367 - System_Linq_Enumerable_TryGetFirst_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
 	.long LDIFF_SYM6031
 	.long 0
 	.byte 12,31,0,68,14,144,3,157,50,158,49,68,13,29,68,148,48,149,47,68,150,46,151,45,68,152,44,153,43,68,154,42
@@ -170643,7 +170644,7 @@ Lfde715_end:
 
 	.byte 44,14
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_367
+	.quad Lme_368
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170667,7 +170668,7 @@ Lfde716_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6035=Lme_367 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6035=Lme_368 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6035
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -170682,7 +170683,7 @@ Lfde716_end:
 
 	.byte 44,17
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_368
+	.quad Lme_369
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170716,7 +170717,7 @@ Lfde717_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM6041=Lme_368 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM6041=Lme_369 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_SortedMap_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM6041
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -170731,7 +170732,7 @@ Lfde717_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_369
+	.quad Lme_36a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170750,7 +170751,7 @@ Lfde718_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM6044=Lme_369 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM6044=Lme_36a - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM6044
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
@@ -170765,7 +170766,7 @@ Lfde718_end:
 
 	.byte 44,34
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
-	.quad Lme_36a
+	.quad Lme_36b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170809,7 +170810,7 @@ Lfde719_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 
-LDIFF_SYM6052=Lme_36a - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
+LDIFF_SYM6052=Lme_36b - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 	.long LDIFF_SYM6052
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15,68,154,14
@@ -170824,7 +170825,7 @@ Lfde719_end:
 
 	.byte 44,54
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
-	.quad Lme_36b
+	.quad Lme_36c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170868,7 +170869,7 @@ Lfde720_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 
-LDIFF_SYM6060=Lme_36b - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
+LDIFF_SYM6060=Lme_36c - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 	.long LDIFF_SYM6060
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,150,20,151,19,68,152,18,153,17,68,154,16
@@ -170883,7 +170884,7 @@ Lfde720_end:
 
 	.byte 44,71
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
-	.quad Lme_36c
+	.quad Lme_36d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170912,7 +170913,7 @@ Lfde721_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 
-LDIFF_SYM6065=Lme_36c - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
+LDIFF_SYM6065=Lme_36d - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 	.long LDIFF_SYM6065
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,147,18,148,17,68,149,16,150,15,68,151,14,152,13,68,153,12
@@ -170928,7 +170929,7 @@ Lfde721_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator_int_int
-	.quad Lme_36d
+	.quad Lme_36e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -170957,7 +170958,7 @@ Lfde722_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator_int_int
 
-LDIFF_SYM6070=Lme_36d - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator_int_int
+LDIFF_SYM6070=Lme_36e - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator_int_int
 	.long LDIFF_SYM6070
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,150,11,68,151,10
@@ -170972,7 +170973,7 @@ Lfde722_end:
 
 	.byte 44,108
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray_int_int
-	.quad Lme_36e
+	.quad Lme_36f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171026,7 +171027,7 @@ Lfde723_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray_int_int
 
-LDIFF_SYM6080=Lme_36e - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray_int_int
+LDIFF_SYM6080=Lme_36f - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray_int_int
 	.long LDIFF_SYM6080
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,147,26,148,25,68,149,24,150,23,68,151,22,152,21,68,153,20
@@ -171042,7 +171043,7 @@ Lfde723_end:
 
 	.byte 44,140,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList_int_int
-	.quad Lme_36f
+	.quad Lme_370
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171091,7 +171092,7 @@ Lfde724_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList_int_int
 
-LDIFF_SYM6089=Lme_36f - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList_int_int
+LDIFF_SYM6089=Lme_370 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList_int_int
 	.long LDIFF_SYM6089
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,148,30,149,29,68,150,28,151,27,68,152,26,153,25,68,154,24
@@ -171106,7 +171107,7 @@ Lfde724_end:
 
 	.byte 44,170,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_int_int_bool
-	.quad Lme_370
+	.quad Lme_371
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171145,7 +171146,7 @@ Lfde725_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_int_int_bool
 
-LDIFF_SYM6096=Lme_370 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_int_int_bool
+LDIFF_SYM6096=Lme_371 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_int_int_bool
 	.long LDIFF_SYM6096
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,150,11,68,152,10,153,9
@@ -171160,7 +171161,7 @@ Lfde725_end:
 
 	.byte 44,184,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerableSorter
-	.quad Lme_371
+	.quad Lme_372
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171179,7 +171180,7 @@ Lfde726_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerableSorter
 
-LDIFF_SYM6099=Lme_371 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerableSorter
+LDIFF_SYM6099=Lme_372 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerableSorter
 	.long LDIFF_SYM6099
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -171194,7 +171195,7 @@ Lfde726_end:
 
 	.byte 44,188,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetComparer
-	.quad Lme_373
+	.quad Lme_374
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171213,7 +171214,7 @@ Lfde727_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetComparer
 
-LDIFF_SYM6102=Lme_373 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetComparer
+LDIFF_SYM6102=Lme_374 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetComparer
 	.long LDIFF_SYM6102
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -171228,7 +171229,7 @@ Lfde727_end:
 
 	.byte 44,192,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
-	.quad Lme_375
+	.quad Lme_376
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171247,7 +171248,7 @@ Lfde728_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM6105=Lme_375 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
+LDIFF_SYM6105=Lme_376 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 	.long LDIFF_SYM6105
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -171262,7 +171263,7 @@ Lfde728_end:
 
 	.byte 44,197,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
-	.quad Lme_376
+	.quad Lme_377
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171286,7 +171287,7 @@ Lfde729_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 
-LDIFF_SYM6109=Lme_376 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
+LDIFF_SYM6109=Lme_377 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 	.long LDIFF_SYM6109
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -171301,7 +171302,7 @@ Lfde729_end:
 
 	.byte 44,199,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
-	.quad Lme_377
+	.quad Lme_378
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171325,7 +171326,7 @@ Lfde730_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 
-LDIFF_SYM6113=Lme_377 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
+LDIFF_SYM6113=Lme_378 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 	.long LDIFF_SYM6113
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -171340,7 +171341,7 @@ Lfde730_end:
 
 	.byte 44,203,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
-	.quad Lme_378
+	.quad Lme_379
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171384,7 +171385,7 @@ Lfde731_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 
-LDIFF_SYM6121=Lme_378 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
+LDIFF_SYM6121=Lme_379 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 	.long LDIFF_SYM6121
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,151,24,152,23,68,153,22,154,21
@@ -171421,7 +171422,7 @@ LDIFF_SYM6125=LTDIE_391 - Ldebug_info_start
 
 	.byte 44,225,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
-	.quad Lme_379
+	.quad Lme_37a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171470,7 +171471,7 @@ Lfde732_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 
-LDIFF_SYM6134=Lme_379 - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
+LDIFF_SYM6134=Lme_37a - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 	.long LDIFF_SYM6134
 	.long 0
 	.byte 12,31,0,68,14,192,3,157,56,158,55,68,13,29,68,152,54,153,53,68,154,52
@@ -171485,7 +171486,7 @@ Lfde732_end:
 
 	.byte 44,252,1
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
-	.quad Lme_37a
+	.quad Lme_37b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171539,7 +171540,7 @@ Lfde733_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
 
-LDIFF_SYM6144=Lme_37a - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
+LDIFF_SYM6144=Lme_37b - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_System_Func_2_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_bool_bool_
 	.long LDIFF_SYM6144
 	.long 0
 	.byte 12,31,0,84,14,160,4,157,68,158,67,68,13,29,68,151,66,152,65,68,153,64,154,63
@@ -171554,7 +171555,7 @@ Lfde733_end:
 
 	.byte 44,157,2
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
-	.quad Lme_37b
+	.quad Lme_37c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171603,7 +171604,7 @@ Lfde734_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 
-LDIFF_SYM6153=Lme_37b - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
+LDIFF_SYM6153=Lme_37c - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 	.long LDIFF_SYM6153
 	.long 0
 	.byte 12,31,0,68,14,192,3,157,56,158,55,68,13,29,68,152,54,153,53,68,154,52
@@ -171618,7 +171619,7 @@ Lfde734_end:
 
 	.byte 44,184,2
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_int_int_bool_
-	.quad Lme_37c
+	.quad Lme_37d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171667,7 +171668,7 @@ Lfde735_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_int_int_bool_
 
-LDIFF_SYM6162=Lme_37c - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_int_int_bool_
+LDIFF_SYM6162=Lme_37d - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_int_int_bool_
 	.long LDIFF_SYM6162
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,150,28,151,27,68,153,26,154,25
@@ -171682,7 +171683,7 @@ Lfde735_end:
 
 	.byte 44,198,2
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Last_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_37d
+	.quad Lme_37e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171736,7 +171737,7 @@ Lfde736_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Last_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6172=Lme_37d - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Last_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6172=Lme_37e - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Last_System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6172
 	.long 0
 	.byte 12,31,0,68,14,240,2,157,46,158,45,68,13,29,68,150,44,151,43,68,152,42,153,41
@@ -171751,7 +171752,7 @@ Lfde736_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_37e
+	.quad Lme_37f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171770,7 +171771,7 @@ Lfde737_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM6175=Lme_37e - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM6175=Lme_37f - System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM6175
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -171785,7 +171786,7 @@ Lfde737_end:
 
 	.byte 38,157,3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_EnsureCapacity_int
-	.quad Lme_37f
+	.quad Lme_380
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171814,7 +171815,7 @@ Lfde738_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_EnsureCapacity_int
 
-LDIFF_SYM6180=Lme_37f - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_EnsureCapacity_int
+LDIFF_SYM6180=Lme_380 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_EnsureCapacity_int
 	.long LDIFF_SYM6180
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,151,8,152,7,68,153,6,154,5
@@ -171829,7 +171830,7 @@ Lfde738_end:
 
 	.byte 38,47
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
-	.quad Lme_380
+	.quad Lme_381
 
 	.byte 2,118,16,0
 
@@ -171843,7 +171844,7 @@ Lfde739_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 
-LDIFF_SYM6182=Lme_380 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
+LDIFF_SYM6182=Lme_381 - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 	.long LDIFF_SYM6182
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -171880,7 +171881,7 @@ LDIFF_SYM6186=LTDIE_392 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__ctor
-	.quad Lme_381
+	.quad Lme_382
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171899,7 +171900,7 @@ Lfde740_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__ctor
 
-LDIFF_SYM6189=Lme_381 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__ctor
+LDIFF_SYM6189=Lme_382 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName__ctor
 	.long LDIFF_SYM6189
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -171914,7 +171915,7 @@ Lfde740_end:
 
 	.byte 34,155,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_Dispose
-	.quad Lme_382
+	.quad Lme_383
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171933,7 +171934,7 @@ Lfde741_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_Dispose
 
-LDIFF_SYM6192=Lme_382 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_Dispose
+LDIFF_SYM6192=Lme_383 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_Dispose
 	.long LDIFF_SYM6192
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -171948,7 +171949,7 @@ Lfde741_end:
 
 	.byte 34,160,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_MoveNext
-	.quad Lme_383
+	.quad Lme_384
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -171967,7 +171968,7 @@ Lfde742_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_MoveNext
 
-LDIFF_SYM6195=Lme_383 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_MoveNext
+LDIFF_SYM6195=Lme_384 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_MoveNext
 	.long LDIFF_SYM6195
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -171982,7 +171983,7 @@ Lfde742_end:
 
 	.byte 34,165,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_get_Current
-	.quad Lme_384
+	.quad Lme_385
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172001,7 +172002,7 @@ Lfde743_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_get_Current
 
-LDIFF_SYM6198=Lme_384 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_get_Current
+LDIFF_SYM6198=Lme_385 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_get_Current
 	.long LDIFF_SYM6198
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -172016,7 +172017,7 @@ Lfde743_end:
 
 	.byte 34,171,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
-	.quad Lme_385
+	.quad Lme_386
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172035,7 +172036,7 @@ Lfde744_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6201=Lme_385 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6201=Lme_386 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6201
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -172050,7 +172051,7 @@ Lfde744_end:
 
 	.byte 34,177,2
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
-	.quad Lme_386
+	.quad Lme_387
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172069,7 +172070,7 @@ Lfde745_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6204=Lme_386 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
+LDIFF_SYM6204=Lme_387 - System_Array_EmptyInternalEnumerator_1_Xamarin_Forms_Xaml_XmlName_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6204
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172106,7 +172107,7 @@ LDIFF_SYM6208=LTDIE_393 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_387
+	.quad Lme_388
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172125,7 +172126,7 @@ Lfde746_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM6211=Lme_387 - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM6211=Lme_388 - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM6211
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172140,7 +172141,7 @@ Lfde746_end:
 
 	.byte 34,155,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
-	.quad Lme_388
+	.quad Lme_389
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172159,7 +172160,7 @@ Lfde747_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 
-LDIFF_SYM6214=Lme_388 - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
+LDIFF_SYM6214=Lme_389 - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Dispose
 	.long LDIFF_SYM6214
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172174,7 +172175,7 @@ Lfde747_end:
 
 	.byte 34,160,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_389
+	.quad Lme_38a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172193,7 +172194,7 @@ Lfde748_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM6217=Lme_389 - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM6217=Lme_38a - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM6217
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172208,7 +172209,7 @@ Lfde748_end:
 
 	.byte 34,165,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_38a
+	.quad Lme_38b
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172227,7 +172228,7 @@ Lfde749_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM6220=Lme_38a - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM6220=Lme_38b - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM6220
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -172242,7 +172243,7 @@ Lfde749_end:
 
 	.byte 34,171,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_38b
+	.quad Lme_38c
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172261,7 +172262,7 @@ Lfde750_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6223=Lme_38b - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6223=Lme_38c - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6223
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -172276,7 +172277,7 @@ Lfde750_end:
 
 	.byte 34,177,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_38c
+	.quad Lme_38d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172295,7 +172296,7 @@ Lfde751_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6226=Lme_38c - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM6226=Lme_38d - System_Array_EmptyInternalEnumerator_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6226
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172310,7 +172311,7 @@ Lfde751_end:
 
 	.byte 38,116
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_set_Capacity_int
-	.quad Lme_38d
+	.quad Lme_38e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172339,7 +172340,7 @@ Lfde752_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_set_Capacity_int
 
-LDIFF_SYM6231=Lme_38d - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_set_Capacity_int
+LDIFF_SYM6231=Lme_38e - System_Collections_Generic_List_1_Xamarin_Forms_Xaml_XmlName_set_Capacity_int
 	.long LDIFF_SYM6231
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6,153,5,68,154,4
@@ -172354,7 +172355,7 @@ Lfde752_end:
 
 	.byte 37,133,4
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize
-	.quad Lme_38e
+	.quad Lme_38f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172373,7 +172374,7 @@ Lfde753_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize
 
-LDIFF_SYM6234=Lme_38e - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize
+LDIFF_SYM6234=Lme_38f - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize
 	.long LDIFF_SYM6234
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -172388,7 +172389,7 @@ Lfde753_end:
 
 	.byte 37,129,3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Initialize_int
-	.quad Lme_38f
+	.quad Lme_390
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172427,7 +172428,7 @@ Lfde754_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Initialize_int
 
-LDIFF_SYM6241=Lme_38f - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Initialize_int
+LDIFF_SYM6241=Lme_390 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Initialize_int
 	.long LDIFF_SYM6241
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,150,10,151,9,68,152,8,153,7
@@ -172464,7 +172465,7 @@ LDIFF_SYM6245=LTDIE_394 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor
-	.quad Lme_390
+	.quad Lme_391
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172483,7 +172484,7 @@ Lfde755_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor
 
-LDIFF_SYM6248=Lme_390 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor
+LDIFF_SYM6248=Lme_391 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument__ctor
 	.long LDIFF_SYM6248
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172498,7 +172499,7 @@ Lfde755_end:
 
 	.byte 34,155,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
-	.quad Lme_391
+	.quad Lme_392
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172517,7 +172518,7 @@ Lfde756_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
 
-LDIFF_SYM6251=Lme_391 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
+LDIFF_SYM6251=Lme_392 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_Dispose
 	.long LDIFF_SYM6251
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172532,7 +172533,7 @@ Lfde756_end:
 
 	.byte 34,160,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
-	.quad Lme_392
+	.quad Lme_393
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172551,7 +172552,7 @@ Lfde757_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
 
-LDIFF_SYM6254=Lme_392 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
+LDIFF_SYM6254=Lme_393 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_MoveNext
 	.long LDIFF_SYM6254
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172566,7 +172567,7 @@ Lfde757_end:
 
 	.byte 34,165,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
-	.quad Lme_393
+	.quad Lme_394
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172585,7 +172586,7 @@ Lfde758_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
 
-LDIFF_SYM6257=Lme_393 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
+LDIFF_SYM6257=Lme_394 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_get_Current
 	.long LDIFF_SYM6257
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -172600,7 +172601,7 @@ Lfde758_end:
 
 	.byte 34,171,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
-	.quad Lme_394
+	.quad Lme_395
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172619,7 +172620,7 @@ Lfde759_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6260=Lme_394 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6260=Lme_395 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6260
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -172634,7 +172635,7 @@ Lfde759_end:
 
 	.byte 34,177,2
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
-	.quad Lme_395
+	.quad Lme_396
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172653,7 +172654,7 @@ Lfde760_start:
 	.align 3
 	.quad System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6263=Lme_395 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
+LDIFF_SYM6263=Lme_396 - System_Array_EmptyInternalEnumerator_1_System_Reflection_CustomAttributeTypedArgument_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6263
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172668,7 +172669,7 @@ Lfde760_end:
 
 	.byte 0,0
 	.quad System_Linq_CachingComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_398
+	.quad Lme_399
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172687,7 +172688,7 @@ Lfde761_start:
 	.align 3
 	.quad System_Linq_CachingComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM6266=Lme_398 - System_Linq_CachingComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM6266=Lme_399 - System_Linq_CachingComparer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM6266
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -172724,7 +172725,7 @@ LDIFF_SYM6270=LTDIE_395 - Ldebug_info_start
 
 	.byte 44,254,3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
-	.quad Lme_399
+	.quad Lme_39a
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172758,7 +172759,7 @@ Lfde762_start:
 	.align 3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 
-LDIFF_SYM6276=Lme_399 - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
+LDIFF_SYM6276=Lme_39a - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 	.long LDIFF_SYM6276
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,151,10,152,9,68,154,8
@@ -172773,7 +172774,7 @@ Lfde762_end:
 
 	.byte 44,242,3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ComputeMap_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
-	.quad Lme_39c
+	.quad Lme_39d
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172812,7 +172813,7 @@ Lfde763_start:
 	.align 3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ComputeMap_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 
-LDIFF_SYM6283=Lme_39c - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ComputeMap_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
+LDIFF_SYM6283=Lme_39d - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ComputeMap_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int
 	.long LDIFF_SYM6283
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,150,8,151,7,68,154,6
@@ -172827,7 +172828,7 @@ Lfde763_end:
 
 	.byte 44,133,4
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int_int
-	.quad Lme_39d
+	.quad Lme_39e
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172871,7 +172872,7 @@ Lfde764_start:
 	.align 3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int_int
 
-LDIFF_SYM6291=Lme_39d - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int_int
+LDIFF_SYM6291=Lme_39e - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Sort_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int_int
 	.long LDIFF_SYM6291
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,150,11,68,152,10
@@ -172886,7 +172887,7 @@ Lfde764_end:
 
 	.byte 44,139,4
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ElementAt_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int
-	.quad Lme_39e
+	.quad Lme_39f
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172920,7 +172921,7 @@ Lfde765_start:
 	.align 3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ElementAt_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int
 
-LDIFF_SYM6297=Lme_39e - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ElementAt_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int
+LDIFF_SYM6297=Lme_39f - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ElementAt_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode___int_int
 	.long LDIFF_SYM6297
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,152,13,68,153,12
@@ -172935,7 +172936,7 @@ Lfde765_end:
 
 	.byte 0,0
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_3a2
+	.quad Lme_3a3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -172954,7 +172955,7 @@ Lfde766_start:
 	.align 3
 	.quad System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM6300=Lme_3a2 - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM6300=Lme_3a3 - System_Linq_EnumerableSorter_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM6300
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173021,7 +173022,7 @@ LDIFF_SYM6310=LTDIE_396 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
-	.quad Lme_3a3
+	.quad Lme_3a4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173045,7 +173046,7 @@ Lfde767_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 
-LDIFF_SYM6314=Lme_3a3 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
+LDIFF_SYM6314=Lme_3a4 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 	.long LDIFF_SYM6314
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
@@ -173060,7 +173061,7 @@ Lfde767_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
-	.quad Lme_3a4
+	.quad Lme_3a5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173079,7 +173080,7 @@ Lfde768_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 
-LDIFF_SYM6317=Lme_3a4 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
+LDIFF_SYM6317=Lme_3a5 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 	.long LDIFF_SYM6317
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173094,7 +173095,7 @@ Lfde768_end:
 
 	.byte 44,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_3a5
+	.quad Lme_3a6
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173128,7 +173129,7 @@ Lfde769_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM6323=Lme_3a5 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM6323=Lme_3a6 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM6323
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,151,18,152,17,68,153,16,154,15
@@ -173143,7 +173144,7 @@ Lfde769_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
-	.quad Lme_3a6
+	.quad Lme_3a7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173162,7 +173163,7 @@ Lfde770_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
 
-LDIFF_SYM6326=Lme_3a6 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
+LDIFF_SYM6326=Lme_3a7 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
 	.long LDIFF_SYM6326
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -173177,7 +173178,7 @@ Lfde770_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_3a7
+	.quad Lme_3a8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173196,7 +173197,7 @@ Lfde771_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6329=Lme_3a7 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM6329=Lme_3a8 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6329
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173211,7 +173212,7 @@ Lfde771_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_3a8
+	.quad Lme_3a9
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173230,7 +173231,7 @@ Lfde772_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6332=Lme_3a8 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6332=Lme_3a9 - System_Linq_OrderedEnumerable_1__GetEnumeratord__3_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6332
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -173277,7 +173278,7 @@ LDIFF_SYM6338=LTDIE_397 - Ldebug_info_start
 
 	.byte 45,31
 	.quad System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_3a9
+	.quad Lme_3aa
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173311,7 +173312,7 @@ Lfde773_start:
 	.align 3
 	.quad System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6344=Lme_3a9 - System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6344=Lme_3aa - System_Linq_Buffer_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6344
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
@@ -173327,7 +173328,7 @@ Lfde773_end:
 
 	.byte 38,60
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
-	.quad Lme_3aa
+	.quad Lme_3ab
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173351,7 +173352,7 @@ Lfde774_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 
-LDIFF_SYM6348=Lme_3aa - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
+LDIFF_SYM6348=Lme_3ab - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 	.long LDIFF_SYM6348
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6,154,5
@@ -173366,7 +173367,7 @@ Lfde774_end:
 
 	.byte 46,14
 	.quad System_Linq_Enumerable_Count_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_3ab
+	.quad Lme_3ac
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -173410,7 +173411,7 @@ Lfde775_start:
 	.align 3
 	.quad System_Linq_Enumerable_Count_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6356=Lme_3ab - System_Linq_Enumerable_Count_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6356=Lme_3ac - System_Linq_Enumerable_Count_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6356
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,147,28,148,27,68,149,26,150,25,68,151,24,152,23,68,153,22
@@ -173483,7 +173484,7 @@ LDIFF_SYM6367=LTDIE_398 - Ldebug_info_start
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
-	.quad Lme_3ac
+	.quad Lme_3ad
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173507,7 +173508,7 @@ Lfde776_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 
-LDIFF_SYM6371=Lme_3ac - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
+LDIFF_SYM6371=Lme_3ad - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_int
 	.long LDIFF_SYM6371
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
@@ -173522,7 +173523,7 @@ Lfde776_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
-	.quad Lme_3ad
+	.quad Lme_3ae
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173541,7 +173542,7 @@ Lfde777_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 
-LDIFF_SYM6374=Lme_3ad - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
+LDIFF_SYM6374=Lme_3ae - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 	.long LDIFF_SYM6374
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173556,7 +173557,7 @@ Lfde777_end:
 
 	.byte 44,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_3ae
+	.quad Lme_3af
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173595,7 +173596,7 @@ Lfde778_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM6381=Lme_3ae - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM6381=Lme_3af - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM6381
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,149,24,150,23,68,151,22,152,21,68,153,20,154,19
@@ -173610,7 +173611,7 @@ Lfde778_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
-	.quad Lme_3af
+	.quad Lme_3b0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173629,7 +173630,7 @@ Lfde779_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
 
-LDIFF_SYM6384=Lme_3af - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
+LDIFF_SYM6384=Lme_3b0 - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerator_TElement_get_Current
 	.long LDIFF_SYM6384
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -173644,7 +173645,7 @@ Lfde779_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_3b0
+	.quad Lme_3b1
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173663,7 +173664,7 @@ Lfde780_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6387=Lme_3b0 - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM6387=Lme_3b1 - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6387
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173678,7 +173679,7 @@ Lfde780_end:
 
 	.byte 0,0
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_3b1
+	.quad Lme_3b2
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173697,7 +173698,7 @@ Lfde781_start:
 	.align 3
 	.quad System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6390=Lme_3b1 - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6390=Lme_3b2 - System_Linq_OrderedEnumerable_1__GetEnumeratord__7_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6390
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
@@ -173712,7 +173713,7 @@ Lfde781_end:
 
 	.byte 34,136,5
 	.quad System_Array_Empty_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
-	.quad Lme_3b2
+	.quad Lme_3b3
 
 	.byte 2,118,16,0
 
@@ -173726,7 +173727,7 @@ Lfde782_start:
 	.align 3
 	.quad System_Array_Empty_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 
-LDIFF_SYM6392=Lme_3b2 - System_Array_Empty_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
+LDIFF_SYM6392=Lme_3b3 - System_Array_Empty_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode
 	.long LDIFF_SYM6392
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -173778,7 +173779,7 @@ LDIFF_SYM6399=LTDIE_399 - Ldebug_info_start
 
 	.byte 47,153,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
-	.quad Lme_3b3
+	.quad Lme_3b4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173812,7 +173813,7 @@ Lfde783_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 
-LDIFF_SYM6405=Lme_3b3 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
+LDIFF_SYM6405=Lme_3b4 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor_System_Linq_OrderedEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_int
 	.long LDIFF_SYM6405
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,151,8
@@ -173827,7 +173828,7 @@ Lfde783_end:
 
 	.byte 47,160,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_3b4
+	.quad Lme_3b5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173846,7 +173847,7 @@ Lfde784_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM6408=Lme_3b4 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM6408=Lme_3b5 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM6408
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -173861,7 +173862,7 @@ Lfde784_end:
 
 	.byte 47,162,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
-	.quad Lme_3b5
+	.quad Lme_3b6
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173880,7 +173881,7 @@ Lfde785_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM6411=Lme_3b5 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
+LDIFF_SYM6411=Lme_3b6 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 	.long LDIFF_SYM6411
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -173914,7 +173915,7 @@ LDIFF_SYM6414=LTDIE_400 - Ldebug_info_start
 
 	.byte 47,166,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
-	.quad Lme_3b6
+	.quad Lme_3b7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173948,7 +173949,7 @@ Lfde786_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 
-LDIFF_SYM6420=Lme_3b6 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
+LDIFF_SYM6420=Lme_3b7 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 	.long LDIFF_SYM6420
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,151,12,152,11,68,153,10
@@ -173963,7 +173964,7 @@ Lfde786_end:
 
 	.byte 47,172,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
-	.quad Lme_3b7
+	.quad Lme_3b8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -173992,7 +173993,7 @@ Lfde787_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 
-LDIFF_SYM6425=Lme_3b7 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
+LDIFF_SYM6425=Lme_3b8 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 	.long LDIFF_SYM6425
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,152,10,153,9
@@ -174007,7 +174008,7 @@ Lfde787_end:
 
 	.byte 47,183,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
-	.quad Lme_3b8
+	.quad Lme_3b9
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174041,7 +174042,7 @@ Lfde788_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 
-LDIFF_SYM6431=Lme_3b8 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
+LDIFF_SYM6431=Lme_3b9 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 	.long LDIFF_SYM6431
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,152,16,153,15,68,154,14
@@ -174056,7 +174057,7 @@ Lfde788_end:
 
 	.byte 47,192,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
-	.quad Lme_3b9
+	.quad Lme_3ba
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174080,7 +174081,7 @@ Lfde789_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 
-LDIFF_SYM6435=Lme_3b9 - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
+LDIFF_SYM6435=Lme_3ba - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 	.long LDIFF_SYM6435
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
@@ -174095,7 +174096,7 @@ Lfde789_end:
 
 	.byte 47,195,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
-	.quad Lme_3ba
+	.quad Lme_3bb
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174119,7 +174120,7 @@ Lfde790_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 
-LDIFF_SYM6439=Lme_3ba - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
+LDIFF_SYM6439=Lme_3bb - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 	.long LDIFF_SYM6439
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
@@ -174134,7 +174135,7 @@ Lfde790_end:
 
 	.byte 47,197,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
-	.quad Lme_3bb
+	.quad Lme_3bc
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174153,7 +174154,7 @@ Lfde791_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 
-LDIFF_SYM6442=Lme_3bb - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
+LDIFF_SYM6442=Lme_3bc - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 	.long LDIFF_SYM6442
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -174168,7 +174169,7 @@ Lfde791_end:
 
 	.byte 47,199,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
-	.quad Lme_3bc
+	.quad Lme_3bd
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174187,7 +174188,7 @@ Lfde792_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 
-LDIFF_SYM6445=Lme_3bc - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
+LDIFF_SYM6445=Lme_3bd - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 	.long LDIFF_SYM6445
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
@@ -174202,7 +174203,7 @@ Lfde792_end:
 
 	.byte 47,201,1
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
-	.quad Lme_3bd
+	.quad Lme_3be
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174226,7 +174227,7 @@ Lfde793_start:
 	.align 3
 	.quad System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 
-LDIFF_SYM6449=Lme_3bd - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
+LDIFF_SYM6449=Lme_3be - System_Linq_OrderedPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 	.long LDIFF_SYM6449
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
@@ -174241,7 +174242,7 @@ Lfde793_end:
 
 	.byte 38,116
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Capacity_int
-	.quad Lme_3be
+	.quad Lme_3bf
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174270,7 +174271,7 @@ Lfde794_start:
 	.align 3
 	.quad System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Capacity_int
 
-LDIFF_SYM6454=Lme_3be - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Capacity_int
+LDIFF_SYM6454=Lme_3bf - System_Collections_Generic_List_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_set_Capacity_int
 	.long LDIFF_SYM6454
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6,153,5,68,154,4
@@ -174285,7 +174286,7 @@ Lfde794_end:
 
 	.byte 37,142,4
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize_int_bool
-	.quad Lme_3bf
+	.quad Lme_3c0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174349,7 +174350,7 @@ Lfde795_start:
 	.align 3
 	.quad System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize_int_bool
 
-LDIFF_SYM6466=Lme_3bf - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize_int_bool
+LDIFF_SYM6466=Lme_3c0 - System_Collections_Generic_Dictionary_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Resize_int_bool
 	.long LDIFF_SYM6466
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,147,18,148,17,68,149,16,150,15,68,151,14,152,13,68,153,12
@@ -174364,7 +174365,7 @@ Lfde795_end:
 
 	.byte 48,97
 	.quad System_Collections_Generic_EnumerableHelpers_ToArray_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_
-	.quad Lme_3c0
+	.quad Lme_3c1
 
 	.byte 2,118,16,3
 	.asciz "source"
@@ -174428,7 +174429,7 @@ Lfde796_start:
 	.align 3
 	.quad System_Collections_Generic_EnumerableHelpers_ToArray_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_
 
-LDIFF_SYM6478=Lme_3c0 - System_Collections_Generic_EnumerableHelpers_ToArray_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_
+LDIFF_SYM6478=Lme_3c1 - System_Collections_Generic_EnumerableHelpers_ToArray_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_int_
 	.long LDIFF_SYM6478
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,148,31,68,149,30,150,29,68,151,28,152,27,68,153,26
@@ -174444,7 +174445,7 @@ Lfde796_end:
 
 	.byte 49,33
 	.quad System_EmptyArray_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
-	.quad Lme_3c1
+	.quad Lme_3c2
 
 	.byte 2,118,16,0
 
@@ -174458,7 +174459,7 @@ Lfde797_start:
 	.align 3
 	.quad System_EmptyArray_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 
-LDIFF_SYM6480=Lme_3c1 - System_EmptyArray_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
+LDIFF_SYM6480=Lme_3c2 - System_EmptyArray_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 	.long LDIFF_SYM6480
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174473,7 +174474,7 @@ Lfde797_end:
 
 	.byte 47,93
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
-	.quad Lme_3c2
+	.quad Lme_3c3
 
 	.byte 2,118,16,0
 
@@ -174487,7 +174488,7 @@ Lfde798_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 
-LDIFF_SYM6482=Lme_3c2 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
+LDIFF_SYM6482=Lme_3c3 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__cctor
 	.long LDIFF_SYM6482
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -174502,7 +174503,7 @@ Lfde798_end:
 
 	.byte 50,57
 	.quad System_Array_Resize_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode____int
-	.quad Lme_3c3
+	.quad Lme_3c4
 
 	.byte 2,118,16,3
 	.asciz "array"
@@ -174536,7 +174537,7 @@ Lfde799_start:
 	.align 3
 	.quad System_Array_Resize_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode____int
 
-LDIFF_SYM6488=Lme_3c3 - System_Array_Resize_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode____int
+LDIFF_SYM6488=Lme_3c4 - System_Array_Resize_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode____int
 	.long LDIFF_SYM6488
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
@@ -174574,7 +174575,7 @@ LDIFF_SYM6492=LTDIE_401 - Ldebug_info_start
 
 	.byte 47,95
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
-	.quad Lme_3c4
+	.quad Lme_3c5
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174593,7 +174594,7 @@ Lfde800_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 
-LDIFF_SYM6495=Lme_3c4 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
+LDIFF_SYM6495=Lme_3c5 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode__ctor
 	.long LDIFF_SYM6495
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174608,7 +174609,7 @@ Lfde800_end:
 
 	.byte 47,99
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
-	.quad Lme_3c5
+	.quad Lme_3c6
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174627,7 +174628,7 @@ Lfde801_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 
-LDIFF_SYM6498=Lme_3c5 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
+LDIFF_SYM6498=Lme_3c6 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetEnumerator
 	.long LDIFF_SYM6498
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174642,7 +174643,7 @@ Lfde801_end:
 
 	.byte 47,101
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
-	.quad Lme_3c6
+	.quad Lme_3c7
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174661,7 +174662,7 @@ Lfde802_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM6501=Lme_3c6 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
+LDIFF_SYM6501=Lme_3c7 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerable_GetEnumerator
 	.long LDIFF_SYM6501
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174676,7 +174677,7 @@ Lfde802_end:
 
 	.byte 47,103
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
-	.quad Lme_3c7
+	.quad Lme_3c8
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174695,7 +174696,7 @@ Lfde803_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 
-LDIFF_SYM6504=Lme_3c7 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
+LDIFF_SYM6504=Lme_3c8 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_MoveNext
 	.long LDIFF_SYM6504
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174710,7 +174711,7 @@ Lfde803_end:
 
 	.byte 47,106
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
-	.quad Lme_3c8
+	.quad Lme_3c9
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174734,7 +174735,7 @@ Lfde804_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 
-LDIFF_SYM6508=Lme_3c8 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
+LDIFF_SYM6508=Lme_3c9 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_get_Current
 	.long LDIFF_SYM6508
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -174749,7 +174750,7 @@ Lfde804_end:
 
 	.byte 47,109
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
-	.quad Lme_3c9
+	.quad Lme_3ca
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174773,7 +174774,7 @@ Lfde805_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM6512=Lme_3c9 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
+LDIFF_SYM6512=Lme_3ca - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_get_Current
 	.long LDIFF_SYM6512
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
@@ -174788,7 +174789,7 @@ Lfde805_end:
 
 	.byte 47,111
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
-	.quad Lme_3ca
+	.quad Lme_3cb
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174807,7 +174808,7 @@ Lfde806_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM6515=Lme_3ca - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
+LDIFF_SYM6515=Lme_3cb - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_Collections_IEnumerator_Reset
 	.long LDIFF_SYM6515
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -174822,7 +174823,7 @@ Lfde806_end:
 
 	.byte 47,116
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
-	.quad Lme_3cb
+	.quad Lme_3cc
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174841,7 +174842,7 @@ Lfde807_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 
-LDIFF_SYM6518=Lme_3cb - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
+LDIFF_SYM6518=Lme_3cc - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_System_IDisposable_Dispose
 	.long LDIFF_SYM6518
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
@@ -174856,7 +174857,7 @@ Lfde807_end:
 
 	.byte 47,118
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
-	.quad Lme_3cc
+	.quad Lme_3cd
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174880,7 +174881,7 @@ Lfde808_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 
-LDIFF_SYM6522=Lme_3cc - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
+LDIFF_SYM6522=Lme_3cd - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Skip_int
 	.long LDIFF_SYM6522
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -174895,7 +174896,7 @@ Lfde808_end:
 
 	.byte 47,120
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
-	.quad Lme_3cd
+	.quad Lme_3ce
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174919,7 +174920,7 @@ Lfde809_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 
-LDIFF_SYM6526=Lme_3cd - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
+LDIFF_SYM6526=Lme_3ce - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_Take_int
 	.long LDIFF_SYM6526
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -174934,7 +174935,7 @@ Lfde809_end:
 
 	.byte 47,124
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
-	.quad Lme_3ce
+	.quad Lme_3cf
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -174968,7 +174969,7 @@ Lfde810_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 
-LDIFF_SYM6532=Lme_3ce - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
+LDIFF_SYM6532=Lme_3cf - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetElementAt_int_bool_
 	.long LDIFF_SYM6532
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29
@@ -174983,7 +174984,7 @@ Lfde810_end:
 
 	.byte 47,130,1
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
-	.quad Lme_3cf
+	.quad Lme_3d0
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -175012,7 +175013,7 @@ Lfde811_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 
-LDIFF_SYM6537=Lme_3cf - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
+LDIFF_SYM6537=Lme_3d0 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetFirst_bool_
 	.long LDIFF_SYM6537
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -175027,7 +175028,7 @@ Lfde811_end:
 
 	.byte 47,136,1
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
-	.quad Lme_3d0
+	.quad Lme_3d1
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -175056,7 +175057,7 @@ Lfde812_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 
-LDIFF_SYM6542=Lme_3d0 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
+LDIFF_SYM6542=Lme_3d1 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_TryGetLast_bool_
 	.long LDIFF_SYM6542
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
@@ -175071,7 +175072,7 @@ Lfde812_end:
 
 	.byte 47,140,1
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
-	.quad Lme_3d1
+	.quad Lme_3d2
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -175090,7 +175091,7 @@ Lfde813_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 
-LDIFF_SYM6545=Lme_3d1 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
+LDIFF_SYM6545=Lme_3d2 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToArray
 	.long LDIFF_SYM6545
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -175105,7 +175106,7 @@ Lfde813_end:
 
 	.byte 47,142,1
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
-	.quad Lme_3d2
+	.quad Lme_3d3
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -175124,7 +175125,7 @@ Lfde814_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 
-LDIFF_SYM6548=Lme_3d2 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
+LDIFF_SYM6548=Lme_3d3 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_ToList
 	.long LDIFF_SYM6548
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
@@ -175139,7 +175140,7 @@ Lfde814_end:
 
 	.byte 47,144,1
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
-	.quad Lme_3d3
+	.quad Lme_3d4
 
 	.byte 2,118,16,3
 	.asciz "this"
@@ -175163,7 +175164,7 @@ Lfde815_start:
 	.align 3
 	.quad System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 
-LDIFF_SYM6552=Lme_3d3 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
+LDIFF_SYM6552=Lme_3d4 - System_Linq_EmptyPartition_1_System_Collections_Generic_KeyValuePair_2_Xamarin_Forms_Xaml_XmlName_Xamarin_Forms_Xaml_INode_GetCount_bool
 	.long LDIFF_SYM6552
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29

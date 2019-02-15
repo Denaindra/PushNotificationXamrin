@@ -1224,7 +1224,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "505CC1EA-2774-4727-80B0-B8FC83A4EB2D"
+	.asciz "DD016E8E-8AAC-4D92-906E-CB8E68AC1BF2"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -1309,7 +1309,7 @@ _mono_aot_file_info:
 	.long 40,1144,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 244,116,150,70,176,162,113,0,59,125,6,188,207,247,202,0
+	.byte 202,197,131,113,150,74,6,148,164,76,89,190,235,3,79,8
 	.globl _mono_aot_module_PushNotificationXamrin_iOS_info
 	.align 3
 _mono_aot_module_PushNotificationXamrin_iOS_info:
