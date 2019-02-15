@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{0820E8DD-A128-4124-BAF5-F8ABF6E54833}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PushNotificationXamrin Status">
     <Files>
-      <File FileName="PushNotificationXamrin.iOS/AppDelegate.cs" Line="42" Column="14" />
+      <File FileName="PushNotificationXamrin.iOS/AppDelegate.cs" Line="11" Column="37" />
       <File FileName="PushNotificationXamrin Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

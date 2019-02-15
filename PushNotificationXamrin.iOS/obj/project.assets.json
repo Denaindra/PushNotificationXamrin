@@ -1180,12 +1180,6 @@
         }
       }
     },
-    "dependencies": {
-      "Xamarin.Firebase.iOS.CloudMessaging": {
-        "target": "Package",
-        "version": "[2.0.8.1, )"
-      }
-    },
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
@@ -1196,6 +1190,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "12.0.1"
+          },
+          "Xamarin.Firebase.iOS.CloudMessaging": {
+            "target": "Package",
+            "version": "2.0.8.1"
           }
         }
       }
